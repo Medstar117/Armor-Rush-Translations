@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en_US\n"
@@ -60,7 +60,7 @@ msgstr ""
 #: DESC:PLAYERPOWERHIGHTECHNOLOGY
 msgctxt "DESC:PLAYERPOWERHIGHTECHNOLOGY"
 msgid "为你的部分部队升级高科技设备，提升冷冻光束和特殊技能的威力！作用于警犬、超时空军团兵、守护者坦克、冷冻直升机和航空母舰。"
-msgstr "Powers up the special abilities of Attack Dogs, Chrono Legionnaires, Guardian Tanks, Cryocopters and Aircraft Carriers!"
+msgstr "Powers up the special abilities of Attack Dogs, Chrono Legionnaires, Guardian Tanks, Cryocopters, and Aircraft Carriers!"
 
 #. Modified existing RA3 String
 #: NAME:PLAYERPOWERTIMEBOMBLVL1
@@ -100,7 +100,6 @@ msgstr "Infantry Combat Upgrade"
 
 #. New in Armor Rush
 #: DESCRIPTION:AirForceBarracksSpeed
-#, fuzzy
 msgctxt "DESCRIPTION:AirForceBarracksSpeed"
 msgid ""
 "加强对步兵们的训练，提高他们的各种能力。\n"
@@ -112,29 +111,20 @@ msgid ""
 "\n"
 "开始研究>>"
 msgstr ""
-"Strengthen the training of infantry and improve their various abilities.\n"
+"Intensify the training of infantry to improve their various abilities.\n"
 "\n"
-">>Improve combat capability\n"
+">>Improves combat capability\n"
 "      Hawkeye Infantry\n"
 "\n"
-"      Increase in speed, attack speed, and experience gained\n"
+"      Increases movement speed, attack speed, and rate of experience gain\n"
 "\n"
-"Start research >>\n"
-"\n"
-"Strengthen the infantry training, improve their various abilities.\n"
-"\n"
-">> improve our combat capabilities.\n"
-"     Hawkeye infantry.\n"
-"\n"
-"Speed, attack speed, gain experience increase.\n"
-"\n"
-"Start researching >>."
+"Start research >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:AirForceBarracksSpeed
 msgctxt "UPGRADEPREREQ:AirForceBarracksSpeed"
 msgid "训练程序升级"
-msgstr "Integrated Training Programme"
+msgstr "Integrated Training Program"
 
 #. New in Armor Rush
 #: UPGRADENAME:AirForcePortCargo
@@ -302,7 +292,6 @@ msgstr "Ultimate Air Force Upgrade"
 
 #. New in Armor Rush
 #: DESCRIPTION:AirForceTechAir
-#, fuzzy
 msgctxt "DESCRIPTION:AirForceTechAir"
 msgid ""
 "完全启用鹰眼最强大的空军力量，夺取天空的控制权。\n"
@@ -318,31 +307,18 @@ msgid ""
 "\n"
 "开始升级>>"
 msgstr ""
-"Fully use Hawkeye's most powerful air force to seize control of the sky.\n"
+"Fully utilize Hawkeye's most powerful air force to seize control of the skies.\n"
 "\n"
-">>Accelerate experience gain & damage increase\n"
-"      air force\n"
-"      Experience gain x2.5\n"
+">>Accelerate experience gain and increase damage\n"
+"      Air Force\n"
+"      Experience gain: x2.5\n"
 "\n"
-"      Peacekeeping bomber\n"
-"      Millennium bomber\n"
-"      Vanguard gunship\n"
-"      Damage +30%\n"
+"      Peacekeeper Bomber\n"
+"      Millennium Bomber\n"
+"      Vanguard Gunship\n"
+"      Damage: +30%\n"
 "\n"
-"Start upgrading >>\n"
-"\n"
-"Fully enable Hawkeye's most powerful air force to take control of the sky.\n"
-"\n"
-">> speed up experience acquisition and injury improvement.\n"
-"     Air force.\n"
-"     Experience gets x2.5.\n"
-"\n"
-"Peacekeeping bombers.\n"
-"     Millennium Bomber.\n"
-"     Pioneer armed gunboat machine.\n"
-"     Damage: 30%\n"
-"\n"
-"Start upgrading >>."
+"Start upgrading >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:AirForceTechAir
@@ -364,7 +340,6 @@ msgstr "Elite Infantry Upgrade"
 
 #. New in Armor Rush
 #: DESCRIPTION:AirForceTechInfantry
-#, fuzzy
 msgctxt "DESCRIPTION:AirForceTechInfantry"
 msgid ""
 "获得此项升级后，能提高步兵在战场上的存活性。\n"
@@ -376,23 +351,14 @@ msgid ""
 "\n"
 "开始升级>>"
 msgstr ""
-"After getting this upgrade, it can improve the survivability of infantry on the battlefield.\n"
+"With this upgrade, the survivability of infantry on the battlefield is enhanced.\n"
 "\n"
-">>Strengthening combat capability\n"
+">> Improves combat capability\n"
 "      Hawkeye Infantry\n"
 "\n"
-"      Health boost\n"
+"      Health Boost\n"
 "\n"
-"Start upgrading >>\n"
-"\n"
-"With this upgrade, infantry survival on the battlefield can be improved.\n"
-"\n"
-">> capability is enhanced.\n"
-"     Hawkeye infantry.\n"
-"\n"
-"The value of life increases.\n"
-"\n"
-"Start upgrading >>."
+"Start upgrading >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:AirForceTechInfantry
@@ -700,7 +666,6 @@ msgstr "Infantry Stealth Upgrade"
 
 #. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
 #: DESCRIPTION:IceBarracksDisguise
-#, fuzzy
 msgctxt "DESCRIPTION:IceBarracksDisguise"
 msgid ""
 "更新步兵装备的作战模块，在提高生存能力的同时能使步兵在非开火时融入周围的环境。\n"
@@ -714,30 +679,17 @@ msgid ""
 "\n"
 "开始更新>>"
 msgstr ""
-"Updating the combat module of infantry equipment, while improving survivability, enables infantry to blend into the surrounding environment "
-"when not firing.\n"
+"Updates the combat module in all infantry equipment, improving survivability and enabling infantry to blend into their surroundings when "
+"not firing.\n"
 "\n"
-">>Improve combat capability\n"
-"      Nemesis infantry, fence\n"
+">>Improves combat capability\n"
+"      Nemesis infantry, walls\n"
 "     \n"
-"      Health value, vision increased\n"
+"      Increased health, improved vision\n"
 "      Damage reduction\n"
 "      Invisible when not firing\n"
 "\n"
-"Start update >>\n"
-"\n"
-"\n"
-"Update the infantry equipment's combat module to improve survivability while enabling infantry to integrate into the surrounding "
-"environment when not firing.\n"
-"\n"
-">> improve our combat capabilities.\n"
-"     Nemesis Infantry, Wall.\n"
-"     \n"
-"Life value, field of view increased.\n"
-"     Damage is reduced.\n"
-"     Invisible when not firing.\n"
-"\n"
-"Start updating >>."
+"Start update >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:IceBarracksDisguise
@@ -881,10 +833,9 @@ msgstr "Advanced Cyro Weaponry"
 
 #. New in Armor Rush
 #: UPGRADENAME:IceBarracksSpeed
-#, fuzzy
 msgctxt "UPGRADENAME:IceBarracksSpeed"
 msgid "动力外骨骼"
-msgstr "Power Exoskeleton"
+msgstr "Powered Exoskeleton"
 
 #. New in Armor Rush
 #: UPGRADETYPE:IceBarracksSpeed
@@ -894,7 +845,6 @@ msgstr "Infantry Health/Speed Upgrade"
 
 #. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
 #: DESCRIPTION:IceBarracksSpeed
-#, fuzzy
 msgctxt "DESCRIPTION:IceBarracksSpeed"
 msgid ""
 "为步兵装备新型的动力外骨骼，有效提升步兵的机动能力和载重量，允许步兵携带更重与更先进的装备。\n"
@@ -907,28 +857,16 @@ msgid ""
 "\n"
 "开始整合>>"
 msgstr ""
-"Equip infantry with a new type of power exoskeleton, which effectively improves the mobility and load capacity of infantry, allowing "
-"infantry to carry heavier and more advanced equipment.\n"
+"Equip infantry with a new powered exoskeleton, effectively increasing their mobility and carrying capacity, allowing them to carry heavier "
+"and more advanced equipment.\n"
 "\n"
-">>Speed increase\n"
-"      Nemesis Infantry\n"
+">>Movement speed increase\n"
+"      Nemesis infantry\n"
 "\n"
-"      Speed +30%\n"
-"      Health +20%\n"
+"      Movement speed: +30%\n"
+"      Health: +20%\n"
 "\n"
-"Start integration >>\n"
-"\n"
-"\n"
-"Equipped infantry with new dynamic exoskeletons, it effectively enhances infantry mobility and load, allowing infantry to carry heavier and "
-"more advanced equipment.\n"
-"\n"
-">> speed is increased.\n"
-"     Nemesis Infantry.\n"
-"\n"
-"Speed: 30%\n"
-"     Life value: 20%\n"
-"\n"
-"Start integrating >>."
+"Start integration >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:IceBarracksSpeed
@@ -950,7 +888,6 @@ msgstr "Dolphin Upgrade"
 
 #. New in Armor Rush, NOTE: See Dolphin name in AlliedUnits
 #: DESCRIPTION:IceNavalSonic
-#, fuzzy
 msgctxt "DESCRIPTION:IceNavalSonic"
 msgid ""
 "涅墨西斯先进的声波武器，能瘫痪水下的潜艇，是最先进的声波武器。\n"
@@ -962,24 +899,14 @@ msgid ""
 "\n"
 "开始安装>>"
 msgstr ""
-"Nemesis’s advanced sonic weapon can paralyze underwater submarines and is the most advanced sonic weapon.\n"
+"NEMESIS’s advanced sonic weapons are capable of paralyzing submarines underwater.\n"
 "\n"
 ">>Install advanced sonic weapons\n"
-"      dolphin\n"
+"      Dolphins\n"
 "\n"
-"      Weapon can be submarine\n"
+"      Weapons can be used against submarine.\n"
 "\n"
-"Start installation>>\n"
-"\n"
-"\n"
-"Nemesis's advanced sonic weapon, which can paralyze submarines underwater, is the most advanced sonic weapon.\n"
-"\n"
-">> are also required to install advanced sonic weapons.\n"
-"     Dolphins.\n"
-"\n"
-"Weapons can dive.\n"
-"\n"
-"Start installing >>."
+"Start installation >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:IceNavalSonic
@@ -1001,7 +928,6 @@ msgstr "Base Defense Upgrade"
 
 #. New in Armor Rush
 #: DESCRIPTION:IceTechDefense
-#, fuzzy
 msgctxt "DESCRIPTION:IceTechDefense"
 msgid ""
 "与盟军本部签署新的防卫协议，保护正在研究的新科技。\n"
@@ -1018,34 +944,19 @@ msgid ""
 "\n"
 "开始协商>>"
 msgstr ""
-"Sign a new defense agreement with the headquarters of the Allied Forces to protect the new technology under study.\n"
+"Sign a new defense agreement with Allied headquarters to protect the new technology being researched.\n"
 "\n"
 ">>Defense Agreement\n"
-"      Production building, Ares Destroyer\n"
-"      HP+15%\n"
+"      Production buildings, Ares Destroyer\n"
+"      Health: +15%\n"
 "\n"
-"      Defense tower\n"
-"      HP +25%\n"
+"      Defense towers\n"
+"      Health: +25%\n"
 "\n"
-">>Strategic allocation priority\n"
-"      Agreement cooling time -15%\n"
+">>Prioritize Strategies\n"
+"      Protocol cooling time: -15%\n"
 "\n"
-"Start negotiation >>\n"
-"\n"
-"\n"
-"Sign a new defense agreement with the Allied forces to protect new technologies under study.\n"
-"\n"
-">> defense agreement.\n"
-"     Production building, Ares Destroyer.\n"
-"     Blood volume: 15%\n"
-"\n"
-"Defensive tower.\n"
-"     Blood volume: 25%\n"
-"\n"
-">> strategy is prioritized.\n"
-"     Protocol cooling time -15%\n"
-"\n"
-"Start negotiating >>."
+"Start negotiation >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:IceTechDefense
@@ -1111,7 +1022,6 @@ msgstr "Battlefield Reconnaissance"
 
 #. New in Armor Rush
 #: DESCRIPTION:IceTechScout
-#, fuzzy
 msgctxt "DESCRIPTION:IceTechScout"
 msgid ""
 "连线位于太空轨道的精确侦察卫星，当卫星运行到战场上空时，便可接收到整个战场的短暂影像。\n"
@@ -1124,27 +1034,16 @@ msgid ""
 "\n"
 "开始连接>>"
 msgstr ""
-"Connecting to a precision reconnaissance satellite in space orbit, when the satellite moves over the battlefield, it can receive a brief "
-"image of the entire battlefield.\n"
+"Connect to a precision reconnaissance satellite in orbit; when the satellite moves over the battlefield, it can receive a brief image of "
+"the entire battlefield.\n"
 "\n"
-">>Connect Spy Satellite\n"
-"      Electricity-75\n"
+">>Connect to Spy Satellite\n"
+"      Power: -75\n"
 "\n"
-"      Battlefield vision 8s\n"
-"      Dark time 120s\n"
+"      Battlefield vision: 8s\n"
+"      Recharge: 120s\n"
 "\n"
-"Start to connect >>\n"
-"\n"
-"\n"
-"An accurate reconnaissance satellite in orbit that receives short images of the entire battlefield as it travels into the air.\n"
-"\n"
-">> is connected to a spy satellite.\n"
-"     Power-75.\n"
-"\n"
-"Battlefield Vision 8s.\n"
-"     Dark Time 120s.\n"
-"\n"
-"Start connecting >>."
+"Establish connection >>"
 
 #. New in Armor Rush
 #: UPGRADEPREREQ:IceTechScout
@@ -1391,7 +1290,6 @@ msgstr "Nemesis uses these structures to continue to develop advanced technologi
 #. New in Armor Rush
 #. NOTE: NEMESIS's base defense
 #: NAME:AlliedBaseDefenseIce
-#, fuzzy
 msgctxt "NAME:AlliedBaseDefenseIce"
 msgid "AT-47防御炮台"
 msgstr "AT-47 Defense Turret"
@@ -1509,29 +1407,18 @@ msgstr ""
 
 #. New in Armor Rush
 #: UPGRADENAME:IceBarracksOptimize
-#, fuzzy
 msgctxt "UPGRADENAME:IceBarracksOptimize"
 msgid "配件整合"
-msgstr ""
-"Accessory integration\n"
-"\n"
-"\n"
-"Accessories integration."
+msgstr "Accessory integration"
 
 #. New in Armor Rush
 #: UPGRADETYPE:IceBarracksOptimize
-#, fuzzy
 msgctxt "UPGRADETYPE:IceBarracksOptimize"
 msgid "基础强化"
-msgstr ""
-"Foundation strengthening\n"
-"\n"
-"\n"
-"Foundation hardening."
+msgstr "Foundation reinforcement"
 
 #. New in Armor Rush
 #: DESCRIPTION:IceBarracksOptimize
-#, fuzzy
 msgctxt "DESCRIPTION:IceBarracksOptimize"
 msgid ""
 "将步兵身上的配件进行整合与统一，小幅提升步兵的作战能力，为新型装备升级留下空间。\n"
@@ -1547,116 +1434,71 @@ msgid ""
 "\n"
 "开始整合>>"
 msgstr ""
-"Integrate and unify the accessories of the infantry to slightly improve the combat capability of the infantry, leaving room for new "
-"equipment upgrades.\n"
+"Combine previously-integrated accessories on infantry equipment to slightly improve combat capability, leaving room for new equipment "
+"upgrades. \n"
 "\n"
-">>Increase basic combat power\n"
+">>Increase combat capability\n"
 "      Nemesis Infantry\n"
 "\n"
-"      Speed +2.5%, health +10%\n"
+"      Movement speed: +2.5%\n"
+"      Health: +10%\n"
 "\n"
 "      Javelinmen\n"
 "\n"
-"      Speed +10%, health +20%\n"
+"      Movement speed: +10%\n"
+"      Health: +20%\n"
 "\n"
-"Start integration >>\n"
-"\n"
-"\n"
-"Integrate and unify the accessories on the infantry, slightly improve the infantry's combat capability, leaving room for new equipment "
-"upgrades.\n"
-"\n"
-">> the basic combat power is enhanced.\n"
-"     Nemesis Infantry.\n"
-"\n"
-"Speed: 2.5%, life, 10%\n"
-"\n"
-"Jatrooper.\n"
-"\n"
-"Speed: 10%, life value, 20%\n"
-"\n"
-"Start integrating >>."
+"Start integration >>"
 
 #. New in Armor Rush
 #: NAME:AlliedHeavyTankForceArmorSpecialPower
-#, fuzzy
 msgctxt "NAME:AlliedHeavyTankForceArmorSpecialPower"
 msgid "启动力场装甲"
-msgstr "Start Force Field Armor"
+msgstr "Activate Force Field Armor"
 
 #. New in Armor Rush
 #: DESC:AlliedHeavyTankForceArmorSpecialPower
-#, fuzzy
 msgctxt "DESC:AlliedHeavyTankForceArmorSpecialPower"
 msgid "暂时启动力场发生器，生成特殊力场增强装甲强度，同时免疫大部分极端环境危害与电磁脉冲。启动期间将被迫关闭主炮和火箭发射器。"
 msgstr ""
-"Temporarily activate the force field generator to generate a special force field to increase the armor strength, while being immune to most "
-"extreme environmental hazards and electromagnetic pulses. During start-up, the main gun and rocket launcher will be forced to shut down.\n"
-"\n"
-"\n"
-"Temporarily activate the force field generator to generate a special force field to enhance armor strength, while immunized against most "
-"extreme environmental hazards and electromagnetic pulses. The main gun and rocket launcher will be forced to shut down during start-up."
+"Temporarily activates the force field generator, generating a special force field to increase armor strength and resistance to the effects "
+"of extreme environmental hazards and electromagnetic pulses. During activation, the main gun and rocket launcher will be deactivated."
 
 #. New in Armor Rush
 #: NAME:ActivateAlliedBaseDefenseIceAntiSubMode
-#, fuzzy
 msgctxt "NAME:ActivateAlliedBaseDefenseIceAntiSubMode"
 msgid "反潜火箭"
 msgstr "Anti-Submarine Rocket"
 
 #. New in Armor Rush
 #: DESC:ActivateAlliedBaseDefenseIceAntiSubMode
-#, fuzzy
 msgctxt "DESC:ActivateAlliedBaseDefenseIceAntiSubMode"
 msgid "将AT47防御塔切换为反潜模式，装填反潜导弹攻击敌方潜艇。此模式下将无法对空。"
-msgstr ""
-"Switch the AT47 defense tower to anti-submarine mode, load anti-submarine missiles to attack enemy submarines. In this mode, it cannot be "
-"airborne.\n"
-"\n"
-"\n"
-"Switch the AT47 defense tower to anti-submarine mode and fill it with anti-submarine missiles to attack enemy submarines. This mode will "
-"not be available to the air."
+msgstr "Switch the AT-47 defenses to anti-submarine mode and load it with anti-submarine missiles. In this mode, it cannot be airborne."
 
 #. New in Armor Rush
 #: NAME:ActivateAlliedBaseDefenseIceAntiSubModeOff
-#, fuzzy
 msgctxt "NAME:ActivateAlliedBaseDefenseIceAntiSubModeOff"
 msgid "对空导弹"
-msgstr "Anti-Air Missiles"
+msgstr "Anti-Aircraft Missiles"
 
 #. New in Armor Rush
 #: DESC:ActivateAlliedBaseDefenseIceAntiSubModeOff
-#, fuzzy
 msgctxt "DESC:ActivateAlliedBaseDefenseIceAntiSubModeOff"
 msgid "将AT47防御塔切换为对空模式，装填对空导弹攻击敌方飞行器。此模式下将无法反潜。"
-msgstr ""
-"Switch the AT47 defensive tower to air-to-air mode, and load air-to-air missiles to attack enemy aircraft. Anti-passback is not possible in "
-"this mode.\n"
-"\n"
-"\n"
-"Switch the AT47 defense tower to air-to-air mode and fill it with air-to-air missiles to attack enemy aircraft. You will not be able to "
-"dive back in this mode."
+msgstr "Switch the AT-47 defenses to anti-aircraft mode and load anti-air missiles. In this mode, it cannot be submerged."
 
 #. New in Armor Rush
 #. NOTE: Ability of NEMESIS commando
 #: DESC:TimeBeltIceSpecialPower
-#, fuzzy
 msgctxt "DESC:TimeBeltIceSpecialPower"
 msgid "银鸥的改进型时空腰带能更快把她恢复到片刻之前的状态。"
-msgstr ""
-"Silver Gull's improved time belt can restore her to the state it was a moment ago faster.\n"
-"\n"
-"\n"
-"Silver Gull's improved space-time belt will restore her to her previous state more quickly."
+msgstr "Silver Gull's improved temporal belt will restore her to an earlier state much faster."
 
 #. New in Armor Rush
 #: DESC:AbilityUnPackAlliedIceMiner
-#, fuzzy
 msgctxt "DESC:AbilityUnPackAlliedIceMiner"
 msgid "开始展开成控制中心，为涅普顿坦克提供指挥信号，并解锁额外建造序列协助基地建设。"
 msgstr ""
-"Begin to expand into a control center, provide command signals for Neptune tanks, and unlock additional construction sequences to assist in "
-"base construction.\n"
-"\n"
-"\n"
-"Start unfolding into a control center to provide command signals for The Upton tank and unlock additional construction sequences to assist "
-"in the construction of the base."
+"Begin to expand into a control center to provide command signals for Neptune tanks and to unlock additional construction sequences to "
+"assist in base construction."
