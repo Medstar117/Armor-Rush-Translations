@@ -1,0 +1,1333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Modified existing RA3 String
+#: DESC:AIRPORTTECHBUILDING
+msgctxt "DESC:AIRPORTTECHBUILDING"
+msgid ""
+"在使用工程师占领该建筑后，这个建筑将为我方提供飞行器维修服务与"
+"空降指引塔台。"
+msgstr ""
+"After capturing with an engineer, this structure can provide "
+"repair service for friendly airborne units. This structure "
+"also guide paratroopers."
+
+#. Modified existing RA3 String
+#: NAME:ALLIEDSALVAGESHIP
+msgctxt "NAME:ALLIEDSALVAGESHIP"
+msgid "维修船"
+msgstr "Repair Ship"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDSALVAGESHIP
+msgctxt "TYPE:ALLIEDSALVAGESHIP"
+msgid "舰队支援"
+msgstr "Fleet Support"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDSALVAGESHIP
+msgctxt "DESC:ALLIEDSALVAGESHIP"
+msgid ""
+"这种经过特殊改装的船只能为周围友军提供援助，尽管装甲薄弱，但她"
+"能增强整个舰队的存活性。"
+msgstr ""
+"This special ship provides support for friendly ships nearby "
+"and increase survival ability for the whole fleet."
+
+#. Modified existing RA3 String
+#: DESC:INFILTRATEDVISION
+msgctxt "DESC:INFILTRATEDVISION"
+msgid "建筑被渗透！被获得视野。"
+msgstr ""
+"» Structure Infiltrated! Vision of this structure is exposed "
+"to infiltrators."
+
+#. Modified existing RA3 String
+#: DESC:ABILITYUNPACKJAPANBASEDEFENSEADVANCEDEGG
+#, fuzzy
+msgctxt "DESC:ABILITYUNPACKJAPANBASEDEFENSEADVANCEDEGG"
+msgid "开始纳米释放过程，迅速建成RX轨道炮台。"
+msgstr ""
+"The nano release process began and the RX orbital fort was "
+"quickly built.\n"
+"\n"
+"\n"
+"Start the nano-release process and quickly build the RX "
+"orbital turret."
+
+#. Modified existing RA3 String
+#: DESC:ABILITYUNPACKJAPANTECHSTRUCTUREEGG
+#, fuzzy
+msgctxt "DESC:ABILITYUNPACKJAPANTECHSTRUCTUREEGG"
+msgid "开始纳米释放过程，迅速建成纳米科技电脑主机。"
+msgstr ""
+"Started the nano-release process and quickly built a nano-"
+"technology computer host.\n"
+"\n"
+"\n"
+"Start the nano-release process and quickly build a nano-"
+"technology computer host."
+
+#. Modified existing RA3 String
+#. NOTE: (Should be) guardian tank
+#: DESC:ACTIVATETARGETPAINTEROFF
+#, fuzzy
+msgctxt "DESC:ACTIVATETARGETPAINTEROFF"
+msgid "切换到120mm滑膛炮，能够有效对付敌人装甲部队。"
+msgstr ""
+"Switching to the 120mm smoothbore gun can effectively deal "
+"with enemy armored forces.\n"
+"\n"
+"\n"
+"Switch to a 120mm musket that can effectively counter enemy "
+"armored units."
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDANTIINFANTRYINFANTRY
+#, fuzzy
+msgctxt "DESC:ALLIEDANTIINFANTRYINFANTRY"
+msgid "坚韧的前线步兵，用卡宾枪和防弹盾牌守卫着自己的事业。"
+msgstr ""
+"The tough frontline infantry guards his career with carbines "
+"and bulletproof shields.\n"
+"\n"
+"\n"
+"Tough front-line infantry, guarding their cause with carbines "
+"and bulletproof shields."
+
+#. Modified existing RA3 String
+#. NOTE: Should be apoc tank
+#: DESC:HARPOONSPECIALPOWEROFF
+#, fuzzy
+msgctxt "DESC:HARPOONSPECIALPOWEROFF"
+msgid "切换到双联152mm滑膛炮，可以轻松摧毁一切脆弱的装甲。"
+msgstr ""
+"Switching to the twin 152mm smoothbore gun can easily destroy "
+"all fragile armor.\n"
+"\n"
+"\n"
+"Switch to a dual 152mm musket that can easily destroy all "
+"fragile armor."
+
+#. New in Armor Rush
+#: NAME:RadarScan
+msgctxt "NAME:RadarScan"
+msgid "启动长距离扫描仪"
+msgstr "Use long-range radar"
+
+#. New in Armor Rush
+#: TYPE:RadarScan
+#, fuzzy
+msgctxt "TYPE:RadarScan"
+msgid "战区扫描"
+msgstr "Radar Scan"
+
+#. New in Armor Rush
+#: DESC:RadarScan
+msgctxt "DESC:RadarScan"
+msgid "启动长距离扫描仪，扫描目标区域状况。"
+msgstr "Use long-range radar to scan target areas."
+
+#. New in Armor Rush
+#: NAME:RedAlert
+msgctxt "NAME:RedAlert"
+msgid "戒严"
+msgstr "Curfew"
+
+#. New in Armor Rush
+#: TYPE:RedAlert
+#, fuzzy
+msgctxt "TYPE:RedAlert"
+msgid "保护基地"
+msgstr "Base Protection"
+
+#. New in Armor Rush
+#: DESC:RedAlert
+msgctxt "DESC:RedAlert"
+msgid ""
+"使一个建筑进入戒严状态，能够有效阻止敌方工程师和渗透者的进入。"
+msgstr "not implemented"
+
+#. Modified existing RA3 String
+#: DESC:SHIPYARDTECHSTRUCTURE
+msgctxt "DESC:SHIPYARDTECHSTRUCTURE"
+msgid ""
+"在使用工程师占领该建筑后，这座建筑将为我方提供海军维修服务与招"
+"募维修船的功能。"
+msgstr ""
+"After captured with an engineers, this structure can provide "
+"repair service for naval units and recruit repair ships."
+
+#. New in Armor Rush
+#: DESC:TechBuildingOilDerrickRebuilder
+msgctxt "DESC:TechBuildingOilDerrickRebuilder"
+msgid "这个油井正在重建中..."
+msgstr "Fixing Oil Derrick..."
+
+#. New in Armor Rush
+#: NAME:TechBuildingOilDerrickRebuilder
+msgctxt "NAME:TechBuildingOilDerrickRebuilder"
+msgid "重建中的油井"
+msgstr "Rebuilding Oil Derrick"
+
+#. Modified existing RA3 String
+#: DIALOGEVENT:MA01_ALLIEDINTEL32
+msgctxt "DIALOGEVENT:MA01_ALLIEDINTEL32"
+msgid ""
+"*你已获得车辆与飞行器生产权限。现在你可以生产多功能步兵战车、维"
+"和轰炸机和阿波罗战机。"
+msgstr ""
+"*Vehicle production authority granted. You now have access to "
+"Multigunner Infantry Fighting Vehicle, Vindicator and Apollo "
+"Fighter."
+
+#. Modified existing RA3 String
+#: DIALOGEVENT:MA01_ALLIEDINTEL36
+msgctxt "DIALOGEVENT:MA01_ALLIEDINTEL36"
+msgid "你已得到建造装甲车辆厂、空军基地和多功能炮台的权限。"
+msgstr ""
+"You are authorized to construct an Armor Facility, Airbase, "
+"and Multigunner Turret defenses."
+
+#. New in Armor Rush
+#: DIALOGEVENT:MAIn_RobotTank
+msgctxt "DIALOGEVENT:MAIn_RobotTank"
+msgid ""
+"*装备着火炮和深水炸弹的涅普顿坦克是轻型的两栖悬浮坦克，能够在水"
+"面和陆地上快速行进，并使用主炮摧毁地面或水面单位。她的特殊技能"
+"是切换至反潜火箭发射器以摧毁潜水单位，但同时主炮会无法使用。"
+msgstr ""
+"*The Neptune tank is amphibious suspension tank which has "
+"artillery and anti-submarine missiles and can move quickly on "
+"land and water. Her ability is to use the anti-submarine "
+"missiles to destroy submarine, but the main artillery is "
+"disabled in this mode."
+
+#. Modified existing RA3 String
+#: ECS:LOADSCREENSOVIETNATASHA01DESC
+msgctxt "ECS:LOADSCREENSOVIETNATASHA01DESC"
+msgid "娜塔莎.沃尔科娃——很少有人知道苏联的传奇狙击手娜塔莎?"
+msgstr ""
+"NATASHA VOLKOVA - Few know the true character of Natasha "
+"Volkova, the Union's legendary sniper."
+
+#. Modified existing RA3 String
+#: GUI:COCOMMANDERLEFT
+msgctxt "GUI:COCOMMANDERLEFT"
+msgid "你的合作指挥官已GG。"
+msgstr "Your Co-Commander has disconnected from this session."
+
+#. Modified existing RA3 String
+#: GUI:DEFAULTSKIRMISHOBJECTIVEDESCRIPTION
+msgctxt "GUI:DEFAULTSKIRMISHOBJECTIVEDESCRIPTION"
+msgid ""
+"挥官备忘录的记载：\r\n"
+">> 建造电力建筑和矿石精炼厂\r\n"
+">> 侦察敌人，时刻注意雷达\r\n"
+">> 建造各种单位克制敌人军队\r\n"
+">> 开辟新矿藏增加收入\r\n"
+">> 使用绝密手段和单位特殊技能\r\n"
+">> 如果一个策略无效，那就放弃它"
+msgstr ""
+"Notes from the Command Memorandum:\n"
+"\n"
+"?Build power structures and Ore Refineries\n"
+"\n"
+"?Scout the enemy and check Radar often\n"
+"\n"
+"?Build various units to counter enemy forces\n"
+"\n"
+"?Expand to new Ore Mines to earn more income\n"
+"\n"
+"?Use Top-Secret Protocols and unit special abilities\n"
+"\n"
+"?If a strategy is ineffective, discontinue its use"
+
+#. Modified existing RA3 String
+#: GUI:DESCRIBE_COMLINK_USAGE
+msgctxt "GUI:DESCRIBE_COMLINK_USAGE"
+msgid ""
+"欢迎来到《Armor Rush》！右上角的通讯星是你进入在线的链接。使用"
+"它去连接GameSpy，与朋友聊天，接受游戏邀请等等。想要开始，只需轻"
+"轻一点那颗小小的会闪闪发光的可爱星星。"
+msgstr ""
+"Welcome to Red Alert 3: Armor Rush! The ComLink Star in the "
+"upper-right-hand corner is your link to getting online. Use it "
+"to connect to cnc-online.net, chat with friends, accept game "
+"invites, and more. To get started, simply click on the star."
+
+#. Modified existing RA3 String
+#: GUI:DESYNCTEXT
+msgctxt "GUI:DESYNCTEXT"
+msgid ""
+"《红色警戒：Armor Rush》与其他游戏玩家失去同步。可能其他玩家修"
+"改了他们的游戏版本。游戏无法继续。\r\n"
+"\r\n"
+"请重启《红色警戒：Armor Rush》来避免不同步的问题。"
+msgstr ""
+"Red Alert 3: Armor Rush has gone out of synch with the other "
+"match participants. It is possible that the other players have "
+"modified their game versions. This match cannot continue.\r\n"
+"\r\n"
+"Please restartRed Alert 3: Armor Rush to help avoid future "
+"desyncs."
+
+#. Modified existing RA3 String
+#: GUI:FULLGAMENAME
+msgctxt "GUI:FULLGAMENAME"
+msgid "命令与征服：红色警戒-Armor Rush"
+msgstr "Command & Conquer Red Alert 3 - Armor Rush"
+
+#. Modified existing RA3 String
+#: GUI:GSDISCONREASON3
+msgctxt "GUI:GSDISCONREASON3"
+msgid "失去与《红色警戒：Armor Rush》在线的连接。"
+msgstr "Lost connection to Red Alert 3: Armor Rush Online."
+
+#. Modified existing RA3 String
+#: GUI:GSDISCONREASON4
+msgctxt "GUI:GSDISCONREASON4"
+msgid "无法连接到《红色警戒：Armor Rush》在线。"
+msgstr "Could not connect to Red Alert 3: Armor Rush Online."
+
+#. Modified existing RA3 String
+#: GUI:HOSTLEFT
+msgctxt "GUI:HOSTLEFT"
+msgid "主机已GG"
+msgstr "The host has left the game"
+
+#. Modified existing RA3 String
+#: GUI:HOSTLEFTTITLE
+msgctxt "GUI:HOSTLEFTTITLE"
+msgid "主机已GG"
+msgstr "HOST HAS LEFT"
+
+#. Modified existing RA3 String
+#: GUI:HOSTWANTSTOSTART
+msgctxt "GUI:HOSTWANTSTOSTART"
+msgid "快点准备啦，GLHF"
+msgstr ""
+"Host wants to start, please check ready. Good luck, have fun!"
+
+#. Modified existing RA3 String
+#: GUI:PLAY_SOVIETS_FIRST
+#, fuzzy
+msgctxt "GUI:PLAY_SOVIETS_FIRST"
+msgid ""
+"我们建议你从苏联战役开始深入《红色警戒：Armor Rush》的世界。现"
+"在你想要开始苏联战役吗？"
+msgstr ""
+"Campaign may not work well with this mod(It is still under "
+"development). We suggest playing skirmish games or playing "
+"online with other players. Do you wish to begin the Soviet "
+"campaign at this time?"
+
+#. Modified existing RA3 String
+#: GUI:PLAY_TUTORIAL_FIRST
+#, fuzzy
+msgctxt "GUI:PLAY_TUTORIAL_FIRST"
+msgid ""
+"我们建议你在开始战役前先进入训练关了解一些游戏基本要素。你想现"
+"在就开始训练关吗？"
+msgstr ""
+"We suggest you play the tutorial before starting the campaign "
+"to learn the basics of the game. However, tutorial and "
+"campaign may not work well with this mod(They are still under "
+"development). Do you want to start the tutorial now?"
+
+#. Modified existing RA3 String
+#: GUI:PLAYERHASBEENDEFEATED
+msgctxt "GUI:PLAYERHASBEENDEFEATED"
+msgid "%ls已GG"
+msgstr "%ls has been Defeated"
+
+#. Modified existing RA3 String
+#: GUI:TACPROMPT
+#, fuzzy
+msgctxt "GUI:TACPROMPT"
+msgid ""
+"为了使用《红色警戒：Armor Rush》的在线功能，你必须接受EA Online"
+"的服务条款，然后创建一个EA Online帐户。"
+msgstr ""
+"To play online with other players, you can try search cnc-"
+"online.net on your search engine."
+
+#. Modified existing RA3 String
+#: GUI:WOLLOGIN
+msgctxt "GUI:WOLLOGIN"
+msgid "《红色警戒：Armor Rush》在线登录"
+msgstr "[Red Alert 3: Armor Rush] ONLINE LOG IN"
+
+#. Modified existing RA3 String
+#: GUI:WOLWELCOME
+msgctxt "GUI:WOLWELCOME"
+msgid "欢迎来到《红色警戒：Armor Rush》在线，%hs"
+msgstr "Welcome to Red Alert 3: Armor Rush Online, %hs"
+
+#. New in Armor Rush
+#: INI:FactionAirForce
+msgctxt "INI:FactionAirForce"
+msgid "鹰眼"
+msgstr "Hawk Eye"
+
+#. New in Armor Rush
+#: INI:FactionArmor
+msgctxt "INI:FactionArmor"
+msgid "血月"
+msgstr "Scarlet Crescent"
+
+#. New in Armor Rush
+#: INI:FactionFleet
+msgctxt "INI:FactionFleet"
+msgid "天琼"
+msgstr "Tenki"
+
+#. New in Armor Rush
+#: INI:FactionIce
+msgctxt "INI:FactionIce"
+msgid "涅墨西斯"
+msgstr "NEMESIS"
+
+#. New in Armor Rush
+#: INI:FactionKamikaze
+msgctxt "INI:FactionKamikaze"
+msgid "阳炎"
+msgstr "Kagerou"
+
+#. New in Armor Rush
+#: INI:FactionTesla
+msgctxt "INI:FactionTesla"
+msgid "克格勃"
+msgstr "KGB"
+
+#. Modified existing RA3 String
+#: LAN:ERRORCRCMISMATCH
+msgctxt "LAN:ERRORCRCMISMATCH"
+msgid "版本不同，确定使用了相同版本的ARmod"
+msgstr ""
+"Someone is using a different version of the mod. Make sure all "
+"players are using the same version of Armor Rush."
+
+#. Modified existing RA3 String
+#: LAN:HOSTNOTRESPONDING
+msgctxt "LAN:HOSTNOTRESPONDING"
+msgid "游戏已退出：主机GG。"
+msgstr "Game exited; the host was not responding."
+
+#. Modified existing RA3 String
+#: LAN:PLAYERDROPPED
+msgctxt "LAN:PLAYERDROPPED"
+msgid "%ls已被抛弃；玩家GG。"
+msgstr "%ls dropped; player was not responding."
+
+#. New in Armor Rush
+#: MAP:[AR]battleknight201
+msgctxt "MAP:[AR]battleknight201"
+msgid "【AR】骑士对决-BK"
+msgstr "[AR]Battle Knight"
+
+#. New in Armor Rush
+#: MAP:[AR]Frozen_Harbor
+msgctxt "MAP:[AR]Frozen_Harbor"
+msgid "【AR】冰冻港-FH"
+msgstr "[AR]Frozen Harbor"
+
+#. New in Armor Rush
+#: MAP:Besieged_Reservoir
+msgctxt "MAP:Besieged_Reservoir"
+msgid "【AR】水库之围-BR"
+msgstr "[AR]Besieged Reservoir"
+
+#. New in Armor Rush
+#: MAP:Hot_Conflict
+msgctxt "MAP:Hot_Conflict"
+msgid "【AR】火热冲突-HC"
+msgstr "[AR]Hot Conflict"
+
+#. New in Armor Rush
+#: MAP:Infinite_Barbeque
+msgctxt "MAP:Infinite_Barbeque"
+msgid "【AR】无限串烧岛-IB"
+msgstr "[AR]Infinity Barbeque"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_BLACK1B
+msgctxt "MAP:MAP_MP_2_BLACK1B"
+msgid "【AR】原始神庙-TP"
+msgstr "[AR]Temple Prime"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL1
+msgctxt "MAP:MAP_MP_2_FEASEL1"
+msgid "【AR】卡巴纳共和国-CR"
+msgstr "[AR]Cabana Republic"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_2_Feasel1_EP1
+msgctxt "MAP:MAP_MP_2_Feasel1_EP1"
+msgid "【AR】再会水库-ARR"
+msgstr "[AR]Au Revoir Reservoir"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: MAP:MAP_MP_2_Feasel2_EP1
+msgctxt "MAP:MAP_MP_2_Feasel2_EP1"
+msgid "【AR】场边座位-CSS (已删除)"
+msgstr "[AR]Courtside Seats (Removed)"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL4
+msgctxt "MAP:MAP_MP_2_FEASEL4"
+msgid "【AR】战斗实验平台-BB"
+msgstr "[AR]Battlebase Beta"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL5
+msgctxt "MAP:MAP_MP_2_FEASEL5"
+msgid "【AR】雪梨-SP"
+msgstr "[AR]Snow Plow"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL6
+msgctxt "MAP:MAP_MP_2_FEASEL6"
+msgid "【AR】工业力量-IS"
+msgstr "[AR]Industrial Strength"
+
+#. NOTE: Obsolete
+#. New in Armor Rush
+#: MAP:MAP_MP_2_Feasel6_EP1
+msgctxt "MAP:MAP_MP_2_Feasel6_EP1"
+msgid "【AR】研磨险谷-GG （已删除）"
+msgstr "[AR]Grinder Gulch (Removed)"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL7
+msgctxt "MAP:MAP_MP_2_FEASEL7"
+msgid "【AR】休闲聚会-CE"
+msgstr "[AR]Casual Encounter"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_2_Feasel7_EP1
+msgctxt "MAP:MAP_MP_2_Feasel7_EP1"
+msgid "【AR】科迪亚克湖-KL"
+msgstr "[AR]Kodiak Lake"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_FEASEL8
+msgctxt "MAP:MAP_MP_2_FEASEL8"
+msgid "【AR】火山岛-FI"
+msgstr "[AR]Fire Island"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_2_RAO1
+msgctxt "MAP:MAP_MP_2_RAO1"
+msgid "【AR】无限岛-II"
+msgstr "[AR]Infinity Isle"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_3_FEASEL2
+msgctxt "MAP:MAP_MP_3_FEASEL2"
+msgid "【AR】混沌火山湖-CC"
+msgstr "[AR]Caldera of Chaos"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_3_FEASEL4
+msgctxt "MAP:MAP_MP_3_FEASEL4"
+msgid "【AR】火焰断层-PY"
+msgstr "[AR]Pyroclasm"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_BLACK_XSLICE
+msgctxt "MAP:MAP_MP_4_BLACK_XSLICE"
+msgid "【AR】敌对旅馆-HH"
+msgstr "[AR]Hostile Hostel"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_4_Feasel10_EP1
+msgctxt "MAP:MAP_MP_4_Feasel10_EP1"
+msgid "【AR】幕府港-SA"
+msgstr "[AR]Shogun's Alley"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_FEASEL2
+msgctxt "MAP:MAP_MP_4_FEASEL2"
+msgid "【AR】岩石岭-RR"
+msgstr "[AR]Rock Ridge"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_FEASEL4
+msgctxt "MAP:MAP_MP_4_FEASEL4"
+msgid "【AR】最后手段-LR"
+msgstr "[AR]Last Resort"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_FEASEL5
+msgctxt "MAP:MAP_MP_4_FEASEL5"
+msgid "【AR】八角作战基地-BO"
+msgstr "[AR]Battlebase Octopon"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_FEASEL6
+msgctxt "MAP:MAP_MP_4_FEASEL6"
+msgid "【AR】泳池派对-PP"
+msgstr "[AR]Pool Party"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_4_Feasel6_EP1
+msgctxt "MAP:MAP_MP_4_Feasel6_EP1"
+msgid "【AR】堑壕战-TW"
+msgstr "[AR]Trench Warfare"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_4_Feasel9_EP1
+msgctxt "MAP:MAP_MP_4_Feasel9_EP1"
+msgid "【AR】沉没船舶-SS"
+msgstr "[AR]Corporate Warfare"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_SSMITH2-REMIX
+msgctxt "MAP:MAP_MP_4_SSMITH2-REMIX"
+msgid "【AR】死亡水域-DA"
+msgstr "[AR]Death Aquatic"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_4_STEWART_1
+msgctxt "MAP:MAP_MP_4_STEWART_1"
+msgid "【AR】严寒对决-CSD"
+msgstr "[AR]Cold Showdown"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_5_FEASEL1
+msgctxt "MAP:MAP_MP_5_FEASEL1"
+msgid "【AR】混乱之湖-LM"
+msgstr "[AR]Loch Mess"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_5_FEASEL2
+msgctxt "MAP:MAP_MP_5_FEASEL2"
+msgid "【AR】平面杀戮-MM"
+msgstr "[AR]Murder Mesa"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_5_FEASEL3
+msgctxt "MAP:MAP_MP_5_FEASEL3"
+msgid "【AR】大竞技场-CM"
+msgstr "[AR]Circus Maximus"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_6_FEASEL1
+msgctxt "MAP:MAP_MP_6_FEASEL1"
+msgid "【AR】殆尽天堂-BOP"
+msgstr "[AR]Burnt-Out Paradise"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_6_Feasel1_EP1
+msgctxt "MAP:MAP_MP_6_Feasel1_EP1"
+msgid "【AR】天启山-AM"
+msgstr "[AR]Apocalypse Mountain"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_6_FEASEL2
+msgctxt "MAP:MAP_MP_6_FEASEL2"
+msgid "【AR】游泳危险-SH"
+msgstr "[AR]Swimming Hazard"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_6_Feasel2_EP1
+msgctxt "MAP:MAP_MP_6_Feasel2_EP1"
+msgid "【AR】战斗要塞赫利克斯-BH"
+msgstr "[AR]Battlebase Hexis"
+
+#. New in Armor Rush
+#: MAP:MAP_MP_6_Feasel3_EP1
+msgctxt "MAP:MAP_MP_6_Feasel3_EP1"
+msgid "【AR】坚持到底-HK"
+msgstr "[AR]Holdout Keep"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_6_FEASEL4
+msgctxt "MAP:MAP_MP_6_FEASEL4"
+msgid "【AR】麦格玛格登-Mag"
+msgstr "[AR]Magmageddon"
+
+#. Modified existing RA3 String
+#: MAP:MAP_MP_6_SSMITH2
+msgctxt "MAP:MAP_MP_6_SSMITH2"
+msgid "【AR】卡维利-Ca"
+msgstr "[AR]Carville"
+
+#. New in Armor Rush
+#: MAP:Pool_March
+msgctxt "MAP:Pool_March"
+msgid "【AR】池塘长征-PM"
+msgstr "[AR]Pool March"
+
+#. New in Armor Rush
+#: MAP:Repearl_Harbor
+#, fuzzy
+msgctxt "MAP:Repearl_Harbor"
+msgid "【AR】珍珠港-RH"
+msgstr "[AR]Pearl Harbor"
+
+#. New in Armor Rush
+#: MAP:Snowtop_Conqueror
+msgctxt "MAP:Snowtop_Conqueror"
+msgid "【AR】雪顶征服者-SC"
+msgstr "[AR]Snowtop Conqueror"
+
+#. New in Armor Rush
+#: NAME:CallParatroopers
+msgctxt "NAME:CallParatroopers"
+msgid "呼叫空投支援"
+msgstr "Call Paretroopers"
+
+#. New in Armor Rush
+#: NAME:ComingSoon
+msgctxt "NAME:ComingSoon"
+msgid "COMING SOON"
+msgstr "COMING SOON"
+
+#. New in Armor Rush
+#: NAME:ToggleRangeA
+msgctxt "NAME:ToggleRangeA"
+msgid "切换到精准模式"
+msgstr "Switch to Precision Mode"
+
+#. New in Armor Rush
+#: NAME:ToggleRangeB
+msgctxt "NAME:ToggleRangeB"
+msgid "切换到较准模式"
+msgstr "Switch to Somewhat-accurate Mode"
+
+#. New in Armor Rush
+#: NAME:ToggleRangeC
+msgctxt "NAME:ToggleRangeC"
+msgid "切换到常规模式"
+msgstr "Switch to Default"
+
+#. New in Armor Rush
+#: NAME:ToggleRangeD
+msgctxt "NAME:ToggleRangeD"
+msgid "切换到极限模式"
+msgstr "Switch to Ultimate Mode "
+
+#. New in Armor Rush
+#: PERSONALITY:Cherdenko
+#, fuzzy
+msgctxt "PERSONALITY:Cherdenko"
+msgid "wa"
+msgstr "wa"
+
+#. New in Armor Rush
+#: PERSONALITY:Cocoa
+msgctxt "PERSONALITY:Cocoa"
+msgid "樱"
+msgstr "Sakura"
+
+#. New in Armor Rush
+#: PERSONALITY:Enoch
+msgctxt "PERSONALITY:Enoch"
+msgid "红叶"
+msgstr "Kouyou"
+
+#. New in Armor Rush
+#: PERSONALITY:Gayles
+msgctxt "PERSONALITY:Gayles"
+msgid "弗莱彻"
+msgstr "Fletcher"
+
+#. New in Armor Rush
+#: PERSONALITY:ICez
+msgctxt "PERSONALITY:ICez"
+msgid "[ELITE]I.Cez"
+msgstr "[ELITE]I.Cez"
+
+#. New in Armor Rush
+#. NOTE: This Computer Commander is only used for testing
+#: PERSONALITY:BAI_test
+#, fuzzy
+msgctxt "PERSONALITY:BAI_test"
+msgid "[ELITE]很怂的测试用AI"
+msgstr "[ELITE]Very scary test AI"
+
+#. New in Armor Rush
+#: PERSONALITY:KGBBAI2
+msgctxt "PERSONALITY:KGBBAI2"
+msgid "[ELITE]法什米尔"
+msgstr "[ELITE]Fashmir"
+
+#. New in Armor Rush
+#: PERSONALITY:Krukov
+msgctxt "PERSONALITY:Krukov"
+msgid "帕布利琴科"
+msgstr "Pavlichenko"
+
+#. New in Armor Rush
+#: PERSONALITY:Margatroid
+msgctxt "PERSONALITY:Margatroid"
+msgid "RS"
+msgstr "RS"
+
+#. New in Armor Rush
+#: PERSONALITY:Sapphire
+msgctxt "PERSONALITY:Sapphire"
+msgid "莎菲亚"
+msgstr "Sapphire"
+
+#. New in Armor Rush
+#: PERSONALITY:UltraOlegTesla
+msgctxt "PERSONALITY:UltraOlegTesla"
+msgid "恰巴耶夫"
+msgstr "Chapayev"
+
+#. New in Armor Rush
+#: PERSONALITY:Vedfolnir
+msgctxt "PERSONALITY:Vedfolnir"
+msgid "[ELITE]繁星"
+msgstr "[ELITE]Stellaris "
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name
+#: PERSONALITY:JIFENGHOU
+#, fuzzy
+msgctxt "PERSONALITY:JIFENGHOU"
+msgid "季风后"
+msgstr "Ji Fenghou"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name
+#: PERSONALITY:LOLISA
+msgctxt "PERSONALITY:LOLISA"
+msgid "洛莉莎"
+msgstr "Lolisa"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name. Set as Wula (actual pronunciation) for now
+#. NOTE: 乌拉 is a popular Chinese VTuber who likes playing as the Tenkei faction
+#: PERSONALITY:A5-07
+msgctxt "PERSONALITY:A5-07"
+msgid "乌拉"
+msgstr "Wula"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name
+#: PERSONALITY:A5-08
+msgctxt "PERSONALITY:A5-08"
+msgid "Dr.黯"
+msgstr "A5-08"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name
+#: PERSONALITY:A5-02
+msgctxt "PERSONALITY:A5-02"
+msgid "新血姬"
+msgstr "A5-02"
+
+#. New in Armor Rush
+#. NOTE: Suggested translation for this commander: Inkian / DieFlamme
+#. NOTE: 墨喵 (Inkian) is a famous Chinese RA3 Player
+#: PERSONALITY:momiao
+msgctxt "PERSONALITY:momiao"
+msgid "[ELITE]墨喵"
+msgstr "[ELITE]Inkian"
+
+#. Modified existing RA3 String
+#: RULE:RANDOMCRATES
+msgctxt "RULE:RANDOMCRATES"
+msgid "禁用终极武器"
+msgstr "Disable Ultimate Weapons"
+
+#. Modified existing RA3 String
+#: SCRIPT:A01_INFO_WARFACTORY
+msgctxt "SCRIPT:A01_INFO_WARFACTORY"
+msgid "你现在已经获准建造装甲车辆厂和空军基地。"
+msgstr ""
+"You now have access to build an Armor Facility and Airbase."
+
+#. Modified existing RA3 String
+#: SUBTITLE:TESTTITLECARD
+msgctxt "SUBTITLE:TESTTITLECARD"
+msgid ""
+"This is a multi-line testTo Test the Title cardSupport. In the "
+"VideoSequencer.\r\n"
+"这一行是多行文本之间的转换实现手法支持，用于过场动画。"
+msgstr ""
+"This is a multi-line testTo Test the Title cardSupport. In the "
+"VideoSequencer.\n"
+"这一行是多行文本之间的转换实现手法支持，用于过场动画。"
+
+#. Modified existing RA3 String
+#: TYPE:EALA
+#, fuzzy
+msgctxt "TYPE:EALA"
+msgid "科学与真理的代表"
+msgstr "Representation of science and truth"
+
+#. New in Armor Rush
+#: TYPE:TechSight
+msgctxt "TYPE:TechSight"
+msgid "基础强化升级"
+msgstr "Base Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:TechSight
+msgctxt "UPGRADEPREREQ:TechSight"
+msgid "侦察能力升级"
+msgstr "Reconnaissance Upgrade"
+
+#. New in Armor Rush
+#: MAP:Ruin_Of_Future
+msgctxt "MAP:Ruin_Of_Future"
+msgid "【AR】未来废墟-RF"
+msgstr "[AR]Ruin of Future"
+
+#. New in Armor Rush
+#: GUI:JOINFAILEDGAMEISMOD
+msgctxt "GUI:JOINFAILEDGAMEISMOD"
+msgid "无法加入房间。请确定你和房主的MOD版本是否一致。"
+msgstr ""
+"Cannot join. Please make sure that you are using the same "
+"version of the same mod with the host."
+
+#. New in Armor Rush
+#: PERSONALITY:AACopy1
+msgctxt "PERSONALITY:AACopy1"
+msgid "神秘弗莱彻复读机"
+msgstr "Fletcher's Repeater"
+
+#. New in Armor Rush
+#: PERSONALITY:ANCopy1
+msgctxt "PERSONALITY:ANCopy1"
+msgid "神秘RS复读机"
+msgstr "RS's Repeater"
+
+#. New in Armor Rush
+#: PERSONALITY:JKCopy1
+msgctxt "PERSONALITY:JKCopy1"
+msgid "神秘Sakura复读机"
+msgstr "Sakura's Repeater"
+
+#. New in Armor Rush
+#: PERSONALITY:SACopy1
+#, fuzzy
+msgctxt "PERSONALITY:SACopy1"
+msgid "季风后2"
+msgstr ""
+"Post monsoon 2\n"
+"\n"
+"\n"
+"After monsoon 2."
+
+#. New in Armor Rush
+#: PERSONALITY:JFCopy1
+msgctxt "PERSONALITY:JFCopy1"
+msgid "真香"
+msgstr "Hello? Thank you."
+
+#. New in Armor Rush
+#. NOTE: Computer Commander name: Denounce Thor! xD
+#. NOTE: 雷神 (Thor) is the current mod author
+#: "PERSONALITY:JFCopy2"
+msgctxt "PERSONALITY:JFCopy2"
+msgid "批斗雷神"
+msgstr "Denounce Thor!"
+
+#. New in Armor Rush
+#: "PERSONALITY:noid"
+#, fuzzy
+msgctxt "PERSONALITY:noid"
+msgid "无名"
+msgstr "Nameless"
+
+#. New in Armor Rush
+#: SCRIPT:A01_INFO_AIRCRART
+msgctxt "SCRIPT:A01_INFO_AIRCRART"
+msgid "从你的空军基地中建造阿波罗战机和维和轰炸机。"
+msgstr ""
+"Create some Apollo Fighters and Vindicators from Airbase."
+
+#. New in Armor Rush
+#: SCRIPT:A01_TIMER_02
+msgctxt "SCRIPT:A01_TIMER_02"
+msgid "友军装甲支援倒计时："
+msgstr "Support force coming. Count down: "
+
+#. New in Armor Rush
+#: "SCRIPT:TeslaGreandeInfo"
+#, fuzzy
+msgctxt "SCRIPT:TeslaGreandeInfo"
+msgid ""
+"恰巴耶夫可以丢出一枚特制的磁能手雷，造成范围磁暴伤害和EMP效果。"
+msgstr ""
+"Chabayev can throw out a special magnetic grenade, causing "
+"ranged magnetic storm damage and EMP effects.\n"
+"\n"
+"\n"
+"Chabayev can throw out a specially crafted magnetic handrap, "
+"causing range magnetic storm damage and EMP effects."
+
+#. New in Armor Rush
+#: "SCRIPT:PavlichenkoFInfo"
+#, fuzzy
+msgctxt "SCRIPT:PavlichenkoFInfo"
+msgid "帕布利琴科可以发射一枚RPG，消灭指定目标。"
+msgstr ""
+"Pablichenko can launch an RPG to destroy designated targets.\n"
+"\n"
+"\n"
+"Pablichenko can fire an RPG to destroy a designated target."
+
+#. New in Armor Rush
+#: "SCRIPT:SovietLoliFInfo"
+#, fuzzy
+msgctxt "SCRIPT:SovietLoliFInfo"
+msgid "尼科诺瓦可以丢出一枚燃烧瓶，杀伤指定区域的敌人。"
+msgstr ""
+"Nikonova can throw a Molotov cocktail to kill enemies in a "
+"designated area.\n"
+"\n"
+"\n"
+"Niconova can throw out a Molotovak and kill enemies in a "
+"designated area."
+
+#. New in Armor Rush
+#: "SCRIPT:EVACUATE_TIMER"
+#, fuzzy
+msgctxt "SCRIPT:EVACUATE_TIMER"
+msgid "撤离抵达时间："
+msgstr "Evacuation arrival time:"
+
+#. New in Armor Rush
+#: "SCRIPT:DEFEND_TIMER"
+#, fuzzy
+msgctxt "SCRIPT:DEFEND_TIMER"
+msgid "防守剩余时间："
+msgstr "Defensive time remaining:"
+
+#. New in Armor Rush
+#: "SCRIPT:ZR_REBORN"
+#, fuzzy
+msgctxt "SCRIPT:ZR_REBORN"
+msgid "你找到了幸存者！"
+msgstr "You found the survivors!"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: MAP:[AR]Zero_Hour
+msgctxt "MAP:[AR]Zero_Hour"
+msgid "【AR】冰点时刻-ZH （已删除）"
+msgstr "[AR]Zero Hours (Removed)"
+
+#. New in Armor Rush
+#: MAP:Infinite_island_3v3_Ver
+#, fuzzy
+msgctxt "MAP:Infinite_island_3v3_Ver"
+msgid "【AR】无穷无尽岛-III"
+msgstr "[AR]Infinity Island"
+
+#. New in Armor Rush
+#: MAP:[RAT]Tank_Crash
+#, fuzzy
+msgctxt "MAP:[RAT]Tank_Crash"
+msgid "【AR】坦克墓地-TC"
+msgstr ""
+"[AR] Tank Cemetery-TC\n"
+"\n"
+"\n"
+"AR: Tank Graveyard - TC."
+
+#. New in Armor Rush
+#: MAP:[RAT]Snow_Town
+#, fuzzy
+msgctxt "MAP:[RAT]Snow_Town"
+msgid "【AR】雪镇-ST"
+msgstr "【AR】Snow Town - ST"
+
+#. New in Armor Rush
+#: MAP:Fmap_Industrial_Age
+#, fuzzy
+msgctxt "MAP:Fmap_Industrial_Age"
+msgid "【AR】工业时代-IA"
+msgstr "[AR] Industrial Age - IA"
+
+#. New in Armor Rush
+#: MAP:Fmap_Snow_Amaranth
+#, fuzzy
+msgctxt "MAP:Fmap_Snow_Amaranth"
+msgid "【AR】雪菜岛-SA"
+msgstr ""
+"[AR] Yukinajima - SA\n"
+"\n"
+"\n"
+"[AR] Snowy Island -SA"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: MAP:Conquer_Smolensk
+#, fuzzy
+msgctxt "MAP:Conquer_Smolensk"
+msgid "【AR】征服斯摩棱斯克-CS （删除）"
+msgstr "[AR] Conquer Smolensk - CS (deleted)"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: MAP:Tangu_Hunter
+#, fuzzy
+msgctxt "MAP:Tangu_Hunter"
+msgid "【AR】天狗狩猎场-TH（移除）"
+msgstr ""
+"[AR] Tengu Hunting Ground-TH (removed)\n"
+"\n"
+"\n"
+"AR: Sky Dog Hunting Ground -TH (Removed)"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_KILL_TARGET
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_KILL_TARGET"
+msgid "找到并消灭敌人的渗透者"
+msgstr "Find and destroy enemy infiltrators"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_KILL_TARGET_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_KILL_TARGET_DESC"
+msgid "找到并消灭敌人的渗透者"
+msgstr "Find and destroy enemy infiltrators"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_TO_BASE
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_TO_BASE"
+msgid "前往盟军基地"
+msgstr ""
+"Go to the Allied Base\n"
+"\n"
+"\n"
+"Go to allied bases."
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_TO_BASE_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_TO_BASE_DESC"
+msgid "前往盟军基地寻求帮助。"
+msgstr ""
+"Go to the Allied base for help.\n"
+"\n"
+"\n"
+"Go to allied bases for help."
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_TO_POST
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_TO_POST"
+msgid "呼叫救援部队"
+msgstr "Call the rescue force"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_TO_POST_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_TO_POST_DESC"
+msgid "要呼叫救援部队，我们必须前往西边的通讯站。"
+msgstr ""
+"To call the rescue force, we must go to the communication "
+"station to the west.\n"
+"\n"
+"\n"
+"To call the rescue forces, we had to go to the west "
+"communication station."
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_LEAVE
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_LEAVE"
+msgid "快离开！"
+msgstr ""
+"Leave soon!\n"
+"\n"
+"\n"
+"Get out of here!"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_LEAVE_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_LEAVE_DESC"
+msgid "跑！！！"
+msgstr "Run!!!"
+
+#. New in Armor Rush
+#: MISSIONOBJ:ZR_REBORN
+#, fuzzy
+msgctxt "MISSIONOBJ:ZR_REBORN"
+msgid "？"
+msgstr "?"
+
+#. New in Armor Rush
+#: MISSIONOBJ:ZR_REBORN_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:ZR_REBORN_DESC"
+msgid "？"
+msgstr "?"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_DEFEND_BASE
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_DEFEND_BASE"
+msgid "防守盟军基地"
+msgstr ""
+"Defending Allied Base\n"
+"\n"
+"\n"
+"Defend allied bases"
+
+#. New in Armor Rush
+#: MISSIONOBJ:Z01_DEFEND_BASE_DESC
+#, fuzzy
+msgctxt "MISSIONOBJ:Z01_DEFEND_BASE_DESC"
+msgid "防守盟军基地"
+msgstr ""
+"Defending Allied Base\n"
+"\n"
+"\n"
+"Defend allied bases"
+
+#. New in Armor Rush
+#: NAME:Zombie
+#, fuzzy
+msgctxt "NAME:Zombie"
+msgid "丧尸"
+msgstr "Zombie"
+
+#. New in Armor Rush
+#: TYPE:Zombie
+#, fuzzy
+msgctxt "TYPE:Zombie"
+msgid "感染者"
+msgstr "Infected"
+
+#. New in Armor Rush
+#: DESC:Zombie
+#, fuzzy
+msgctxt "DESC:Zombie"
+msgid "被神秘病毒操纵的可怜人。"
+msgstr "A poor man manipulated by a mysterious virus."
+
+#. New in Armor Rush
+#: "DESC:PLAYERPOWERLIGHTPOINTDEFENSEDRONES"
+#, fuzzy
+msgctxt "DESC:PLAYERPOWERLIGHTPOINTDEFENSEDRONES"
+msgid ""
+"用这些无私的悬浮机器人为你宝贵的步兵做挡箭牌，吸收来袭火力！"
+msgstr ""
+"Use these selfless floating robots as a shield for your "
+"precious infantry and absorb incoming firepower!\n"
+"\n"
+"\n"
+"Use these selfless suspension robots to shield your valuable "
+"infantry and absorb incoming firepower!"
+
+#. New in Armor Rush
+#: NAME:ToggleSiegeArtillerySpecialPower
+#, fuzzy
+msgctxt "NAME:ToggleSiegeArtillerySpecialPower"
+msgid "部署"
+msgstr ""
+"Deploy\n"
+"\n"
+"\n"
+"Deployment"
+
+#. New in Armor Rush
+#: DESC:ToggleSiegeArtillerySpecialPower
+#, fuzzy
+msgctxt "DESC:ToggleSiegeArtillerySpecialPower"
+msgid "抬起炮管，从巨大的坦克临时变成巨大的双管榴弹炮！"
+msgstr ""
+"Raise the barrel and temporarily transform from a huge tank "
+"into a huge double-barreled howitzer!\n"
+"\n"
+"\n"
+"Lift up the gun butt and temporarily change from a huge tank "
+"to a huge two-tube howitzer!"
+
+#. New in Armor Rush
+#: NAME:CivilianAmbulance
+#, fuzzy
+msgctxt "NAME:CivilianAmbulance"
+msgid "救护车"
+msgstr "Ambulance"
+
+#. New in Armor Rush
+#: TYPE:CivilianAmbulance
+#, fuzzy
+msgctxt "TYPE:CivilianAmbulance"
+msgid "战地医疗"
+msgstr ""
+"Battlefield medical\n"
+"\n"
+"\n"
+"Field medical treatment."
+
+#. New in Armor Rush
+#: DESC:CivilianAmbulance
+#, fuzzy
+msgctxt "DESC:CivilianAmbulance"
+msgid ""
+"这种经过特殊改装的车辆能在战场上为受伤士兵提供紧急医疗服务。"
+msgstr ""
+"This specially modified vehicle can provide emergency medical "
+"services to wounded soldiers on the battlefield.\n"
+"\n"
+"\n"
+"This specially adapted vehicle provides emergency medical care "
+"to wounded soldiers on the battlefield."
+
+#. New in Armor Rush
+#: JLNAME:AbilityToggleEnergyTorpedo
+#, fuzzy
+msgctxt "JLNAME:AbilityToggleEnergyTorpedo"
+msgid "装填能量鱼雷"
+msgstr ""
+"Load energy torpedo\n"
+"\n"
+"\n"
+"Fill the energy torpedo."
+
+#. New in Armor Rush
+#. NOTE: Should be peacekeeper
+#: DESC:TOGGLERIOTSHIELDUPGRADEOFF
+#, fuzzy
+msgctxt "DESC:TOGGLERIOTSHIELDUPGRADEOFF"
+msgid "切换到同盟国5.56mm口径Colt-4卡宾枪，在中近距离压制敌人。"
+msgstr ""
+"Switch to the Allied 5.56mm Colt-4 carbine to suppress the "
+"enemy at close range.\n"
+"\n"
+"\n"
+"Switch to the Allied 5.56mm Caliber Colt-4 Carbine gun and "
+"suppress the enemy at close range."
+
+#. New in Armor Rush
+#. NOTE: Should be Hammer Tank
+#: DESC:TOGGLELEECHBEAMOFF
+#, fuzzy
+msgctxt "DESC:TOGGLELEECHBEAMOFF"
+msgid "切换到125mm自动滑膛炮，以及榨取来的第二武器。"
+msgstr ""
+"Switch to the 125mm automatic smoothbore gun and the second "
+"weapon extracted.\n"
+"\n"
+"\n"
+"Switch to the 125mm automatic musket, as well as the second "
+"weapon extracted."

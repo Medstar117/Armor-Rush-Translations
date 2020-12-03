@@ -1,0 +1,1863 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  Soviets Factions Non Units
+#  ## Other ##
+#. Modified existing RA3 String
+#: APT:PLAYERPOWERSHEADERSOVIET
+msgctxt "APT:PLAYERPOWERSHEADERSOVIET"
+msgid "最高科学部"
+msgstr "Ministry of Experimental Science"
+
+#. New in Armor Rush, NOTE: See Infantry Names in SovietUnits
+#: DESC:CallSovietArmorParatroopers
+msgctxt "DESC:CallSovietArmorParatroopers"
+msgid ""
+"呼叫从友邦苏联购买的袋狸运输机，空投精英伞兵部队。\n"
+"\n"
+"空降-->喷火兵两名，突击兵八名"
+msgstr ""
+"Sends eight Pioneers and two Flametroopers into the area via Badgers borrowed from the Soviets.\n"
+"\n"
+"Airborne -- 8 Pioneers, 2 Flametroopers"
+
+#. New in Armor Rush, NOTE: See Infantry Names in SovietUnits
+#: DESC:CallSovietParatroopers
+msgctxt "DESC:CallSovietParatroopers"
+msgid ""
+"呼叫袋狸运输机前往战区，空投精英伞兵部队。\r\n"
+"\r\n"
+"空降-->战熊四只，动员兵四名，防空步兵两名"
+msgstr ""
+"Sends four War bears, four Conscripts and two Flak Troopers into the area via Badger Bombers.\r\n"
+"\r\n"
+"Airborne -- 4 War bears, 4 Conscripts, 2 Flak Troopers"
+
+#. New in Armor Rush, NOTE: See Infantry Names in SovietUnits
+#: DESC:CallSovietTeslaParatroopers
+msgctxt "DESC:CallSovietTeslaParatroopers"
+msgid ""
+"呼叫袋狸运输机前往战区，空投精英伞兵部队。\r\n"
+"\r\n"
+"空降-->战熊四只，动员兵四名，防空步兵两名"
+msgstr ""
+"Sends four War bears, four Conscripts and two Flak Troopers into the area via Badger Bombers.\n"
+"\n"
+"Airborne -- 4 War bears, 4 Conscripts, 2 Flak Troopers"
+
+#. New in Armor Rush
+#: NAME:ReformApoc
+msgctxt "NAME:ReformApoc"
+msgid "坦克歼击车改装"
+msgstr "Destroyer Configuration"
+
+#. New in Armor Rush, NOTE: See unit descriptions in SovietUnits
+#: DESC:ReformApoc
+msgctxt "DESC:ReformApoc"
+msgid "换装大口径火炮，将五九式坦克改造为坦克歼击车，对敌方装甲单位造成严重威胁。"
+msgstr "Change the main gun of a Type-59 to a high-calibre cannon, which is much more effective against enemy armor."
+
+#. New in Armor Rush
+#: NAME:ReformFlak
+msgctxt "NAME:ReformFlak"
+msgid "防空链炮改装"
+msgstr "Flak Configuration"
+
+#. New in Armor Rush, NOTE: See unit descriptions in SovietUnits
+#: DESC:ReformFlak
+msgctxt "DESC:ReformFlak"
+msgid "将五九式坦克的武装改为防空机炮，对敌方飞行单位构成威胁。"
+msgstr "Change the main gun of a Type-59 to an AA flak turret, which focuses on bringing down enemy aircraft."
+
+#. New in Armor Rush
+#: NAME:ReformGun
+msgctxt "NAME:ReformGun"
+msgid "喷火改装"
+msgstr "Flame Configuration"
+
+#. New in Armor Rush, NOTE: See unit descriptions in SovietUnits
+#: DESC:ReformGun
+msgctxt "DESC:ReformGun"
+msgid "将五九式坦克的武器改为喷火器，拥有反步兵压制能力。"
+msgstr "Change the main gun of a Type-59 to a flamethrower, which has anti-infantry suppression capabilities."
+
+#. New in Armor Rush
+#: NAME:ReformRemove
+msgctxt "NAME:ReformRemove"
+msgid "卸除改装"
+msgstr "Stock Configuration"
+
+#. New in Armor Rush
+#: DESC:ReformRemove
+msgctxt "DESC:ReformRemove"
+msgid "卸除改装，恢复回原本的武装。"
+msgstr "Reverse all modifications made to a Type-59, reverting it to its anti-tank turret."
+
+#. New in Armor Rush
+#: NAME:Song_GeChangZuGuo
+msgctxt "NAME:Song_GeChangZuGuo"
+msgid "歌唱祖国"
+msgstr "Ode to the Motherland"
+
+#. New in Armor Rush
+#: DESC:Song_GeChangZuGuo
+msgctxt "DESC:Song_GeChangZuGuo"
+msgid ""
+"血月单位：\r\n"
+">>防御EMP，吼叫，免疫压制\r\n"
+"\r\n"
+"轩辕长戟：\r\n"
+">>准备时间减少"
+msgstr ""
+"Scarlet Crescent units:\n"
+"> Resistance to EMP, roar and suppression\n"
+"\n"
+"Xuanyuan Halberd:\n"
+"> Increased cooldown rate"
+
+#. New in Armor Rush
+#: NAME:Song_GOUBIA
+msgctxt "NAME:Song_GOUBIA"
+msgid "GOUBIA"
+msgstr "GOUBIA"
+
+#. New in Armor Rush
+#: DESC:Song_GOUBIA
+msgctxt "DESC:Song_GOUBIA"
+msgid ">>间歇性干扰敌方雷达"
+msgstr ""
+"Enemies:\n"
+"> Interferes with radar"
+
+#. New in Armor Rush
+#: NAME:Song_International
+msgctxt "NAME:Song_International"
+msgid "国际歌"
+msgstr "L'Internationale"
+
+#. New in Armor Rush
+#: DESC:Song_International
+msgctxt "DESC:Song_International"
+msgid ""
+"友军苏系单位：\n"
+">>获得经验*3"
+msgstr ""
+"Friendly Soviet, KGB and Scarlet Crescent units:\n"
+"> Accelerated veterancy growth (+200%)"
+
+#. New in Armor Rush
+#: NAME:Song_Katyusha
+msgctxt "NAME:Song_Katyusha"
+msgid "喀秋莎"
+msgstr "Katyusha"
+
+#. New in Armor Rush
+#: DESC:Song_Katyusha
+msgctxt "DESC:Song_Katyusha"
+msgid ""
+"血月：\n"
+">>建造速度  +25%"
+msgstr ""
+"Scarlet Crescent:\n"
+"> Increased building speed (+25%)"
+
+#. New in Armor Rush
+#: NAME:Song_LiangJian
+msgctxt "NAME:Song_LiangJian"
+msgid "中国军魂-亮剑"
+msgstr "Bright Sword"
+
+#. New in Armor Rush
+#: DESC:Song_LiangJian
+msgctxt "DESC:Song_LiangJian"
+msgid ""
+"血月地面单位：\r\n"
+">>受到伤害  -10%\r\n"
+"  获取经验*1.2\r\n"
+"  免疫压制"
+msgstr ""
+"Scarlet Crescent ground units\n"
+"> Increased damage reduction (+10%)\n"
+"    Accelerated veterancy growth (+20%)\n"
+"    Resistance to suppression"
+
+#. New in Armor Rush
+#: NAME:Song_RedSorghum
+msgctxt "NAME:Song_RedSorghum"
+msgid "九儿-红高粱"
+msgstr "Red Sorghum"
+
+#. New in Armor Rush
+#: DESC:Song_RedSorghum
+msgctxt "DESC:Song_RedSorghum"
+msgid ""
+"血月：\r\n"
+">>建筑受到伤害  -20%\r\n"
+"  步兵缓慢回复生命值"
+msgstr ""
+"Scarlet Crescent:\n"
+"> Increased building damage reduction (+20%)\n"
+"> Infantry health regeneration"
+
+#. New in Armor Rush
+#: NAME:Song_ZheJiangWenZhou
+msgctxt "NAME:Song_ZheJiangWenZhou"
+msgid "江南皮革厂"
+msgstr "Jiangnan Leather Factory"
+
+#. New in Armor Rush
+#: DESC:Song_ZheJiangWenZhou
+msgctxt "DESC:Song_ZheJiangWenZhou"
+msgid ""
+"血月：\n"
+">>建筑价格  -5%\n"
+"\n"
+"敌军：\n"
+">>矿车速度  -15%"
+msgstr ""
+"Scarlet Crescent buildings:\n"
+"> Reduced cost (-5%)\n"
+"\n"
+"Enemy Ore Collectors\n"
+"> Reduced speed (-15%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietTechSight
+msgctxt "UPGRADENAME:SovietTechSight"
+msgid "侦察升级"
+msgstr "Improved Radar Modules"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietTechSight
+msgctxt "UPGRADETYPE:SovietTechSight"
+msgid "通讯装备升级"
+msgstr "Unit Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:SovietTechSight
+msgctxt "DESCRIPTION:SovietTechSight"
+msgid ""
+"加强卫星和信号接收器功率，扩大单位的视野。\n"
+"\n"
+">>扩大视野\n"
+"     所有单位\n"
+"\n"
+"     视野+20%\n"
+"\n"
+">>战略配备优先权\n"
+"     协议冷却时间-10%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Develop better radar modules to expand the field of vision of the Soviets' forces.\n"
+"\n"
+"> Increases unit vision range (+20%)\n"
+"\n"
+"> Top-Secret Protocol cooldown -10%"
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorBarracksArmor
+msgctxt "UPGRADENAME:ArmorBarracksArmor"
+msgid "披坚执锐"
+msgstr "Stronger Wear, Sharper Carry"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorBarracksArmor
+msgctxt "UPGRADETYPE:ArmorBarracksArmor"
+msgid "步兵升级"
+msgstr "Infantry Health Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry names in SovietUnits
+#: DESCRIPTION:ArmorBarracksArmor
+msgctxt "DESCRIPTION:ArmorBarracksArmor"
+msgid ""
+"一夫当关，万夫莫开。利用核电站的充足能源为喷火工兵轧制额外的装甲，延长其在枪林弹雨中的生存时间。\r\n"
+"\r\n"
+">>生命值增加\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Equip Flametroopers with more advanced armor, which offers better protection without side effects.\n"
+"\n"
+">Increases Flametrooper health\n"
+"\n"
+"- Where one holds, ten thousand stop."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorMCVHealth
+msgctxt "UPGRADENAME:ArmorMCVHealth"
+msgid "固若金汤"
+msgstr "Invulnerable Against All"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorMCVHealth
+msgctxt "UPGRADETYPE:ArmorMCVHealth"
+msgid "建筑血量升级"
+msgstr "Base Defense Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:ArmorMCVHealth
+msgctxt "DESCRIPTION:ArmorMCVHealth"
+msgid ""
+"百二河山，磐石之安。加大战地速建流程审查力度，实现严格质量把关，提高建筑的结构强度与战场耐受力。\r\n"
+"\r\n"
+">> 建筑生命值 +25%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"By intensifying the review rapid battlefield construction and achieving strict quality control, Chinese structures will become much more durable.\n"
+"\n"
+"> Increases building health (+25%)\n"
+"\n"
+"- With firm terrain like this, two men could fend off a hundred."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorNavalMissile
+msgctxt "UPGRADENAME:ArmorNavalMissile"
+msgid "蛟龙出海"
+msgstr "The Dragon Breaches Water"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorNavalMissile
+msgctxt "UPGRADETYPE:ArmorNavalMissile"
+msgid "解锁武器"
+msgstr "Unlock Weapon"
+
+#. New in Armor Rush, NOTE: See Submarine names in SovietUnits
+#: DESCRIPTION:ArmorNavalMissile
+msgctxt "DESCRIPTION:ArmorNavalMissile"
+msgid ""
+"不鸣则已，一鸣惊人。为山海潜艇加装一对艇背发射管，使用“蛟龙”式潜射巡航导弹支援地面战场。\r\n"
+"\r\n"
+">>解锁山海级潜艇导弹\r\n"
+"\r\n"
+">>开始升级"
+msgstr ""
+"Install a pair of missile launch tubes for Shan Hai submarines, allowing the use of submarine-launched cruise missiles for offshore support.\n"
+"\n"
+"> Installs Shan Hai cruise missiles\n"
+"\n"
+"- If you do nothing and stay quiet, that's it. Once you begin to sing, the world shall be shocked."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorNavalProduction
+msgctxt "UPGRADENAME:ArmorNavalProduction"
+msgid "事半功倍"
+msgstr "Doubled Results, Half Effort"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorNavalProduction
+msgctxt "UPGRADETYPE:ArmorNavalProduction"
+msgid "加快生产"
+msgstr "Production Time Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:ArmorNavalProduction
+msgctxt "DESCRIPTION:ArmorNavalProduction"
+msgid ""
+"天下武功，唯快不破。整合芜杂岗位，简化舰艇下水所需手续，使血月海面力量能尽快投入战场。\r\n"
+"\r\n"
+">>海军生产时间减少\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"By combining miscellaneous posts and cutting red tape, Scarlet Crescent's navies can be deployed to the battlefield as soon as possible.\n"
+"\n"
+"> Decreases navy production time\n"
+"\n"
+"- Of all the martial arts in the world, only extreme speed cannot be defeated."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorTechAA
+msgctxt "UPGRADENAME:ArmorTechAA"
+msgid "百步穿杨"
+msgstr "Aim Precisely, Hit from Afar"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorTechAA
+msgctxt "UPGRADETYPE:ArmorTechAA"
+msgid "武器升级"
+msgstr "AA Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See Vehicle names in SovietUnits
+#: DESCRIPTION:ArmorTechAA
+msgctxt "DESCRIPTION:ArmorTechAA"
+msgid ""
+"先声夺人，拒敌千里。给63式高炮配备更轻型的防空弹药，让经验丰富的血月防空手能击中更远的目标。\r\n"
+"\r\n"
+">>提高彤弓、防空炮射程\r\n"
+"\r\n"
+">>开始升级"
+msgstr ""
+"Accelerate the development of and equip lighter ammunition for anti-air weaponry, allowing them to hit more distant targets.\n"
+"\n"
+"> Increases range for the following units:\n"
+"    Type-63 AA Battery\n"
+"    Tong Gong\n"
+"\n"
+"- Take the lead, and resist the enemy for a thousand miles."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorTechRush
+msgctxt "UPGRADENAME:ArmorTechRush"
+msgid "万众一心"
+msgstr "Many Peoples, One Mind"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorTechRush
+msgctxt "UPGRADETYPE:ArmorTechRush"
+msgid "部队强化"
+msgstr "Unit Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:ArmorTechRush
+msgctxt "DESCRIPTION:ArmorTechRush"
+msgid ""
+"言之在前，勿谓不预。发起全国动员，利用血月领土雄厚的战争资源全面强化军队综合实力。\r\n"
+"\r\n"
+">>提高每个单位各项属性\r\n"
+"\r\n"
+">>开始升级"
+msgstr ""
+"Initiate national mobilization, fully utilising China's abundant resources to comprehensively strengthen military might.\n"
+"\n"
+">Improves all unit attributes\n"
+"\n"
+"- As we said before, you have been forewarned. We will strike back and win."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorTechScout
+msgctxt "UPGRADENAME:ArmorTechScout"
+msgid "拨云见日"
+msgstr "Dispel Clouds, See the Sun"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorTechScout
+#, fuzzy
+msgctxt "UPGRADETYPE:ArmorTechScout"
+msgid "侦查装备升级"
+msgstr "Reconnaissance equipment upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:ArmorTechScout
+msgctxt "DESCRIPTION:ArmorTechScout"
+msgid "知己知彼，百战不殆。给血月将士配发简易望远镜，增加他们的肉眼观察距离与侦查清晰度。"
+msgstr ""
+"Develop better radar modules to expand the field of vision of China's forces.\n"
+"\n"
+"- Knowledge is power, France may or may not be bacon."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorWarFire
+msgctxt "UPGRADENAME:ArmorWarFire"
+msgid "三味真火"
+msgstr "True Samadhi Fire"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorWarFire
+msgctxt "UPGRADETYPE:ArmorWarFire"
+msgid "武器升级"
+msgstr "Flame Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry / Vehicle names in SovietUnits
+#: DESCRIPTION:ArmorWarFire
+msgctxt "DESCRIPTION:ArmorWarFire"
+msgid ""
+"P2O5，烧出净土。研发烈性燃料配方，改良喷火器结构，大幅度提升火焰武器的杀伤力。\r\n"
+"\r\n"
+">>喷火兵、火炮机车、59式坦克喷火改装使用纯火\r\n"
+"\r\n"
+">>开始升级"
+msgstr ""
+"Upgrades all flamethrowers with more volatile fuel, greatly enhancing their lethality.\n"
+"\n"
+"> Increases flamethrower effectiveness for the following units:\n"
+"     Flametrooper\n"
+"     Mortar Cycle\n"
+"     Type-59 Flame Tank\n"
+"\n"
+"- Phosphorus pentoxide scorches the earth beneath."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorWarReform
+msgctxt "UPGRADENAME:ArmorWarReform"
+msgid "井然有序"
+msgstr "In Good Order, Twice Over"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorWarReform
+msgctxt "UPGRADETYPE:ArmorWarReform"
+msgid "加速改装"
+msgstr "Refit Upgrade"
+
+#. New in Armor Rush, NOTE: See Vehicle names in SovietUnits
+#: DESCRIPTION:ArmorWarReform
+msgctxt "DESCRIPTION:ArmorWarReform"
+msgid ""
+"不以规矩，不成方圆。规整各厂生产的59式坦克替换部件，推广标准化生产，使更复杂的改装成为可能。\n"
+"\n"
+">>解锁59式坦克坦克歼击车改装\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Standardise all Type-59 replacement parts between different producers, allowing more complex configurations.\n"
+"\n"
+"> Unlocks Type-59 Destroyer Configuration\n"
+"\n"
+"- No rules, no radius."
+
+#. New in Armor Rush
+#: UPGRADENAME:ArmorWarTank
+msgctxt "UPGRADENAME:ArmorWarTank"
+msgid "技艺娴熟"
+msgstr "Learned Crews"
+
+#. New in Armor Rush
+#: UPGRADETYPE:ArmorWarTank
+#, fuzzy
+msgctxt "UPGRADETYPE:ArmorWarTank"
+msgid "部队强化"
+msgstr ""
+"Force strengthening\n"
+"\n"
+"\n"
+"The troops are strengthened."
+
+#. New in Armor Rush, NOTE: See Vehicle names in SovietUnits
+#: DESCRIPTION:ArmorWarTank
+msgctxt "DESCRIPTION:ArmorWarTank"
+msgid ""
+"身经百战，谈笑风生。选用熟知西方那一套武器理论的驾驶员，能在快速适应战场的同时规避部分伤害。\r\n"
+"\r\n"
+">>彤弓、59坦克生命值、经验获取率增加\r\n"
+"\r\n"
+">>开始升级"
+msgstr ""
+"Enforces flexibility amongst vehicle crews, instilling in them toughness and quick learning on the battlefield.\n"
+"\n"
+"> Increases health and accelerates veterancy growth for the following units:\n"
+"    Tong Gong\n"
+"    Type-59 Tank\n"
+"\n"
+"- Many battles they fought, still they talk casually,"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietAirNaval
+msgctxt "UPGRADENAME:SovietAirNaval"
+msgid "机载反舰飞弹"
+msgstr "Anti-Ship Missiles"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietAirNaval
+msgctxt "UPGRADETYPE:SovietAirNaval"
+msgid "海战升级"
+msgstr "Twinblade Anti-Naval Upgrade"
+
+#. New in Armor Rush, NOTE: Check Twinblade Name
+#: DESCRIPTION:SovietAirNaval
+msgctxt "DESCRIPTION:SovietAirNaval"
+msgid ""
+"将双刃直升机的火箭弹改装为反舰导弹，更有效地攻击敌方水面舰艇，但是无法锁定地面目标。\r\n"
+"\r\n"
+">>反舰武器改装\r\n"
+"    双刃直升机\r\n"
+"\r\n"
+"开始改装>>"
+msgstr ""
+"Converts Twinblade helicopter rockets into anti-ship missiles, which trade the ability to attack ground targets for increased anti-naval effectiveness.\n"
+"\n"
+"> Equips Twinblades with anti-ship missiles"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietTechArmor
+msgctxt "UPGRADENAME:SovietTechArmor"
+msgid "装甲洪流"
+msgstr "Armor Rush"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietTechArmor
+msgctxt "UPGRADETYPE:SovietTechArmor"
+msgid "终极强化升级"
+msgstr "Heavy Combat Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in SovietsUnits
+#: DESCRIPTION:SovietTechArmor
+msgctxt "DESCRIPTION:SovietTechArmor"
+msgid ""
+"对装甲单位进行改造，提高它们的各项性能！\r\n"
+"\r\n"
+">>作战能力提升\r\n"
+"     铁锤坦克\r\n"
+"     天启坦克\r\n"
+"     V4\r\n"
+"     阿库拉潜艇\r\n"
+"     无畏战舰\r\n"
+"     基洛夫空艇\r\n"
+"\r\n"
+"     生命值，伤害，射速，射程提升\r\n"
+"\r\n"
+"开始改造>>"
+msgstr ""
+"Further improves the combat abilities of Soviet armored units.\r\n"
+"\r\n"
+"> Increases health, damage, range and fire rate for the following units:\n"
+"     Hammer Tank\n"
+"     Apocalypse Tank\n"
+"     V4 Rocket Launcher\n"
+"     Akula Submarine\n"
+"     Dreadnought\n"
+"     Kirov Airship"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:SovietTechArmor
+msgctxt "UPGRADEPREREQ:SovietTechArmor"
+msgid "装甲洪流"
+msgstr "Armor Rush"
+
+#. New in Armor Rush
+#: NAME:NationalismSpecialPower
+msgctxt "NAME:NationalismSpecialPower"
+msgid "军魂兵法"
+msgstr "Patriotism Boost"
+
+#. New in Armor Rush
+#: DESC:NationalismSpecialPower
+msgctxt "DESC:NationalismSpecialPower"
+msgid "激励战士们的士气并启用机械化突击战术进行作战，命令附近59式坦克全速前进并为协同作战的突击兵提供掩护。"
+msgstr "Briefly provide cover for and stimulate the morale of nearby soldiers, as well as order nearby Type-59 tanks to charge at full speed!"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietTechBuilding
+msgctxt "UPGRADENAME:SovietTechBuilding"
+msgid "高级工程学"
+msgstr "Sevastopol Fortifications"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietTechBuilding
+msgctxt "UPGRADETYPE:SovietTechBuilding"
+msgid "建筑升级"
+msgstr "Base Defense Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:SovietTechBuilding
+msgctxt "DESCRIPTION:SovietTechBuilding"
+msgid ""
+"对建筑结构的改造会让建筑有更稳固的结构，更耐打击的能力。\r\n"
+"\r\n"
+">>生命值提升\r\n"
+"     苏联建筑物\r\n"
+"\r\n"
+"     生命值+20%\r\n"
+"\r\n"
+"开始改造>>"
+msgstr ""
+"Revise armor layouts on structures, allowing for more fortifications to be built onto them. \r\n"
+"\n"
+"> Increase building health (+20%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:SovietTechBuilding
+msgctxt "UPGRADEPREREQ:SovietTechBuilding"
+msgid "高级工程学"
+msgstr "Sevastopol Fortifications"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietTechGun
+msgctxt "UPGRADENAME:SovietTechGun"
+msgid "枪械升级"
+msgstr "Armor-Piercing Bullets"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietTechGun
+msgctxt "UPGRADETYPE:SovietTechGun"
+msgid "反装甲武器升级"
+msgstr "MG Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:SovietTechGun
+#, fuzzy
+msgctxt "DESCRIPTION:SovietTechGun"
+msgid ""
+"改造机枪，使其能填装威力更强的子弹，但略微降低射速。\n"
+"\n"
+">>机枪改造\n"
+"     双刃\n"
+"     镰刀机甲\n"
+"     哨兵枪\n"
+"\n"
+"开始改造>>"
+msgstr ""
+"The machine gun was modified so that it could be loaded with more powerful bullets, but the rate of fire was slightly reduced.\n"
+"\n"
+">>Machine gun modification\n"
+"      Double-edged\n"
+"      Sickle Mech\n"
+"      Sentry gun\n"
+"\n"
+"Start the transformation >>\n"
+"\n"
+"\n"
+"Transform the machine gun so that it can fill more powerful bullets, but slightly reduce the speed of fire.\n"
+"\n"
+">> machine gun makeover.\n"
+"     Double-edged.\n"
+"     Sickle armor.\n"
+"     Sentinel gun.\n"
+"\n"
+"Start remodeling >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:SovietTechGun
+msgctxt "UPGRADEPREREQ:SovietTechGun"
+msgid "枪械升级"
+msgstr "Armor-Piercing Bullets"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaAirTesla
+msgctxt "UPGRADENAME:TeslaAirTesla"
+msgid "磁能火箭弹升级"
+msgstr "Tesla Rockets"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaAirTesla
+msgctxt "UPGRADETYPE:TeslaAirTesla"
+msgid "武器特化"
+msgstr "Twinblade Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaAirTesla
+#, fuzzy
+msgctxt "DESCRIPTION:TeslaAirTesla"
+msgid ""
+"将双刃的火箭弹改装为能在水中产生磁能新星的磁能火箭弹，但常规伤害降低。\n"
+"\n"
+">>武器改装\n"
+"    双刃\n"
+"\n"
+"     改装磁能火箭弹\n"
+"     常规伤害降低\n"
+"\n"
+"开始改装>>"
+msgstr ""
+"The double-edged rocket is modified into a magnetic rocket that can generate a magnetic nova in the water, but the regular damage is reduced.\n"
+"\n"
+">>Weapon modification\n"
+"     Double-edged\n"
+"\n"
+"      Modified magnetic energy rocket\n"
+"      Regular damage reduction\n"
+"\n"
+"Start modification>>\n"
+"\n"
+"\n"
+"The double-edged rocket was converted into a magnetic rocket that could generate magnetic energy in the water, but the conventional damage was reduced.\n"
+"\n"
+">> weapons are modified.\n"
+"    Double-edged.\n"
+"\n"
+"Modify magnetic rockets.\n"
+"     General damage is reduced.\n"
+"\n"
+"Start retrofitting >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaBarracksAntiToxin
+msgctxt "UPGRADENAME:TeslaBarracksAntiToxin"
+msgid "生化装备升级"
+msgstr "Chemical Suits"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaBarracksAntiToxin
+msgctxt "UPGRADETYPE:TeslaBarracksAntiToxin"
+msgid "装备升级"
+msgstr "Infantry Survivability Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaBarracksAntiToxin
+msgctxt "DESCRIPTION:TeslaBarracksAntiToxin"
+msgid ""
+"让步兵们穿上不方便的防化服，对毒素有很高的抵抗力。再给征召兵们携带有毒的莫洛托夫鸡尾酒（也许是变质），让战场毒性倍增。\r\n"
+"\r\n"
+">>防毒素腐蚀\r\n"
+"     克格勃步兵\r\n"
+"\r\n"
+"     受到毒素伤害极低\r\n"
+"     速度-5%\r\n"
+"\r\n"
+">>毒素鸡尾酒\r\n"
+"     征召兵\r\n"
+"\r\n"
+"     燃烧瓶带毒\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Equips all KGB infantry with protective, somewhat cumbersome chemical suits. In addition, conscripts now carry toxin cocktails.\n"
+"\n"
+"> Grants infantry toxin resistance\n"
+"    Decreases infantry speed (-5%)\n"
+"\n"
+"> Equips Conscripts with toxin cocktails"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaBarracksSpeed
+msgctxt "UPGRADENAME:TeslaBarracksSpeed"
+msgid "轻装上阵升级"
+msgstr "Lightened Equipment"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaBarracksSpeed
+msgctxt "UPGRADETYPE:TeslaBarracksSpeed"
+msgid "速度强化"
+msgstr "Infantry Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaBarracksSpeed
+msgctxt "DESCRIPTION:TeslaBarracksSpeed"
+msgid ""
+"卸下多余的，不必要的装备，加快步兵的奔跑速度。\r\n"
+"\r\n"
+">>速度提升\r\n"
+"     克格勃步兵\r\n"
+"\r\n"
+"     速度+15%，生命值-10%\r\n"
+"\r\n"
+"开始卸载>>"
+msgstr ""
+"Distributes lighter armor and equipment to infantry units, increasing their speed in exchange for survivability.\n"
+"\n"
+"> Increases infantry speed (+15%)\n"
+"\n"
+"> Decreases infantry health (-10%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaNavalTesla
+msgctxt "UPGRADENAME:TeslaNavalTesla"
+msgid "磁暴快艇升级"
+msgstr "Overcharged Stingrays"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaNavalTesla
+msgctxt "UPGRADETYPE:TeslaNavalTesla"
+msgid "武器升级"
+msgstr "Stingray Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaNavalTesla
+#, fuzzy
+msgctxt "DESCRIPTION:TeslaNavalTesla"
+msgid ""
+"为磁暴快艇换装新式的，更强劲的磁暴装置。\n"
+"\n"
+">>作战能力提升\n"
+"     磁暴快艇\n"
+"\n"
+"     伤害，射速，射程提升\n"
+"\n"
+"开始改造>>"
+msgstr ""
+"Replace the magnetic storm speedboat with a new and more powerful magnetic storm device.\n"
+"\n"
+">>Strengthening combat capability\n"
+"      Magnetic storm boat\n"
+"\n"
+"      Damage, rate of fire, range increase\n"
+"\n"
+"Start the transformation >>\n"
+"\n"
+"\n"
+"Replace the magnetic storm speedboat with a new, more powerful magnetic storm device.\n"
+"\n"
+">> capability is enhanced.\n"
+"     Magnetic storm speedboat.\n"
+"\n"
+"Damage, shooting speed, range increase.\n"
+"\n"
+"Start remodeling >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaSpell
+msgctxt "UPGRADENAME:TeslaSpell"
+msgid "精英部队"
+msgstr "Advanced Training"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaSpell
+msgctxt "UPGRADETYPE:TeslaSpell"
+msgid "部队强化"
+msgstr "Unit Veterancy Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaSpell
+msgctxt "DESCRIPTION:TeslaSpell"
+msgid ""
+"与苏联最高统帅部协商，调派更多优秀士官，在部队训练上占据优势。\r\n"
+"\r\n"
+">>经验值获取\r\n"
+"     所有克格勃单位\r\n"
+"     经验获取+50%\r\n"
+"\r\n"
+">>战略配备优先权\r\n"
+"     协议冷却时间-8%\r\n"
+"\r\n"
+"开始训练>>"
+msgstr ""
+"Consult with Soviet High Command to acquire better training officers for KGB forces.\n"
+"\n"
+"> Accelerate unit veterancy growth (+50%)\n"
+"\n"
+"> Top-Secret Protocol cooldown -10%"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaTechHealth
+msgctxt "UPGRADENAME:TeslaTechHealth"
+msgid "特种部队"
+msgstr "Special Forces"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaTechHealth
+msgctxt "UPGRADETYPE:TeslaTechHealth"
+msgid "终极部队强化"
+msgstr "Unit Combat Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaTechHealth
+#, fuzzy
+msgctxt "DESCRIPTION:TeslaTechHealth"
+msgid ""
+"给予我们最精锐的部队最好的装备，充分发挥特种部队的机动性优势，给予敌人致命打击！\n"
+"\n"
+">>作战能力提升\n"
+"     征召兵\n"
+"     磁暴突击队\n"
+"     磁暴坦克\n"
+"     天启坦克\n"
+"     V4火箭发射车\n"
+"     磁暴快艇\n"
+"     梭鱼级潜艇\n"
+"     无畏级战舰\n"
+"\n"
+"     伤害+10%，速度+25%\n"
+"\n"
+"开始训练>>"
+msgstr ""
+"Give our most elite troops the best equipment, give full play to the mobility advantages of special forces, and give the enemy a fatal blow!\n"
+"\n"
+">>Strengthening combat capability\n"
+"      Conscript\n"
+"      Magnetic Storm Commando\n"
+"      Magnetic Storm Tank\n"
+"      Apocalypse Tank\n"
+"      V4 rocket launcher\n"
+"      Magnetic storm boat\n"
+"      Barracuda class submarine\n"
+"      Dreadnought-class battleship\n"
+"\n"
+"      Damage +10%, speed +25%\n"
+"\n"
+"Start training >>\n"
+"\n"
+"\n"
+"Give our most elite troops the best equipment, give full play to the mobility of special forces advantages, give the enemy a deadly blow!\n"
+"\n"
+">> capability is enhanced.\n"
+"     Recruiting soldiers.\n"
+"     Magnetic Stormtromp.\n"
+"     Magnetic Storm Tank.\n"
+"     Apocalypse tank.\n"
+"     V4 rocket launcher.\n"
+"     Magnetic storm speedboat.\n"
+"     Barracuda-class submarines.\n"
+"     Intrepid class warships.\n"
+"\n"
+"Damage: 10%, speed, 25%\n"
+"\n"
+"Start training >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaTechSight
+msgctxt "UPGRADENAME:TeslaTechSight"
+msgid "侦察升级"
+msgstr "Improved Radar Modules"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaTechSight
+msgctxt "UPGRADETYPE:TeslaTechSight"
+msgid "通讯装备升级"
+msgstr "Unit Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaTechSight
+msgctxt "DESCRIPTION:TeslaTechSight"
+msgid ""
+"加强卫星和信号接收器功率，扩大单位的视野。\r\n"
+"\r\n"
+">>扩大视野\r\n"
+"     所有单位\r\n"
+"\r\n"
+"     视野+20%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Develop better radar modules to expand the field of vision of KGB forces.\n"
+"\n"
+"> Increases unit vision range (+20%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaTechTesla
+msgctxt "UPGRADENAME:TeslaTechTesla"
+msgid "电磁工程优化"
+msgstr "Coil Heatsink Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaTechTesla
+msgctxt "UPGRADETYPE:TeslaTechTesla"
+msgid "磁暴武器升级"
+msgstr "Tesla Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaTechTesla
+msgctxt "DESCRIPTION:TeslaTechTesla"
+msgid ""
+"针对性地对磁能武器制造工程进行进一步强化，提升所有磁能武器的性能，增加其冷却与发射速度。\n"
+"\n"
+">>武器性能提升\n"
+"     磁暴快艇\n"
+"     磁暴线圈\n"
+"\n"
+"     射速+25%\n"
+"\n"
+"     磁暴步兵\n"
+"     磁暴坦克\n"
+"\n"
+"     射速+15%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Improves the heatsinks used in tesla weaponry, allowing all Tesla-wielding units to fire faster.\n"
+"\n"
+"> Increases fire rate (+25%) for the following units:\n"
+"     Stingray\n"
+"     Tesla Coil\n"
+"\n"
+"> Increases fire rate (+15%) for the following units:\n"
+"     Tesla Stormtrooper\n"
+"     Tesla Tank"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaTechToxin
+msgctxt "UPGRADENAME:TeslaTechToxin"
+msgid "毒素装药升级"
+msgstr "Toxin Warheads"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaTechToxin
+msgctxt "UPGRADETYPE:TeslaTechToxin"
+msgid "高级模块升级"
+msgstr "Toxin Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaTechToxin
+#, fuzzy
+msgctxt "DESCRIPTION:TeslaTechToxin"
+msgid ""
+"为所有可行的弹药种类加装毒素战斗部，让我们的敌人感受死亡与恐惧。\n"
+"注意：请提前为我方作战人员准备好防化装备！！\n"
+"\n"
+">>武器性能提升\n"
+"     V4\n"
+"     无畏战舰\n"
+"     米格战机\n"
+"     帕布利琴科\n"
+"\n"
+"     加装毒素弹头\n"
+"     血量和常规伤害略微降低\n"
+"\n"
+"开始改装>>"
+msgstr ""
+"Install toxin warheads for all viable types of ammunition to make our enemies feel death and fear.\n"
+"Note: Please prepare anti-chemical equipment for our combat personnel in advance! !\n"
+"\n"
+">>Weapon performance improvement\n"
+"      V4\n"
+"      Dreadnought Battleship\n"
+"      MiG fighter\n"
+"      Pablchenko\n"
+"\n"
+"      Add toxin warhead\n"
+"      Slightly reduced health and regular damage\n"
+"\n"
+"Start modification>>\n"
+"\n"
+"\n"
+"Add toxin fighting departments to all possible types of ammunition to make our enemies feel dead and feared.\n"
+"Note: Please prepare your anti-chemical equipment for our fighters in advance!!\n"
+"\n"
+">> weapon performance is improved.\n"
+"     V4.\n"
+"     Fearless warships.\n"
+"     MiG fighter.\n"
+"     Pablichenko.\n"
+"\n"
+"Add toxin warheads.\n"
+"     Blood volume and routine damage were slightly reduced.\n"
+"\n"
+"Start retrofitting >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaWarRange
+msgctxt "UPGRADENAME:TeslaWarRange"
+msgid "高级电动力学"
+msgstr "Advanced Electrodynamics"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaWarRange
+msgctxt "UPGRADETYPE:TeslaWarRange"
+msgid "磁暴武器升级"
+msgstr "Tesla Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaWarRange
+msgctxt "DESCRIPTION:TeslaWarRange"
+msgid ""
+"申请使用特斯拉-2计划所研发的高级磁能武器构件，将新型磁能线圈与磁能炸弹投入战场。\n"
+"\n"
+">>武器性能提升\n"
+"     磁暴步兵\n"
+"     磁暴坦克\n"
+"     磁暴快艇\n"
+"\n"
+"     攻击附带磁能连锁闪电\n"
+"\n"
+">>单位解锁\n"
+"     袋狸轰炸机\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Clear the use of advanced magnetic weapon components developed by the Tesla-2 program, deploying advanced Tesla coils and bombs to the battlefield.\n"
+"\n"
+"> Upgrades to chain tesla attacks for the following units:\n"
+"     Tesla Stormtrooper\n"
+"     Tesla Tank\n"
+"     Stingray\n"
+"\n"
+"> Unlocks Badger Bomber"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaWarSpeed
+msgctxt "UPGRADENAME:TeslaWarSpeed"
+msgid "传动系统优化"
+msgstr "Track System Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaWarSpeed
+msgctxt "UPGRADETYPE:TeslaWarSpeed"
+msgid "速度强化"
+msgstr "Vehicle Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaWarSpeed
+msgctxt "DESCRIPTION:TeslaWarSpeed"
+msgid ""
+"精制的轴承和履带能确保载具以更高速度前进，确保了行军的快速。\n"
+"\n"
+">>速度提升\n"
+"     克格勃地面载具\n"
+"\n"
+"     速度+10%\n"
+"\n"
+"开始改装>>"
+msgstr ""
+"Refinements in the manufacture of tracks and bearings enable KGB vehicles to move at higher speeds.\n"
+"\n"
+">Increases vehicle speed (+10%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaWarTesla
+msgctxt "UPGRADENAME:TeslaWarTesla"
+msgid "磁能子弹"
+msgstr "Tesla Bullets"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaWarTesla
+msgctxt "UPGRADETYPE:TeslaWarTesla"
+msgid "高级模块升级"
+msgstr "Tesla Weapon Development"
+
+#. New in Armor Rush, NOTE: Check unit names
+#: DESCRIPTION:TeslaWarTesla
+msgctxt "DESCRIPTION:TeslaWarTesla"
+msgid ""
+"苏联科学家们终于想出了办法把闪电装入最普通步兵的枪中，但过高的能量使得这些武器不能快速连续射击。\r\n"
+"\r\n"
+">>先进武器改装\r\n"
+"     征召兵\r\n"
+"     镰刀机甲\r\n"
+"     哨兵枪\r\n"
+"     帕布利琴科\r\n"
+"\r\n"
+"     使用磁暴类子弹武器\r\n"
+"     射程-8%，血量-10%\r\n"
+"\r\n"
+"开始改装>>"
+msgstr ""
+"Soviet scientists finally figured out how to pack Tesla energy into common infantry guns, at the cost of fire rate.\n"
+"\n"
+"> Installs Tesla bullets, decreases health (-10%) and range (-8%) for the following units:\n"
+"     Conscript\n"
+"     Sickle\n"
+"     Sentry Gun\n"
+"     Pavlichenko"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaWarToxin
+msgctxt "UPGRADENAME:TeslaWarToxin"
+msgid "英勇就义"
+msgstr "Toxic Sacrifice"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaWarToxin
+msgctxt "DESCRIPTION:TeslaWarToxin"
+msgid ""
+"带上毒素炸弹，当快被敌人杀死时，引爆炸弹，杀死一群敌军。\r\n"
+"\r\n"
+">>毒素自爆\r\n"
+"     克格勃地面载具\r\n"
+"\r\n"
+"     死亡后爆炸出毒素\r\n"
+"     生命值-5%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Ground vehicles now carry toxin bombs which detonate on vehicle destruction, spreading toxins around a small area.\n"
+"\n"
+"> Creates toxin explosions on destruction of vehicles"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaBarracksMolo
+msgctxt "UPGRADENAME:TeslaBarracksMolo"
+msgid "毒素手雷升级"
+msgstr "Toxin Cocktails"
+
+#. New in Armor Rush
+#: UPGRADENAME:TeslaWarSkill
+msgctxt "UPGRADENAME:TeslaWarSkill"
+msgid "战地作战手册"
+msgstr "Operations Manuals"
+
+#. New in Armor Rush
+#: UPGRADETYPE:TeslaWarSkill
+msgctxt "UPGRADETYPE:TeslaWarSkill"
+msgid "作战经验升级"
+msgstr "Vehicle Veterancy Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:TeslaWarSkill
+msgctxt "DESCRIPTION:TeslaWarSkill"
+msgid ""
+"针对当面之敌，向各单位发放相应的战地手册，提高部队在战斗中理解和对抗敌人的特性的能力。\n"
+"\n"
+">>经验值获取\n"
+"     所有克格勃地面载具\n"
+"     经验获取+50%\n"
+"\n"
+"开始改装>>"
+msgstr ""
+"Distributes high-quality, detailed field manuals to all KGB vehicles, allowing them to gain veterancy faster.\n"
+"\n"
+"> Accelerate vehicle veterancy growth (+50%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietAdvTeslaCoil
+#, fuzzy
+msgctxt "UPGRADENAME:SovietAdvTeslaCoil"
+msgid "高级线圈设计"
+msgstr "Advanced Coil Design"
+
+#. New in Armor Rush
+#: UPGRADETYPE:SovietAdvTeslaCoil
+msgctxt "UPGRADETYPE:SovietAdvTeslaCoil"
+msgid "武器升级"
+msgstr "Tesla Coil Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:SovietAdvTeslaCoil
+#, fuzzy
+msgctxt "DESCRIPTION:SovietAdvTeslaCoil"
+msgid ""
+"依靠电磁工程学的最新成果，改造磁暴线圈武器设计，有效增强其战斗力，使其能够对主要目标周围的敌人产生连锁闪电，必要时可以超载线圈释放磁能爆裂。\n"
+"\n"
+">>武器性能提升\n"
+"     磁暴线圈\n"
+"\n"
+"     射程+15%，射速+20%\n"
+"     攻击附带磁能连锁闪电，解锁技能超级磁能爆裂\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Relying on the latest achievements of electromagnetic engineering, the design of the magnetic storm coil weapon is modified to effectively enhance its combat effectiveness, so that "
+"it can produce chain lightning to the enemy around the main target, and overload the coil to release magnetic energy burst when necessary.\n"
+"\n"
+">>Weapon performance improvement\n"
+"      Magnetic storm coil\n"
+"\n"
+"      Range +15%, rate of fire +20%\n"
+"      Attack with magnetic energy chain lightning, unlock the skill Super Magnetic Energy Burst\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"\n"
+"Relying on the latest achievements in electromagnetic engineering, the design of the magnetic storm coil weapon is modified to effectively enhance its combat effectiveness, enabling "
+"it to produce chain lightning against enemies around the main target and, if necessary, overloading the coil to release magnetic energy bursts.\n"
+"\n"
+">> weapon performance is improved.\n"
+"     Magnetic storm coil.\n"
+"\n"
+"Range: 15%, shooting speed, 20%\n"
+"     Attack comes with a magnetic chain lightning bolt that unlocks the skill super magnetic burst.\n"
+"\n"
+"Start upgrading >>."
+
+#  ## Buildings ##
+#. New in Armor Rush
+#: NAME:SovietMCVTesla
+msgctxt "NAME:SovietMCVTesla"
+msgid "克格勃基地车"
+msgstr "KGB MCV"
+
+#. New in Armor Rush
+#: NAME:SovietConstructionYardTesla
+msgctxt "NAME:SovietConstructionYardTesla"
+msgid "克格勃军情处"
+msgstr "Military Intelligence HQ"
+
+#. New in Armor Rush
+#: DESC:SovietConstructionYardTesla
+msgctxt "DESC:SovietConstructionYardTesla"
+msgid "克格勃基地的心脏。生产军用建筑，还能打包成基地车。"
+msgstr "Center of any KGB base. They assemble military structures and may pack up into MCVs."
+
+#. New in Armor Rush
+#: DESC:SovietMCVArmor
+msgctxt "DESC:SovietMCVArmor"
+msgid "运载着血月众多机动建材的重型履带卡车，随时可以展开成为临时指战中心。"
+msgstr "Heavily-armored, self-powered production vehicles used to push the front lines."
+
+#. New in Armor Rush
+#: NAME:SovietConstructionYardArmor
+msgctxt "NAME:SovietConstructionYardArmor"
+msgid "指战中心"
+msgstr "Command Center"
+
+#. New in Armor Rush
+#: DESC:SovietConstructionYardArmor
+msgctxt "DESC:SovietConstructionYardArmor"
+msgid "进行战区机动作战的核心建筑，整合了全套机动建设组件与战场指挥系统。"
+msgstr "Core of any Scarlet Crescent base. They assemble military structures and may pack up into MCVs."
+
+#. New in Armor Rush
+#: DESC:SovietPowerPlantTesla
+msgctxt "DESC:SovietPowerPlantTesla"
+msgid "克格勃的工厂和基地防御需要这些发电站提供的大量电力。"
+msgstr "KGB facilities and base defenses require considerable power, which Reactors provide."
+
+#. New in Armor Rush
+#: NAME:SovietPowerPlantArmor
+msgctxt "NAME:SovietPowerPlantArmor"
+msgid "火电站"
+msgstr "Thermal Reactor"
+
+#. New in Armor Rush
+#: DESC:SovietPowerPlantArmor
+msgctxt "DESC:SovietPowerPlantArmor"
+msgid "血月社会与军队现代化的基础，这些小型电力建筑通过燃煤来提供电能。"
+msgstr "Chinese facilities and base defenses require considerable power, which Thermal Reactors provide."
+
+#. New in Armor Rush
+#: NAME:SovietBarracksTesla
+msgctxt "NAME:SovietBarracksTesla"
+msgid "克格勃宪兵营"
+msgstr "Strelet Academy"
+
+#. New in Armor Rush
+#: DESC:SovietBarracksTesla
+msgctxt "DESC:SovietBarracksTesla"
+msgid "所有的克格勃步兵都在这些设施中受训，就是有时训练的潦草了点。"
+msgstr "All KGB troops are (relatively) thoroughly trained at modest facilities such as these."
+
+#. New in Armor Rush
+#: NAME:SovietBarracksArmor
+msgctxt "NAME:SovietBarracksArmor"
+msgid "步战营"
+msgstr "Infantry Camp"
+
+#. New in Armor Rush
+#: DESC:SovietBarracksArmor
+msgctxt "DESC:SovietBarracksArmor"
+msgid "血月士兵在被部署到战场前的中转场所，他们在此领取装备并接受最终检阅。"
+msgstr "All Chinese battalions are deployed and armed at modest facilities such as these."
+
+#. New in Armor Rush, NOTE: See Collector Name in SovietUnits
+#: DESC:SovietRefineryTesla
+msgctxt "DESC:SovietRefineryTesla"
+msgid "矿车在这里和矿石采集点间往返，填充着克格勃的保险箱。"
+msgstr "Ore Collectors toil between these and ore gathering points, filling KGB coffers."
+
+#. New in Armor Rush
+#: NAME:SovietRefineryArmor
+msgctxt "NAME:SovietRefineryArmor"
+msgid "冶矿厂"
+msgstr "Ore Smelter"
+
+#. New in Armor Rush
+#: DESC:SovietRefineryArmor
+msgctxt "DESC:SovietRefineryArmor"
+msgid "收集与提炼珍贵矿物的经济设施，血月必不可少的军费来源。"
+msgstr "Ore Collectors toil between these and ore gathering points, filling China's coffers."
+
+#. New in Armor Rush
+#: NAME:SovietWarFactoryTesla
+msgctxt "NAME:SovietWarFactoryTesla"
+msgid "克格勃特种车辆厂"
+msgstr "Specialised Factory"
+
+#. New in Armor Rush
+#: DESC:SovietWarFactoryTesla
+msgctxt "DESC:SovietWarFactoryTesla"
+msgid "名声在外的克格勃特种装甲师和其他车辆从这些工厂里诞生。"
+msgstr "The notorious KGB special armor divisions and other vehicles are produced from these facilities."
+
+#. New in Armor Rush
+#: NAME:SovietWarFactoryArmor
+msgctxt "NAME:SovietWarFactoryArmor"
+msgid "战车工厂"
+msgstr "Arms Factory"
+
+#. New in Armor Rush
+#: DESC:SovietWarFactoryArmor
+msgctxt "DESC:SovietWarFactoryArmor"
+msgid "能快速装配血月各类装甲车辆的重型工厂，可结合战况对装甲部队进行多种工程学改良。"
+msgstr "The renowned Scarlet Crescent tank divisions, as well as helicopters, are deployed from these facilities."
+
+#. New in Armor Rush
+#: NAME:SovietAirfieldTesla
+msgctxt "NAME:SovietAirfieldTesla"
+msgid "克格勃停机坪"
+msgstr "Landing Pad"
+
+#. New in Armor Rush
+#: DESC:SovietAirfieldTesla
+msgctxt "DESC:SovietAirfieldTesla"
+msgid "随着苏联空中力量的增强，克格勃的飞行器获得了发展，并在这些建筑中生产。"
+msgstr "As Soviet air power grew, these facilities became vital for maintaining the KGB's aircraft."
+
+#. New in Armor Rush
+#: NAME:SovietNavalYardTesla
+msgctxt "NAME:SovietNavalYardTesla"
+msgid "克格勃临时船坞"
+msgstr "KGB Harbour"
+
+#. New in Armor Rush
+#: DESC:SovietNavalYardTesla
+msgctxt "DESC:SovietNavalYardTesla"
+msgid "这个建筑拥有生产和维护克格勃海军所有级别舰艇的授权。"
+msgstr "These structures have permission to produce and repair all types of vessels in the KGB navy."
+
+#. New in Armor Rush
+#: NAME:SovietNavalYardArmor
+msgctxt "NAME:SovietNavalYardArmor"
+msgid "造船厂"
+msgstr "Shipyard"
+
+#. New in Armor Rush
+#: DESC:SovietNavalYardArmor
+msgctxt "DESC:SovietNavalYardArmor"
+msgid "立于海面之上的大型军工厂，负责血月海军各类舰艇的生产与升级事宜。"
+msgstr "These structures are fully cleared to deploy and sustain every class of naval units in the Scarlet Crescent navy."
+
+#. Modified existing RA3 String
+#: NAME:SOVIETPOWERPLANTADVANCED
+msgctxt "NAME:SOVIETPOWERPLANTADVANCED"
+msgid "核电站"
+msgstr "Nuclear Powerplant"
+
+#. New in Armor Rush
+#: UPGRADENAME:SovietPowerPlantAdvanced
+msgctxt "UPGRADENAME:SovietPowerPlantAdvanced"
+msgid "建造过核电站"
+msgstr "Build Nuclear Powerplant"
+
+#. New in Armor Rush
+#: NAME:SovietPowerPlantAdvancedArmor
+msgctxt "NAME:SovietPowerPlantAdvancedArmor"
+msgid "核电站"
+msgstr "Nuclear Powerplant"
+
+#. New in Armor Rush
+#: DESC:SovietPowerPlantAdvancedArmor
+msgctxt "DESC:SovietPowerPlantAdvancedArmor"
+msgid "血月引以为豪的核工程技术结晶，提供可观发电量的同时也蕴藏了一定的安全隐患。"
+msgstr "Symbolic of Chinese advancements, these highly volatile structures could power multiple bases."
+
+#. New in Armor Rush
+#: NAME:SovietCraneArmor
+msgctxt "NAME:SovietCraneArmor"
+msgid "改装起重机"
+msgstr "Refit Crane"
+
+#. New in Armor Rush
+#: TYPE:SovietCraneArmor
+msgctxt "TYPE:SovietCraneArmor"
+msgid "生产建筑/坦克改装"
+msgstr "Production Structure / Refits Type-59s"
+
+#. New in Armor Rush
+#: DESC:SovietCraneArmor
+msgctxt "DESC:SovietCraneArmor"
+msgid "负责59式坦克各类改装的特种设施，保留了调整前拥有的简易阵地建设与载具回收功能。"
+msgstr "Industrial cranes used to modify Type-59 weapons systems, build defenses or scrap vehicles for crash."
+
+#. New in Armor Rush
+#: DESC:SovietOutpostTesla
+msgctxt "DESC:SovietOutpostTesla"
+msgid "克格勃倾向于围绕这个运转中心扩展他们杂乱的基地。"
+msgstr "The KGB tend to expand their sprawling bases around these operations hubs."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETOUTPOST
+msgctxt "TYPE:SOVIETOUTPOST"
+msgid "扩展建筑/探测隐形"
+msgstr "Expansion Structure / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:SovietTechStructureArmor
+msgctxt "NAME:SovietTechStructureArmor"
+msgid "战地科学院"
+msgstr "Battle Lab"
+
+#. New in Armor Rush
+#: DESC:SovietTechStructureArmor
+msgctxt "DESC:SovietTechStructureArmor"
+msgid "研究员们在这里解读月科院发来的机密信息，同时对位于前线的试验型装备进行实时维护。"
+msgstr "These unlock the latest tech while silently performing real-time experiments on the front line."
+
+#. New in Armor Rush
+#: NAME:SovietToxinTeslaBuildingForBAI
+msgctxt "NAME:SovietToxinTeslaBuildingForBAI"
+msgid "神秘塔"
+msgstr "Mysterious Tower"
+
+#. New in Armor Rush
+#: TYPE:SovietToxinTeslaBuildingForBAI
+msgctxt "TYPE:SovietToxinTeslaBuildingForBAI"
+msgid "？？？"
+msgstr "Unknown Type"
+
+#. New in Armor Rush
+#: DESC:SovietToxinTeslaBuildingForBAI
+msgctxt "DESC:SovietToxinTeslaBuildingForBAI"
+msgid "侦测器无法对这个奇怪物体产生作用"
+msgstr "The purposes and abilities of this mysterious tower cannot be identified by scanners."
+
+#  ## Base Defenses ##
+#. New in Armor Rush
+#: NAME:SovietArmorWallPiece
+msgctxt "NAME:SovietArmorWallPiece"
+msgid "围墙"
+msgstr "Fortress Wall"
+
+#. New in Armor Rush
+#: DESC:SovietArmorWallPiece
+msgctxt "DESC:SovietArmorWallPiece"
+msgid "简洁而实惠的掩体工事，能阻拦大多数单位通过并有效抵御轻武器威胁。"
+msgstr "Two wall pieces placed in an unbroken row will form a thick barrier that blocks enemies."
+
+#. New in Armor Rush
+#: NAME:SovietBaseDefenseGroundArmor
+msgctxt "NAME:SovietBaseDefenseGroundArmor"
+msgid "机枪碉堡"
+msgstr "Sentry Gun"
+
+#. New in Armor Rush
+#: DESC:SovietBaseDefenseGroundArmor
+msgctxt "DESC:SovietBaseDefenseGroundArmor"
+msgid "隐藏在植被后的机枪据点，由当值的血月突击队员负责看守。"
+msgstr "Heavy machine gun nests manned by Pioneers relegated to guard duty."
+
+#. New in Armor Rush
+#: NAME:SovietBaseDefenseAirArmor
+msgctxt "NAME:SovietBaseDefenseAirArmor"
+msgid "高射炮台"
+msgstr "Type-63 AA Battery"
+
+#. New in Armor Rush
+#: DESC:SovietBaseDefenseAirArmor
+msgctxt "DESC:SovietBaseDefenseAirArmor"
+msgid "高射速防空设施，改良后的63式高炮可以用暴雨般的弹幕扯下所有敌机的双翼。"
+msgstr "Rapid-fire defense turrets that can tear off the wings off enemy aircraft in a barrage of metal shards."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETBASEDEFENSEADVANCED
+msgctxt "TYPE:SOVIETBASEDEFENSEADVANCED"
+msgid "高级基地防御/探测隐形"
+msgstr "Advanced Base Defense / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:SovietBaseDefenseAdvancedArmor
+msgctxt "NAME:SovietBaseDefenseAdvancedArmor"
+msgid "导弹阵列"
+msgstr "Missile Array"
+
+#. New in Armor Rush
+#: TYPE:SovietBaseDefenseAdvancedArmor
+msgctxt "TYPE:SovietBaseDefenseAdvancedArmor"
+msgid "重火力/探测隐形"
+msgstr "Advanced Base Defense / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietBaseDefenseAdvancedArmor
+msgctxt "DESC:SovietBaseDefenseAdvancedArmor"
+msgid "拥有三个地下发射井和一个地上控制节点的联合设施，能对射程内的敌方部队发起饱和打击。"
+msgstr "Joint base defense systems, each with three underground silos and a control node capable of targeting enemies for missile strikes."
+
+#. New in Armor Rush
+#: NAME:SovietBaseDefenseAdvancedArmorCentre
+msgctxt "NAME:SovietBaseDefenseAdvancedArmorCentre"
+msgid "控制节点"
+msgstr "Missile Array"
+
+#. New in Armor Rush
+#: DESC:SovietBaseDefenseAdvancedArmorCentre
+msgctxt "DESC:SovietBaseDefenseAdvancedArmorCentre"
+msgid "管控电力分配、发射口重建和导弹制导的核心建筑，被摧毁会导致整个设施的崩坏。"
+msgstr "Core buildings that control power distribution, silo reconstruction and missile guidance. If destroyed, the whole array is lost."
+
+#. New in Armor Rush
+#: NAME:SovietBaseDefenseAdvancedArmorSpawn
+msgctxt "NAME:SovietBaseDefenseAdvancedArmorSpawn"
+msgid "导弹井"
+msgstr "Missile Silo"
+
+#. New in Armor Rush
+#: TYPE:SovietBaseDefenseAdvancedArmorSpawn
+msgctxt "TYPE:SovietBaseDefenseAdvancedArmorSpawn"
+msgid "作战单元"
+msgstr "Advanced Base Defense / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietBaseDefenseAdvancedArmorSpawn
+msgctxt "DESC:SovietBaseDefenseAdvancedArmorSpawn"
+msgid "将井口隐藏在植被后的地下发射井，血月的新式防御型跟踪导弹从这里点火升空。"
+msgstr "Underground silos which launch missiles at enemy forces. Automatically rebuilt by the array if destroyed."
+
+#. New in Armor Rush
+#: NAME:SovietSuperWeaponArmor
+msgctxt "NAME:SovietSuperWeaponArmor"
+msgid "政治宣传中心"
+msgstr "Propaganda Terminal"
+
+#. New in Armor Rush
+#: TYPE:SovietSuperWeaponArmor
+msgctxt "TYPE:SovietSuperWeaponArmor"
+msgid "思想渗透"
+msgstr "Superweapon"
+
+#. New in Armor Rush
+#: DESC:SovietSuperWeaponArmor
+msgctxt "DESC:SovietSuperWeaponArmor"
+msgid "通过超高功率的宣传终端，从思想上动摇敌军，从根本上鼓舞我军的士气。"
+msgstr "Sends out subliminal propaganda which wavers enemy morale while boosting that of allies'."
+
+#. New in Armor Rush, NOTE: See SovietEngineerArmor description in SovietUnits
+#: NAME:SovietArmorOutpost
+msgctxt "NAME:SovietArmorOutpost"
+msgid "宣传基站"
+msgstr "Telecom Station"
+
+#. New in Armor Rush
+#: TYPE:SovietArmorOutpost
+msgctxt "TYPE:SovietArmorOutpost"
+msgid "宣传扩展建筑/探测隐形"
+msgstr "Expansion Structure / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietArmorOutpost
+msgctxt "DESC:SovietArmorOutpost"
+msgid "移动式电信联通基站，可以扩展宣传的范围，鼓舞最前线的士兵。"
+msgstr "Mobile telecommunications stations like these expand Propaganda range and inspire allied soldiers on the front lines."
+
+#. Modified existing RA3 String
+#: NAME:SOVIETSUPERWEAPONADVANCED
+msgctxt "NAME:SOVIETSUPERWEAPONADVANCED"
+msgid "核弹发射井"
+msgstr "Nuclear Silo"
+
+#. Modified existing RA3 String
+#: DESC:SOVIETSUPERWEAPONADVANCED
+msgctxt "DESC:SOVIETSUPERWEAPONADVANCED"
+msgid "由苏维埃大科学院在总理亲自指导下研制而出的威力无可估量的超级炸弹，在这个设施内被搭载于导弹之上，使用时请注意弹头的毁伤范围与次生灾害。"
+msgstr ""
+"A monstrous warhead developed by the Soviet Academy of Sciences under the guidance of the Premier himself, its designers laughed off ethical and friendly-fire concerns about the "
+"extreme damage caused by the nuclear missile."
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERVACUUMBOMB
+msgctxt "NAME:PLAYERPOWERVACUUMBOMB"
+msgid "战术核导弹"
+msgstr "Tactical Nuclear Strike"
+
+#. Modified existing RA3 String
+#: NAME:SUPERWEAPONTIMERVACUUMBOMB
+msgctxt "NAME:SUPERWEAPONTIMERVACUUMBOMB"
+msgid "核弹"
+msgstr "Nuclear Missile"
+
+#. Modified existing RA3 String
+#: DESC:PLAYERPOWERVACUUMBOMB
+msgctxt "DESC:PLAYERPOWERVACUUMBOMB"
+msgid ""
+"向指定地点发射搭载战术核弹头的弹道导弹，直截了当地抹平区域内的一切。\r\n"
+"\r\n"
+"“漫天奇光异彩，\r\n"
+"犹如圣灵显威。\r\n"
+"只有一千太阳，\r\n"
+"才能与其争辉。\r\n"
+"我是死神，\r\n"
+"世界的毁灭者。”"
+msgstr ""
+"Launch a ballistic missile with a nuclear warhead at a designated location, erasing everything in an enormous area!\r\n"
+"\r\n"
+"'The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.'\r\n"
+"    ~ Carl Sagan"
+
+#. New in Armor Rush
+#: NAME:SovietSuperWeaponAdvancedArmor
+msgctxt "NAME:SovietSuperWeaponAdvancedArmor"
+msgid "轩辕长戟"
+msgstr "Xuanyuan Halberd"
+
+#. New in Armor Rush
+#: TYPE:SovietSuperWeaponAdvancedArmor
+msgctxt "TYPE:SovietSuperWeaponAdvancedArmor"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: DESC:SovietSuperWeaponAdvancedArmor
+msgctxt "DESC:SovietSuperWeaponAdvancedArmor"
+msgid "由血月国家科学院研制的分导式过饱和战区核打击系统站点，配备“天枢”式精确定位系统与“天璇”式亚音速突防巡航核导弹组的全域轰炸装置。"
+msgstr ""
+"Developed by the Scarlet Crescent National Academy of Sciences, This guided supersaturated theater nuclear strike system holds the ability to simultaneously launch dozens of smaller "
+"nuclear missiles at all enemy-controlled areas."
+
+#. New in Armor Rush
+#: NAME:PlayerPowerFirstStrike
+msgctxt "NAME:PlayerPowerFirstStrike"
+msgid "决海陨星"
+msgstr "First Strike"
+
+#. New in Armor Rush
+#: TYPE:PlayerPowerFirstStrike
+msgctxt "TYPE:PlayerPowerFirstStrike"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: DESC:PlayerPowerFirstStrike
+msgctxt "DESC:PlayerPowerFirstStrike"
+msgid ""
+"即刻发射所有已经完成校准的导弹，将全部敌军葬送在核打击的烈焰之中。\r\n"
+"\r\n"
+"“轩辕之理，非是灭却，\r\n"
+"实去其形智、始末、因果，\r\n"
+"以达尽数剪灭。\r\n"
+"使天地色变，金乌不存，\r\n"
+"折天柱引天倾西北，\r\n"
+"绝地维使地陷东南。”"
+msgstr ""
+"Immediately launch all calibrated missiles and bury all enemy forces in the flames of nuclear multi-strike!\r\n"
+"\r\n"
+"'I do not know with what weapons World War 3 will be fought, but World War 4 will be fought with sticks and stones.'\r\n"
+"    ~ Albert Einstein"
+
+#. New in Armor Rush
+#. NOTE: This tank statue can be found in RA3's Allies Mission 9, and yes, these tank statue can be driven in Armor Rush!
+#: NAME:SovietOldTankStatue
+#, fuzzy
+msgctxt "NAME:SovietOldTankStatue"
+msgid "旧式坦克雕像"
+msgstr "Old tank statue"
+
+#. New in Armor Rush
+#. NOTE: This tank statue can be found in RA3's Allies Mission 9, and yes, these tank statue can be driven in Armor Rush!
+#: TYPE:SovietOldTankStatue
+#, fuzzy
+msgctxt "TYPE:SovietOldTankStatue"
+msgid "可疑的雕像"
+msgstr "Suspicious statue"
+
+#. New in Armor Rush
+#. NOTE: This tank statue can be found in RA3's Allies Mission 9, and yes, these tank statue can be driven in Armor Rush!
+#: DESC:SovietOldTankStatue
+#, fuzzy
+msgctxt "DESC:SovietOldTankStatue"
+msgid "一座从博物馆里搬出来的旧式坦克雕像，那仍旧闪亮的光泽似乎预示着什么..."
+msgstr ""
+"An old-style tank statue moved out of the museum. The still shiny luster seems to indicate something...\n"
+"\n"
+"\n"
+"An old tank statue removed from the museum, that still shiny luster seems to portend something..."
+
+#. New in Armor Rush
+#: NAME:TeslaCoilTeslaBlastSpecialPower
+#, fuzzy
+msgctxt "NAME:TeslaCoilTeslaBlastSpecialPower"
+msgid "超级磁能爆裂"
+msgstr ""
+"Super magnetic burst\n"
+"\n"
+"\n"
+"Super magnetic energy bursts."
+
+#. New in Armor Rush
+#: DESC:TeslaCoilTeslaBlastSpecialPower
+#, fuzzy
+msgctxt "DESC:TeslaCoilTeslaBlastSpecialPower"
+msgid "过载磁暴线圈，产生大范围的磁暴能量流毁灭范围内的敌人。"
+msgstr ""
+"Overloading the magnetic storm coil produces a large-scale magnetic storm energy flow to destroy enemies within the range.\n"
+"\n"
+"\n"
+"Overload magnetic storm coils, producing a wide range of magnetic storm energy flow to destroy enemies within range."
+
+#. New in Armor Rush
+#: NAME:TeslaTrooperTeslaBlastSpecialPower
+#, fuzzy
+msgctxt "NAME:TeslaTrooperTeslaBlastSpecialPower"
+msgid "磁能爆裂"
+msgstr ""
+"Magnetic burst\n"
+"\n"
+"\n"
+"Magnetic energy bursts."
+
+#. New in Armor Rush
+#: DESC:TeslaTrooperTeslaBlastSpecialPower
+#, fuzzy
+msgctxt "DESC:TeslaTrooperTeslaBlastSpecialPower"
+msgid "过载磁暴步兵的线圈，产生巨大的磁暴能量流毁灭周围的敌人。"
+msgstr ""
+"Overload the coil of the magnetic storm infantry, generating a huge magnetic storm energy flow to destroy the surrounding enemies.\n"
+"\n"
+"\n"
+"Overload the coils of the magnetic storm infantry, producing a huge flow of magnetic storm energy to destroy the surrounding enemies."

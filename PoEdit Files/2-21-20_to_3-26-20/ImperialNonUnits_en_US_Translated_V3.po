@@ -1,0 +1,2527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  Imperial Factions Non Units
+#  ## Other ##
+#. Modified existing RA3 String
+#: APT:PLAYERPOWERSHEADERJAPAN
+msgctxt "APT:PLAYERPOWERSHEADERJAPAN"
+msgid "神皇研究所"
+msgstr "Imperial Technology Division"
+
+#. New in Armor Rush
+#: NAME:BalloonSuicide
+msgctxt "NAME:BalloonSuicide"
+msgid "坠落"
+msgstr "Early Drop"
+
+#. New in Armor Rush
+#: DESC:BalloonSuicide
+msgctxt "DESC:BalloonSuicide"
+msgid "烧毁气球，任炸弹自由下落。"
+msgstr "Prematurely ignites the balloon holding the bomb, allowing it to drop freely."
+
+#. New in Armor Rush, NOTE: See Infantry Names in ImperialUnits
+#: DESC:CallJapanFleetParatroopers
+msgctxt "DESC:CallJapanFleetParatroopers"
+msgid ""
+"呼叫高空运输机从战区外投送精英伞兵部队。\r\n"
+"\r\n"
+"空降-->Ata-7弓箭人形八个 Ion-5破甲人形两个"
+msgstr ""
+"Sends eight Ata-7 Archers and two Ion-5 Penetrators into the area via high-altitude transport aircraft.\n"
+"\n"
+"Airborne-> 8 Ata-7 Archers, 2 Ion-5 Penetrators"
+
+#. New in Armor Rush, NOTE: See Infantry Names in ImperialUnits
+#: DESC:CallJapanKamikazeParatroopers
+msgctxt "DESC:CallJapanKamikazeParatroopers"
+msgid ""
+"呼叫高空运输机从战区外投送精英伞兵部队。\r\n"
+"\r\n"
+"空降-->克隆武士十二名，装甲杀手两名"
+msgstr ""
+"Sends twelve Clone Warriors and two Tankbusters into the area via high-altitude transport aircraft.\n"
+"\n"
+"Airborne-> 12 Clone Warriors, 2 Tankbusters"
+
+#. New in Armor Rush, NOTE: See Infantry Names in ImperialUnits
+#: DESC:CallJapanParatroopers
+msgctxt "DESC:CallJapanParatroopers"
+msgid ""
+"呼叫高空运输机从战区外投送精英伞兵部队。\r\n"
+"\r\n"
+"空降-->帝国武士六名，装甲杀手两名"
+msgstr ""
+"Sends six Imperial Warriors and two Tankbusters into the area via high-altitude transport aircraft.\n"
+"\n"
+"Airborne-> 6 Imperial Warriors, 2 Tankbusters"
+
+#. New in Armor Rush, NOTE: See Ship Names in ImperialUnits
+#: DESC:FleetTechCruiser
+msgctxt "DESC:FleetTechCruiser"
+msgid "移除高雄主炮组，重分配AI运算量至防空模组，针对战场环境新增其舰队防空的定位。"
+msgstr "Replace all Takao main batteries with AA guns, allowing them to engage air targets."
+
+#. Modified existing RA3 String, NOTE: See unit names in ImperialUnits
+#: DESC:PLAYERPOWERFINALSQUADRON_L1
+msgctxt "DESC:PLAYERPOWERFINALSQUADRON_L1"
+msgid "呼叫神风无人战机小队，从空中对目标区域玉碎！"
+msgstr "Calls a group of Sunburst Drone Fighters to descend upon the target area in a climatic strike!"
+
+#. Modified existing RA3 String, NOTE: See unit names in ImperialUnits
+#: DESC:PLAYERPOWERFINALSQUADRON_L2
+msgctxt "DESC:PLAYERPOWERFINALSQUADRON_L2"
+msgid "呼叫神风无人战机中队，从空中对目标区域玉碎！无人机多来点！"
+msgstr "Calls a flurry of Sunburst Drone Fighters to descend upon the target area in a climatic strike!"
+
+#. Modified existing RA3 String, NOTE: See unit names in ImperialUnits
+#: DESC:PLAYERPOWERFINALSQUADRON_L3
+msgctxt "DESC:PLAYERPOWERFINALSQUADRON_L3"
+msgid "呼叫神风无人战机大队，从空中对目标区域玉碎！无人机能来多少来多少！"
+msgstr "Calls a torrent of Sunburst Drone Fighters to descend upon the target area in a climatic strike!"
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERJAPANADVANCEDMISSILEPACKS
+msgctxt "NAME:PLAYERPOWERJAPANADVANCEDMISSILEPACKS"
+msgid "先进武器冷却系统"
+msgstr "Advanced Weapon Heatsinks"
+
+#. Modified existing RA3 String, NOTE: See unit names in ImperialUnits
+#: DESC:PLAYERPOWERJAPANADVANCEDMISSILEPACKS
+msgctxt "DESC:PLAYERPOWERJAPANADVANCEDMISSILEPACKS"
+msgid "为你的部分部队安装更好的冷却系统，加快射速！作用于VX、AX、海翼、天使和鬼王机甲"
+msgstr "Arm your laser-blasting forces with better cooling, faster firing lasers! Works on VXs, AXs, Sea-Wings, Rocket Angels and King Onis."
+
+#. Modified existing RA3 String, NOTE: See Infantry Names in ImperialUnits
+#: DESC:PLAYERPOWERJAPANAMBUSH
+msgctxt "DESC:PLAYERPOWERJAPANAMBUSH"
+msgid "命令妥善休整的装甲杀手从我们需要的地方的地下隐蔽处冒出来！"
+msgstr "Order well-rested Tankbusters to emerge from subterranean hiding precisely where needed!"
+
+#. New in Armor Rush
+#: NAME:FleetBarracksBow
+msgctxt "NAME:FleetBarracksBow"
+msgid "高能弓箭"
+msgstr "High Energy Bows"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetBarracksBow
+msgctxt "UPGRADENAME:FleetBarracksBow"
+msgid "高能弓箭"
+msgstr "High Energy Bows"
+
+#. New in Armor Rush
+#: TYPE:FleetBarracksBow
+msgctxt "TYPE:FleetBarracksBow"
+msgid "战术人形强化"
+msgstr "Archer Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry Names in ImperialUnits
+#: DESCRIPTION:FleetBarracksBow
+#, fuzzy
+msgctxt "DESCRIPTION:FleetBarracksBow"
+msgid ""
+"为Ata-7弓箭人形的弓注入更多能量，这能让她们杀起敌来更得心应手。\n"
+"\n"
+">>武器性能提升\n"
+"     Ata-7弓箭人形\n"
+"\n"
+"     伤害提升\n"
+"\n"
+"开始改良>>"
+msgstr ""
+"Inject more energy into the Ata-7 bow and arrow humanoid bow, which will make them easier to kill the enemy.\n"
+"\n"
+">>Weapon performance improvement\n"
+"      Ata-7 bow and arrow humanoid\n"
+"\n"
+"      Damage increase\n"
+"\n"
+"Start to improve >>\n"
+"\n"
+"\n"
+"Injecting more energy into the Ata-7 bow makes it easier for them to kill their enemies.\n"
+"\n"
+">> weapon performance is improved.\n"
+"     Ata-7 Bow and Arrow Man.\n"
+"\n"
+"Damage increased.\n"
+"\n"
+"Start improving >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetBarracksBow
+msgctxt "UPGRADEPREREQ:FleetBarracksBow"
+msgid "高能弓箭"
+msgstr "High Energy Bows"
+
+#. New in Armor Rush
+#: NAME:FleetMotherAA
+msgctxt "NAME:FleetMotherAA"
+msgid "展开远程防空炮组"
+msgstr "Unfold Long-Range AA Turrets"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherAA
+msgctxt "UPGRADENAME:FleetMotherAA"
+msgid "展开远程防空炮组"
+msgstr "Unfold Long-Range AA Turrets"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherAA
+msgctxt "TYPE:FleetMotherAA"
+msgid "安装防空炮"
+msgstr "Mothership AA Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherAA
+msgctxt "DESCRIPTION:FleetMotherAA"
+msgid ""
+"展开天琼母舰上的远程防空炮组，并修复跃迁后损坏的部分装甲。\r\n"
+"\r\n"
+">>安装防空炮\r\n"
+"\r\n"
+"     生命值小幅上升\r\n"
+"\r\n"
+"开始安装>>"
+msgstr ""
+"Unfurl long-range AA turrets on the Tenkei Mothership and repair some of the armor which was damaged post-jump.\r\n"
+"\r\n"
+"> Installs mothership AA guns\r\n"
+"\r\n"
+"> Increases mothership health"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherAA
+msgctxt "UPGRADEPREREQ:FleetMotherAA"
+msgid "展开远程防空炮组"
+msgstr "Unfold Long-Range AA Turrets"
+
+#. New in Armor Rush
+#: NAME:FleetMotherArmor1
+msgctxt "NAME:FleetMotherArmor1"
+msgid "纳米修复"
+msgstr "Nano-Repair"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherArmor1
+msgctxt "UPGRADENAME:FleetMotherArmor1"
+msgid "纳米修复"
+msgstr "Nano-Repair"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherArmor1
+msgctxt "TYPE:FleetMotherArmor1"
+msgid "装甲强化"
+msgstr "Armor Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherArmor1
+msgctxt "UPGRADEPREREQ:FleetMotherArmor1"
+msgid "纳米修复"
+msgstr "Nano-Repair"
+
+#. New in Armor Rush
+#: NAME:FleetMotherArmor2
+msgctxt "NAME:FleetMotherArmor2"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherArmor2
+msgctxt "UPGRADENAME:FleetMotherArmor2"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherArmor2
+msgctxt "TYPE:FleetMotherArmor2"
+msgid "装甲强化"
+msgstr "Armor Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherArmor2
+msgctxt "UPGRADEPREREQ:FleetMotherArmor2"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: NAME:FleetMotherBomber
+msgctxt "NAME:FleetMotherBomber"
+msgid "对地攻击机"
+msgstr "Ground-Attack Aircraft"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherBomber
+msgctxt "TYPE:FleetMotherBomber"
+msgid "解锁单位"
+msgstr "Unlock Unit"
+
+#. New in Armor Rush, NOTE: See Aircrafts Names in ImperialUnits
+#: DESCRIPTION:FleetMotherBomber
+#, fuzzy
+msgctxt "DESCRIPTION:FleetMotherBomber"
+msgid ""
+"改装线路，在母舰上安装对地攻击机的生产及维护设施。\n"
+"\n"
+">>改造机库\n"
+"\n"
+"    解锁U翼对地攻击机\n"
+"\n"
+"开始改造>>"
+msgstr ""
+"Refit the lines and install ground attack aircraft production and maintenance facilities on the mothership.\n"
+"\n"
+">>Modify the hangar\n"
+"\n"
+"     Unlock U-wing ground attack aircraft\n"
+"\n"
+"Start the transformation >>\n"
+"\n"
+"\n"
+"Refit the line and install the production and maintenance facilities of ground attack aircraft on the mother ship.\n"
+"\n"
+">> to transform the library.\n"
+"\n"
+"Unlock the U-wing ground attack aircraft.\n"
+"\n"
+"Start remodeling >>."
+
+#. New in Armor Rush
+#: NAME:FleetMotherExtendedHanger
+msgctxt "NAME:FleetMotherExtendedHanger"
+msgid "扩容机库"
+msgstr "Extended Hangar"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherExtendedHanger
+msgctxt "TYPE:FleetMotherExtendedHanger"
+msgid "机库扩展"
+msgstr "Hangar Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherExtendedHanger
+msgctxt "DESCRIPTION:FleetMotherExtendedHanger"
+msgid ""
+"扩展机库空间，将主舰体首尾纳入战机生产与维护区域。\r\n"
+"\r\n"
+">>扩展机库\r\n"
+"\r\n"
+"    可使用机位：8\r\n"
+"\r\n"
+"开始扩展>>"
+msgstr ""
+"Expands hangar space in the mothership, allowing more aircraft to be deployed to the field at once.\n"
+"\n"
+"> Expands hangar to accommodate 8 aircraft"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFirePower_1
+msgctxt "UPGRADENAME:FleetMotherFirePower_1"
+msgid "火炮强化"
+msgstr "Artillery Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:FleetMotherFirePower_1
+msgctxt "UPGRADETYPE:FleetMotherFirePower_1"
+msgid "火力升级"
+msgstr "Mothership Firepower Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFirePower_1
+msgctxt "DESCRIPTION:FleetMotherFirePower_1"
+msgid ""
+"给舰载武器系统提供更多能量，额外消耗电力，优化弹道运算，强化弹头威力。[电力消耗+50]\n"
+"[注意：下一阶段的舰体建设将会永久封闭进行此项升级的资源分配线路]\n"
+"\n"
+">>提高火炮效能\n"
+"\n"
+"    天琼母舰\n"
+"\n"
+"开始研究>>"
+msgstr ""
+"Provide more energy to shipborne weapon systems,  improving ballistic calculations and warhead power. [Power consumption +50]\n"
+"[Note: The next phase of hull construction will permanently close the resource allocation line for this upgrade]\n"
+"\n"
+"> Increases mothership artillery effectiveness\n"
+"\n"
+"> Consumes 50 power"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFirePower_2
+msgctxt "UPGRADENAME:FleetMotherFirePower_2"
+msgid "火炮强化"
+msgstr "Artillery Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:FleetMotherFirePower_2
+msgctxt "UPGRADETYPE:FleetMotherFirePower_2"
+msgid "火力升级"
+msgstr "Mothership Firepower Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFirePower_2
+msgctxt "DESCRIPTION:FleetMotherFirePower_2"
+msgid ""
+"给舰载武器系统提供更多能量，额外消耗电力，优化弹道运算，强化弹头威力。[电力消耗+50]\n"
+"[注意：下一阶段的舰体建设将会永久封闭进行此项升级的资源分配线路]\n"
+"\n"
+">>提高火炮效能\n"
+"\n"
+"    天琼母舰\n"
+"\n"
+"开始研究>>"
+msgstr ""
+"Provide more energy to shipborne weapon systems,  improving ballistic calculations and warhead power. [Power consumption +50]\n"
+"[Note: The next phase of hull construction will permanently close the resource allocation line for this upgrade]\n"
+"\n"
+"> Increases mothership artillery effectiveness\n"
+"\n"
+"> Consumes 50 power"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFirePower_3
+msgctxt "UPGRADENAME:FleetMotherFirePower_3"
+msgid "火炮强化"
+msgstr "Artillery Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:FleetMotherFirePower_3
+msgctxt "UPGRADETYPE:FleetMotherFirePower_3"
+msgid "火力升级"
+msgstr "Mothership Firepower Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFirePower_3
+msgctxt "DESCRIPTION:FleetMotherFirePower_3"
+msgid ""
+"给舰载武器系统提供更多能量，额外消耗电力，优化弹道运算，强化弹头威力。[电力消耗+50]\n"
+"[注意：下一阶段的舰体建设将会永久封闭进行此项升级的资源分配线路]\n"
+"\n"
+">>提高火炮效能\n"
+"\n"
+"    天琼母舰\n"
+"\n"
+"开始研究>>"
+msgstr ""
+"Provide more energy to shipborne weapon systems,  improving ballistic calculations and warhead power. [Power consumption +50]\n"
+"[Note: The next phase of hull construction will permanently close the resource allocation line for this upgrade]\n"
+"\n"
+"> Increases mothership artillery effectiveness\n"
+"\n"
+"> Consumes 50 power"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFirePower_4
+msgctxt "UPGRADENAME:FleetMotherFirePower_4"
+msgid "优化火炮布局"
+msgstr "Artillery Layout Optimization"
+
+#. New in Armor Rush
+#: UPGRADETYPE:FleetMotherFirePower_4
+msgctxt "UPGRADETYPE:FleetMotherFirePower_4"
+msgid "火力升级"
+msgstr "Mothership Firepower Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFirePower_4
+msgctxt "DESCRIPTION:FleetMotherFirePower_4"
+msgid ""
+"重新布局母舰现有火炮，提高火力密度。\r\n"
+"\r\n"
+">>提高火炮效能\r\n"
+"\r\n"
+"    天琼母舰\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Efficiently rearrange the existing artillery onboard the mothership to increase fire density.\n"
+"\n"
+"> Increases mothership artillery effectiveness"
+
+#. New in Armor Rush
+#: NAME:FleetMotherFullArmor
+msgctxt "NAME:FleetMotherFullArmor"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFullArmor
+msgctxt "UPGRADENAME:FleetMotherFullArmor"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherFullArmor
+msgctxt "TYPE:FleetMotherFullArmor"
+msgid "短暂的防御提升"
+msgstr "Temporary Armor Boost"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFullArmor
+msgctxt "DESCRIPTION:FleetMotherFullArmor"
+msgid ""
+"立即着手强化纳米装甲，将从推进系统抽取资源，但换来的是可与铁幕媲美的防护。\r\n"
+"\r\n"
+">>一次性的装甲强化\r\n"
+"     装甲大幅提升\r\n"
+"     持续20s\r\n"
+"\r\n"
+">>牺牲移动速度\r\n"
+"     速度-40%\r\n"
+"     持续30s\r\n"
+"\r\n"
+"     天琼母舰\r\n"
+"\r\n"
+"开始准备>>"
+msgstr ""
+"Briefly divert energy from the propulsion system to greatly strengthen the mothership's nano-armor.\n"
+"\n"
+"> One-time mothership armor enhancement (20s)\n"
+"\n"
+"> Decreases motherhip speed (-40%) (30s)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherFullArmor
+msgctxt "UPGRADEPREREQ:FleetMotherFullArmor"
+msgid "纳米装甲"
+msgstr "Nano-Armor"
+
+#. New in Armor Rush
+#: NAME:FleetMotherFullFlight
+msgctxt "NAME:FleetMotherFullFlight"
+msgid "紧急支援"
+msgstr "Emergency Scramble"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherFullFlight
+msgctxt "TYPE:FleetMotherFullFlight"
+msgid "短暂的空军支援"
+msgstr "Request Air Support"
+
+#. New in Armor Rush, NOTE: See Aircrafts Names in ImperialUnits
+#: DESCRIPTION:FleetMotherFullFlight
+msgctxt "DESCRIPTION:FleetMotherFullFlight"
+msgid ""
+"向战场外的其他友军部队请求海军航空兵支援。2架精英A翼战斗机和2架U翼对地攻击机将被折跃至机库。\r\n"
+"\r\n"
+">>一次性的空军支援\r\n"
+"    2 * A翼战斗机\r\n"
+"    2 * U翼对地攻击机\r\n"
+"\r\n"
+"开始支援>>"
+msgstr ""
+"Request emergency air support from other motherships off the battlefield. Warps two elite A-Wing fighters and two U-Wing attack aircraft to the "
+"hangar.\n"
+"\n"
+"> One-time air force support\n"
+"    2  A-Wing Fighters\n"
+"    2  U-Wing Attack Aircraft"
+
+#. New in Armor Rush
+#: NAME:FleetMotherFullSpeed
+msgctxt "NAME:FleetMotherFullSpeed"
+msgid "引擎过载"
+msgstr "Maximum Overdrive"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFullSpeed
+msgctxt "UPGRADENAME:FleetMotherFullSpeed"
+msgid "引擎过载"
+msgstr "Maximum Overdrive"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherFullSpeed
+msgctxt "TYPE:FleetMotherFullSpeed"
+msgid "短暂的速度提升"
+msgstr "Temporary Speed Boost"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFullSpeed
+msgctxt "DESCRIPTION:FleetMotherFullSpeed"
+msgid ""
+"立即着手准备过载推进引擎，获得大的功率。但推进时火控系统无法正确获取目标，降低武器性能。\r\n"
+"\r\n"
+">>一次性加速\r\n"
+"     速度提升至400%\r\n"
+"     持续20s\r\n"
+"\r\n"
+">>武器性能降低\r\n"
+"     射速-50%，射程-20%\r\n"
+"     持续20s\r\n"
+"\r\n"
+"     天琼母舰\r\n"
+"\r\n"
+"开始准备>>"
+msgstr ""
+"Shifts the mothership's engines into maximum overdrive! During this period, mothership weapons drop in effectiveness due to extreme speed.\n"
+"\n"
+"> One-time mothership speed enhancement (+300%) (20s)\n"
+"\n"
+"> Decreases mothership artillery range (-20%) and fire rate (-50%) (20s)\\"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherFullSpeed
+msgctxt "UPGRADEPREREQ:FleetMotherFullSpeed"
+msgid "引擎过载"
+msgstr "Maximum Overdrive"
+
+#. New in Armor Rush
+#: NAME:FleetMotherFullWeapon
+msgctxt "NAME:FleetMotherFullWeapon"
+msgid "红色警戒"
+msgstr "Red Alert"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherFullWeapon
+msgctxt "UPGRADENAME:FleetMotherFullWeapon"
+msgid "红色警戒"
+msgstr "Red Alert"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherFullWeapon
+msgctxt "TYPE:FleetMotherFullWeapon"
+msgid "短暂的武器强化"
+msgstr "Temporary Weapon Boost"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherFullWeapon
+msgctxt "DESCRIPTION:FleetMotherFullWeapon"
+msgid ""
+"立即着手发布红色警戒，激活武器应急程序，进行弹幕式的开火。\r\n"
+"\r\n"
+">>一次性的武器强化\r\n"
+"     武器射程+20%，射速+100%\r\n"
+"     持续20s\r\n"
+"\r\n"
+">>基地停电\r\n"
+"     持续20s\r\n"
+"\r\n"
+"     天琼母舰\r\n"
+"\r\n"
+"开始准备>>"
+msgstr ""
+"Immediately declares red alert, temporarily diverting all available power to the mothership's weaponry.\n"
+"\n"
+"> One-time mothership range (+20%) and fire rate (+100%) enhancement (20s)\n"
+"\n"
+"> Cuts power (20s)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherFullWeapon
+msgctxt "UPGRADEPREREQ:FleetMotherFullWeapon"
+msgid "红色警戒"
+msgstr "Red Alert"
+
+#. New in Armor Rush
+#: NAME:FleetMotherHanger
+msgctxt "NAME:FleetMotherHanger"
+msgid "飞行机库"
+msgstr "Hangar Module"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherHanger
+msgctxt "TYPE:FleetMotherHanger"
+msgid "空军生产"
+msgstr "Aircraft Production"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherHanger
+msgctxt "DESCRIPTION:FleetMotherHanger"
+msgid ""
+"[分支选项A：准许空军生产]\n"
+"在舰体内部安装空军生产设施及维护机库，允许建造空军单位。\n"
+"[注意：该选项与分支B冲突且无法返回，请谨慎选择]\n"
+"\n"
+">>安装机库\n"
+"\n"
+"    允许建造A翼\n"
+"\n"
+"开始安装>>"
+msgstr ""
+"[Branch A: Aircraft Production]\n"
+"Install hangars inside the hull, allowing the production and maintenance of air units.\n"
+"[Note: Branches A and B are mutually exclusive.]\n"
+"\n"
+"> Installs hangar\n"
+"    Unlocks A-Wing Fighter"
+
+#. New in Armor Rush
+#: NAME:FleetMotherIndependence
+msgctxt "NAME:FleetMotherIndependence"
+msgid "天琼之眼"
+msgstr "Eye of Tenkei"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherIndependence
+msgctxt "TYPE:FleetMotherIndependence"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherIndependence
+msgctxt "DESCRIPTION:FleetMotherIndependence"
+msgid ""
+"展开天琼母舰的终极武器：天琼之眼。拥有此设备的母舰可以获得区域毁灭打击的能力。\r\n"
+"\r\n"
+">>展开终极武器\r\n"
+"\r\n"
+"    安装天琼之眼\r\n"
+"\r\n"
+"开始展开>>"
+msgstr ""
+"Unfold the ultimate weapon of the Tenkei Mothership, the Eye of Tenkei, which reduces all enemies in a large area around the mothership to fine "
+"dust.\n"
+"\n"
+"> Installs Eye of Tenkei"
+
+#. New in Armor Rush
+#: NAME:FleetMotherMainCannon
+msgctxt "NAME:FleetMotherMainCannon"
+msgid "展开主炮组"
+msgstr "Unfurl Main Batteries"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherMainCannon
+msgctxt "TYPE:FleetMotherMainCannon"
+msgid "展开武器阵列"
+msgstr "Mothership Firepower Expansion"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherMainCannon
+msgctxt "DESCRIPTION:FleetMotherMainCannon"
+msgid ""
+"展开天琼母舰毁灭性的主炮组，可以远程狙杀敌方重装甲单位甚至建筑群。\r\n"
+"\r\n"
+">>展开主炮组\r\n"
+"\r\n"
+"    安装主炮\r\n"
+"\r\n"
+"开始展开>>"
+msgstr ""
+"Unfurl the massive main railgun batteries of the Tenkei mothership, capable of remote utter destruction of heavy armor and buildings.\n"
+"\n"
+"> Installs main railgun batteries"
+
+#. New in Armor Rush
+#: NAME:FleetMotherMidCannon
+msgctxt "NAME:FleetMotherMidCannon"
+msgid "展开中程火炮"
+msgstr "Unfurl Medium-Range Turrets"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherMidCannon
+msgctxt "TYPE:FleetMotherMidCannon"
+msgid "展开武器阵列"
+msgstr "Mothership Firepower Expansion"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherMidCannon
+msgctxt "DESCRIPTION:FleetMotherMidCannon"
+msgid ""
+"展开位于舰体尾部的中程炮组，允许天琼母舰进行强有力的对地支援。\r\n"
+"\r\n"
+">>展开中程火炮\r\n"
+"\r\n"
+"    安装尾部火炮\r\n"
+"\r\n"
+"开始展开>>"
+msgstr ""
+"Unfurl medium-ranged turrets at the aft of the hull, allowing the mothership to provide strong ground support.\n"
+"\n"
+"> Installs medium turrets at aft"
+
+#. New in Armor Rush
+#: NAME:FleetMotherSmallCannon
+msgctxt "NAME:FleetMotherSmallCannon"
+msgid "展开副炮组"
+msgstr "Unfurl Auxiliary Guns"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherSmallCannon
+msgctxt "TYPE:FleetMotherSmallCannon"
+msgid "展开武器阵列"
+msgstr "Mothership Firepower Expansion"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherSmallCannon
+msgctxt "DESCRIPTION:FleetMotherSmallCannon"
+msgid ""
+"[分支选项B：展开武器阵列]\n"
+"展开位于舰体首尾的对地副炮组，抵御敌军的轻装甲单位。\n"
+"[注意：该选项与分支A冲突且无法返回，请谨慎选择]\n"
+"\n"
+">>展开副炮组\n"
+"\n"
+"    安装副炮\n"
+"\n"
+"开始展开>>"
+msgstr ""
+"[Branch B: Mothership Artillery]\n"
+"Unfurl auxiliary anti-surface guns at the fore and aft of the hull to defend against enemy light armor.\n"
+"[Note: Branches A and B are mutually exclusive.]\n"
+"\n"
+"> Installs auxiliary guns at fore and aft"
+
+#. New in Armor Rush
+#: NAME:FleetMotherSpeed
+msgctxt "NAME:FleetMotherSpeed"
+msgid "重构喷射引擎"
+msgstr "Re-connect Thrusters"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherSpeed
+msgctxt "UPGRADENAME:FleetMotherSpeed"
+msgid "重构喷射引擎"
+msgstr "Re-connect Thrusters"
+
+#. New in Armor Rush
+#: TYPE:FleetMotherSpeed
+msgctxt "TYPE:FleetMotherSpeed"
+msgid "母舰速度强化"
+msgstr "Mothership Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherSpeed
+msgctxt "DESCRIPTION:FleetMotherSpeed"
+msgid ""
+"加入新的燃料，清洁喷射装置，让它们有更大的效能。\r\n"
+"\r\n"
+">>更新驱动装置\r\n"
+"     天琼母舰\r\n"
+"\r\n"
+"     速度上升，生命值上升\r\n"
+"\r\n"
+"开始更新>>"
+msgstr ""
+"Re-synchronise the mothership's thrusters and add extra armor plating to them, increasing the mothership's speed and durability.\n"
+"\n"
+"> Increases mothership health and speed"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetMotherSpeed
+msgctxt "UPGRADEPREREQ:FleetMotherSpeed"
+msgid "重构喷射引擎"
+msgstr "Re-connect Thrusters"
+
+#. New in Armor Rush
+#: NAME:FleetNavalSpeed
+msgctxt "NAME:FleetNavalSpeed"
+msgid "马达升级"
+msgstr "Motor Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalSpeed
+msgctxt "UPGRADENAME:FleetNavalSpeed"
+msgid "马达升级"
+msgstr "Motor Upgrade"
+
+#. New in Armor Rush
+#: TYPE:FleetNavalSpeed
+msgctxt "TYPE:FleetNavalSpeed"
+msgid "速度强化"
+msgstr "Navy Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetNavalSpeed
+msgctxt "DESCRIPTION:FleetNavalSpeed"
+msgid ""
+"换装功率更大的轮机组，获得更快的速度。\r\n"
+"\r\n"
+">>研究发动机\r\n"
+"     研究完成后：\r\n"
+"\r\n"
+"     海军速度提升\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Develop more powerful turbines for faster ship speeds.\n"
+"\n"
+"> Increases navy speed"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalSpeed
+msgctxt "UPGRADEPREREQ:FleetNavalSpeed"
+msgid "马达升级"
+msgstr "Motor Upgrade"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: NAME:FleetMotherWeapon1
+msgctxt "NAME:FleetMotherWeapon1"
+msgid "展开副炮组"
+msgstr "Unfurl Auxiliary Guns"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADENAME:FleetMotherWeapon1
+msgctxt "UPGRADENAME:FleetMotherWeapon1"
+msgid "展开副炮组"
+msgstr "Unfurl Auxiliary Guns"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: TYPE:FleetMotherWeapon1
+msgctxt "TYPE:FleetMotherWeapon1"
+msgid "安装近防武器"
+msgstr "Mothership Point-Defense Upgrade"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADEPREREQ:FleetMotherWeapon1
+msgctxt "UPGRADEPREREQ:FleetMotherWeapon1"
+msgid "展开副炮组"
+msgstr "Unfurl Auxiliary Guns"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: NAME:FleetMotherWeapon2
+msgctxt "NAME:FleetMotherWeapon2"
+msgid "展开中程火炮"
+msgstr "Unfurl Medium-Range Turrets"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADENAME:FleetMotherWeapon2
+msgctxt "UPGRADENAME:FleetMotherWeapon2"
+msgid "展开中程火炮"
+msgstr "Unfurl Medium-Range Turrets"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: TYPE:FleetMotherWeapon2
+msgctxt "TYPE:FleetMotherWeapon2"
+msgid "安装火炮"
+msgstr "Mothership Mid-Range Upgrade"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADEPREREQ:FleetMotherWeapon2
+msgctxt "UPGRADEPREREQ:FleetMotherWeapon2"
+msgid "展开中程火炮"
+msgstr "Unfurl Medium-Range Turrets"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: NAME:FleetMotherWeapon3
+msgctxt "NAME:FleetMotherWeapon3"
+msgid "展开主炮组"
+msgstr "Unfurl Main Batteries"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADENAME:FleetMotherWeapon3
+msgctxt "UPGRADENAME:FleetMotherWeapon3"
+msgid "展开主炮组"
+msgstr "Unfurl Main Batteries"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: TYPE:FleetMotherWeapon3
+msgctxt "TYPE:FleetMotherWeapon3"
+msgid "母舰武器化"
+msgstr "Mothership Bombardment Upgrade"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: UPGRADEPREREQ:FleetMotherWeapon3
+msgctxt "UPGRADEPREREQ:FleetMotherWeapon3"
+msgid "展开主炮组"
+msgstr "Unfurl Main Batteries"
+
+#. New in Armor Rush
+#: NAME:FleetNavalCannon
+msgctxt "NAME:FleetNavalCannon"
+msgid "大口径升级"
+msgstr "High Calibre Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalCannon
+msgctxt "UPGRADENAME:FleetNavalCannon"
+msgid "大口径升级"
+msgstr "High Calibre Upgrade"
+
+#. New in Armor Rush
+#: TYPE:FleetNavalCannon
+msgctxt "TYPE:FleetNavalCannon"
+msgid "炮击强化"
+msgstr "Cannon Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalCannon
+msgctxt "UPGRADEPREREQ:FleetNavalCannon"
+msgid "大口径升级"
+msgstr "High Calibre Upgrade"
+
+#. New in Armor Rush
+#: NAME:FleetNavalAP
+msgctxt "NAME:FleetNavalAP"
+msgid "九一式穿甲弹"
+msgstr "Type-91 AP Projectile Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalAP
+msgctxt "UPGRADENAME:FleetNavalAP"
+msgid "九一式穿甲弹"
+msgstr "Type-91 AP Projectile Upgrade"
+
+#. New in Armor Rush
+#: TYPE:FleetNavalAP
+msgctxt "TYPE:FleetNavalAP"
+msgid "高级反装甲强化"
+msgstr "Anti-Armor Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalAP
+msgctxt "UPGRADEPREREQ:FleetNavalAP"
+msgid "九一式穿甲弹"
+msgstr "Type-91 AP Projectile Upgrade"
+
+#. New in Armor Rush
+#: NAME:FleetNavalTorp
+msgctxt "NAME:FleetNavalTorp"
+msgid "氧气鱼雷升级"
+msgstr "Type-93 Oxygen Torpedo Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalTorp
+msgctxt "UPGRADENAME:FleetNavalTorp"
+msgid "氧气鱼雷升级"
+msgstr "Type-93 Oxygen Torpedo Upgrade"
+
+#. New in Armor Rush
+#: TYPE:FleetNavalTorp
+msgctxt "TYPE:FleetNavalTorp"
+msgid "武器强化"
+msgstr "Navy Weapon Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetNavalTorp
+msgctxt "DESCRIPTION:FleetNavalTorp"
+msgid ""
+"以压缩氧气做推进剂的鱼雷能让它的航程更远，装药更足。但装填程序将更繁琐。\r\n"
+"\r\n"
+">>研究鱼雷\r\n"
+"     研究完成后：\r\n"
+"     解锁 高雄巡洋舰\r\n"
+"     解锁 研究发动机\r\n"
+"\r\n"
+"     鱼雷武器射程，伤害提升\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Develops pure oxygen torpedoes, which have extended range and deal greater damage.\n"
+"\n"
+"> Increases damage and range of torpedo units\n"
+"     Unlocks Takao Cruiser\n"
+"     Unlocks Motor Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalTorp
+msgctxt "UPGRADEPREREQ:FleetNavalTorp"
+msgid "氧气鱼雷升级"
+msgstr "Type-93 Oxygen Torpedo Upgrade"
+
+#. New in Armor Rush
+#: NAME:FleetTechAdvancedAA
+msgctxt "NAME:FleetTechAdvancedAA"
+msgid "涡轮激光防空炮"
+msgstr "Turbolaser AA guns"
+
+#. New in Armor Rush
+#: TYPE:FleetTechAdvancedAA
+msgctxt "TYPE:FleetTechAdvancedAA"
+msgid "武器强化"
+msgstr "Mothership AA Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetTechAdvancedAA
+msgctxt "DESCRIPTION:FleetTechAdvancedAA"
+msgid ""
+"针对复杂的战场环境重新规划线路与甲板空间，安装先进的涡轮激光对空武器以对抗日益猖獗的敌方空军。\r\n"
+"\r\n"
+">>安装涡轮激光防空炮\r\n"
+"\r\n"
+"    天琼母舰\r\n"
+"\r\n"
+"开始安装>>"
+msgstr ""
+"Install advanced turbolaser AA turrets on the Tenkei mothership, which have increased effectiveness against enemy aircraft.\n"
+"\n"
+"> Installs mothership turbolaser AA guns"
+
+#. New in Armor Rush
+#: NAME:FleetNavalAir
+msgctxt "NAME:FleetNavalAir"
+msgid "空母战理论"
+msgstr "Air-Sea Combined Arms Strategy"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalAir
+msgctxt "UPGRADENAME:FleetNavalAir"
+msgid "空母战理论"
+msgstr "Air-Sea Combined Arms Strategy"
+
+#. New in Armor Rush
+#: TYPE:FleetNavalAir
+msgctxt "TYPE:FleetNavalAir"
+msgid "研发舰载航空部队"
+msgstr "Naval Aircraft Upgrade"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalAir
+msgctxt "UPGRADEPREREQ:FleetNavalAir"
+msgid "空母战理论"
+msgstr "Air-Sea Combined Arms Strategy"
+
+#. New in Armor Rush
+#: NAME:FleetTechCarrierTheory
+msgctxt "NAME:FleetTechCarrierTheory"
+msgid "航母作战理论"
+msgstr "Carrier Theory"
+
+#. New in Armor Rush
+#: TYPE:FleetTechCarrierTheory
+msgctxt "TYPE:FleetTechCarrierTheory"
+msgid "解锁单位"
+msgstr "Unlock Unit"
+
+#. New in Armor Rush, NOTE: See Ship Names in ImperialUnits
+#: DESCRIPTION:FleetTechCarrierTheory
+msgctxt "DESCRIPTION:FleetTechCarrierTheory"
+msgid ""
+"研究航空母舰图纸，并将航空母舰建造参数传往雾之海港。\r\n"
+"\r\n"
+">>研究图纸\r\n"
+"\r\n"
+"    解锁大凤级装甲航母\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Research aircraft carrier knowledge and transmit the parameters of aircraft carrier construction to all Kiri Harbors.\r\n"
+"\r\n"
+"> Unlock Taiho Carrier"
+
+#. New in Armor Rush
+#: NAME:FleetNavalCruiser
+msgctxt "NAME:FleetNavalCruiser"
+msgid "航巡改造"
+msgstr "Aircraft Cruiser Refit"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetNavalCruiser
+msgctxt "UPGRADENAME:FleetNavalCruiser"
+msgid "航巡改造"
+msgstr "Aircraft Cruiser Refit"
+
+#. New in Armor Rush, NOTE: See Ship Name in ImperialUnits
+#: TYPE:FleetNavalCruiser
+msgctxt "TYPE:FleetNavalCruiser"
+msgid "高雄巡洋舰改造"
+msgstr "Takao Cruiser Retrofit"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetNavalCruiser
+msgctxt "UPGRADEPREREQ:FleetNavalCruiser"
+msgid "航巡改造"
+msgstr "Aircraft Cruiser Refit"
+
+#. New in Armor Rush
+#: NAME:FleetTechCruiser
+msgctxt "NAME:FleetTechCruiser"
+msgid "航巡改造"
+msgstr "Aircraft Cruiser Refit"
+
+#. New in Armor Rush
+#: TYPE:FleetTechCruiser
+msgctxt "TYPE:FleetTechCruiser"
+msgid "单位强化"
+msgstr "Takao AA Retrofit"
+
+#. New in Armor Rush, NOTE: See Ship descriptions in ImperialUnits
+#: DESCRIPTION:FleetTechCruiser
+msgctxt "DESCRIPTION:FleetTechCruiser"
+msgid ""
+"拆下主炮和大部分鱼雷管，加装垂直起降装置和额外的防空炮，提供舰队支援！\r\n"
+"\r\n"
+">>改造巡洋舰\r\n"
+"     防空炮阵列\r\n"
+"     防空机枪\r\n"
+"     战斗机弹射器\r\n"
+"     拆除火炮\r\n"
+"\r\n"
+"     个人技能：防御型防空火力\r\n"
+"     小队技能：鱼雷齐射\r\n"
+"\r\n"
+"     高雄巡洋舰\r\n"
+"\r\n"
+">>防空专精\r\n"
+"     提升天琼防空单位（除LMD弓箭手）对重型飞行器的伤害\r\n"
+"\r\n"
+"开始改造>>"
+msgstr ""
+"Heavily refits all Takao Cruisers for anti-aircraft support. Additionally, Tenkei AA units (except archers) are more effective against heavy "
+"aircraft.\r\n"
+"\r\n"
+"> Modifies Takao Cruiser:\n"
+"     Installs AA artillery array\n"
+"     Installs AA guns\n"
+"     Installs VTOL pad\n"
+"     Dismantles main turrets\n"
+"\r\n"
+"> Modifies Takao special ability:\n"
+"     Individual: Intensify AA Power\n"
+"     Group: Type-93 Torpedo Salvo\n"
+"\r\n"
+"> Increases unit AA damage (except for Ata-7 Archer)"
+
+#. New in Armor Rush
+#: NAME:FleetTechEnhancedCannon
+msgctxt "NAME:FleetTechEnhancedCannon"
+msgid "高级舰载火炮"
+msgstr "Advanced Ship Cannon"
+
+#. New in Armor Rush
+#: TYPE:FleetTechEnhancedCannon
+msgctxt "TYPE:FleetTechEnhancedCannon"
+msgid "武器强化"
+msgstr "Cannon Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See Ship Names in ImperialUnits
+#: DESCRIPTION:FleetTechEnhancedCannon
+msgctxt "DESCRIPTION:FleetTechEnhancedCannon"
+msgid ""
+"身管材料及发射药上的技术进展使得我们能在不大幅改动舰船设计的情况下，提高舰载火炮的作战效能。\r\n"
+"\r\n"
+">>提高火炮效能\r\n"
+"\r\n"
+"    高雄巡洋舰\r\n"
+"    大和级战列舰\r\n"
+"    天琼母舰\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Technical advancements in barrel materials and propellants improve the combat effectiveness of ship-based artillery.\r\n"
+"\r\n"
+"> Increase artillery effectiveness for the following units:\r\n"
+"    Takao Cruiser\n"
+"    Yamato battleships\r\n"
+"    Tenkei Mothership"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetMotherAirCommandTower
+msgctxt "UPGRADENAME:FleetMotherAirCommandTower"
+msgid "启动航空塔台"
+msgstr "Aerial Control Tower"
+
+#. New in Armor Rush
+#: UPGRADETYPE:FleetMotherAirCommandTower
+msgctxt "UPGRADETYPE:FleetMotherAirCommandTower"
+msgid "航空支援升级"
+msgstr "Aircraft Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetMotherAirCommandTower
+#, fuzzy
+msgctxt "DESCRIPTION:FleetMotherAirCommandTower"
+msgid ""
+"启用航空塔台，为天琼空军提供侦查、导航、指挥与索敌支持，协调航空生产线运作。\n"
+"\n"
+">>安装航空塔台\n"
+"\n"
+"     提高天琼母舰周围A翼、U翼的速度、火力与生存率\n"
+"     解锁第二条航空生产线\n"
+"\n"
+"开始安装>>"
+msgstr ""
+"Activate the aviation tower to provide the Tianqiong Air Force with reconnaissance, navigation, command and support for finding enemies, and "
+"coordinate the operation of the aviation production line.\n"
+"\n"
+">>Install aviation tower\n"
+"\n"
+"      Improve the speed, firepower and survival rate of A-wing and U-wing around Tianqiong Mothership\n"
+"      Unlock the second aviation production line\n"
+"\n"
+"Start installation>>\n"
+"\n"
+"\n"
+"Enable the aviation tower to provide investigation, navigation, command and support to the Tianqiong Air Force, and coordinate the operation of the "
+"aviation production line.\n"
+"\n"
+">> to install the aviation tower.\n"
+"\n"
+"Improve the speed, firepower and survival rate of A-wing and U-wing around Tianqiong mothership.\n"
+"     Unlock the second aviation production line.\n"
+"\n"
+"Start installing >>."
+
+#. New in Armor Rush
+#: NAME:FleetTechGiganticHanger
+msgctxt "NAME:FleetTechGiganticHanger"
+msgid "巨型机库"
+msgstr "Gigantic Hangar"
+
+#. New in Armor Rush
+#: TYPE:FleetTechGiganticHanger
+msgctxt "TYPE:FleetTechGiganticHanger"
+msgid "机库扩展"
+msgstr "Hangar Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:FleetTechGiganticHanger
+msgctxt "DESCRIPTION:FleetTechGiganticHanger"
+msgid ""
+"合理化战机生产车间与维护过程，多余的空间将允许母舰内停放更多空间单位。\r\n"
+"\r\n"
+">>整理机库空间\r\n"
+"\r\n"
+"    可使用机位：16\r\n"
+"\r\n"
+"开始整理>>"
+msgstr ""
+"Minimization of facilities within the mothership allow more hangar space to be freed up for use.\r\n"
+"\r\n"
+"> Expands hangar to accommodate 16 aircraft"
+
+#. New in Armor Rush
+#: NAME:FleetTechHighCaliber
+msgctxt "NAME:FleetTechHighCaliber"
+msgid "巨炮作战理论"
+msgstr "Battleship Theory"
+
+#. New in Armor Rush
+#: TYPE:FleetTechHighCaliber
+msgctxt "TYPE:FleetTechHighCaliber"
+msgid "解锁单位"
+msgstr "Unlock Unit"
+
+#. New in Armor Rush, NOTE: See Ship Names in ImperialUnits
+#: DESCRIPTION:FleetTechHighCaliber
+msgctxt "DESCRIPTION:FleetTechHighCaliber"
+msgid ""
+"研究加强型舰载大口径炮的图纸，并将改进型战列舰数据传往雾之海港。\r\n"
+"\r\n"
+">>研究大口径炮\r\n"
+"\r\n"
+"    解锁大和级战列舰\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Research reinforced high-calibre batteries and transmit the parameters of battleship construction to all Kiri Harbors.\n"
+"\n"
+"> Unlock Yamato Battleship"
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanFleetBarracksTech2
+msgctxt "UPGRADENAME:JapanFleetBarracksTech2"
+msgid "装甲之躯"
+msgstr "Armored Chassis"
+
+#. New in Armor Rush, NOTE: See Project L.M.D in ImperialUnits
+#: DESCRIPTION:JapanFleetBarracksTech2
+msgctxt "DESCRIPTION:JapanFleetBarracksTech2"
+msgid "优化LMD粒子结构组装程序，批准进行高等战斗人形的生产。"
+msgstr "Optimize the LMD particle structure assembly procedure, allowing the production of advanced combat droids."
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanFleetBarracksTech3
+msgctxt "UPGRADENAME:JapanFleetBarracksTech3"
+msgid "机械之心"
+msgstr "Mechanical Heart"
+
+#. New in Armor Rush
+#: DESCRIPTION:JapanFleetBarracksTech3
+msgctxt "DESCRIPTION:JapanFleetBarracksTech3"
+msgid "批准调用山之姬路强大的量子演算功能为指定容器人形赋予具有破坏性心灵力量的拟似灵魂。"
+msgstr "Acquire the permission to use the Yama Himeji's powerful quantum calculus function to bestow droids with destructive psychic power."
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanTechDamage
+msgctxt "UPGRADENAME:JapanTechDamage"
+msgid "新型爆束武器"
+msgstr "Burst Lasers"
+
+#. New in Armor Rush
+#: UPGRADETYPE:JapanTechDamage
+msgctxt "UPGRADETYPE:JapanTechDamage"
+msgid "爆束武器强化"
+msgstr "Laser Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:JapanTechDamage
+#, fuzzy
+msgctxt "DESCRIPTION:JapanTechDamage"
+msgid ""
+"研发最新型的爆束武器，增强其穿透力和杀伤力！\n"
+"\n"
+">>伤害提升\n"
+"     帝国武士\n"
+"     天狗机甲\n"
+"     VX机甲\n"
+"\n"
+"     伤害+20%，射程+5%\n"
+"\n"
+">>伤害提升\n"
+"\n"
+"     VX防卫者\n"
+"\n"
+"     伤害+30%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Develop the latest explosive beam weapons to enhance their penetration and lethality!\n"
+"\n"
+">> Damage increase\n"
+"      Imperial Warrior\n"
+"      Tengu Mecha\n"
+"      VX Mecha\n"
+"\n"
+"      Damage +20%, range +5%\n"
+"\n"
+">> Damage increase\n"
+"\n"
+"      VX Defender\n"
+"\n"
+"      Damage +30%\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"\n"
+"Develop the latest burst weapons to enhance their penetration and lethality!\n"
+"\n"
+">> damage increases.\n"
+"     Imperial Warrior.\n"
+"     Tian dog armor.\n"
+"     VX armor.\n"
+"\n"
+"Damage: 20%, range: 5%\n"
+"\n"
+">> damage increases.\n"
+"\n"
+"VX Defender.\n"
+"\n"
+"Damage: 30%\n"
+"\n"
+"Start upgrading >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanTechDrone
+msgctxt "UPGRADENAME:JapanTechDrone"
+msgid "纳米发生器"
+msgstr "Point-Defense Generator"
+
+#. New in Armor Rush
+#: UPGRADETYPE:JapanTechDrone
+msgctxt "UPGRADETYPE:JapanTechDrone"
+msgid "防御强化"
+msgstr "Vehicle Survivability Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:JapanTechDrone
+msgctxt "DESCRIPTION:JapanTechDrone"
+msgid ""
+"安装功能强大的纳米机器人发生器，为一些重要单位提供保护。\r\n"
+"\r\n"
+">>自动点防御机器人\r\n"
+"     核心\r\n"
+"     矿车\r\n"
+"     迅雷载具\r\n"
+"     海啸坦克\r\n"
+"     鬼王\r\n"
+"     薙刀巡洋舰\r\n"
+"\r\n"
+"     重置检查时间：180s\r\n"
+"\r\n"
+"开始安装>>"
+msgstr ""
+"Install automatic point-defense drone generators to help protect certain important units.\r\n"
+"\n"
+"> Auto-generates point-defense drones for the following units (180s cooldown):\n"
+"     Nanocores\n"
+"     Ore Collector\n"
+"     Sudden Transport\n"
+"     Tsunami Tank\n"
+"     King Oni\n"
+"     Naginata Cruiser"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:JapanTechDrone
+msgctxt "UPGRADEPREREQ:JapanTechDrone"
+msgid "纳米发生器"
+msgstr "Point-Defense Generator"
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanTechFleet
+msgctxt "UPGRADENAME:JapanTechFleet"
+msgid "现代化改装"
+msgstr "Fleet Modernization"
+
+#. New in Armor Rush
+#: UPGRADETYPE:JapanTechFleet
+msgctxt "UPGRADETYPE:JapanTechFleet"
+msgid "舰队强化"
+msgstr "Navy Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:JapanTechFleet
+msgctxt "DESCRIPTION:JapanTechFleet"
+msgid ""
+"升级完成后安装在船舰上的先进模块会增强她们的各种性能！\r\n"
+"\r\n"
+">>作战能力提升\r\n"
+"     海军\r\n"
+"\r\n"
+"     伤害，速度，视野，生命值提升\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Further improves the combat abilities of Imperial naval units.\r\n"
+"\n"
+"> Increases navy health, damage, speed and range"
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanTechSight
+msgctxt "UPGRADENAME:JapanTechSight"
+msgid "侦查能力升级"
+msgstr "Improved Radar Modules"
+
+#. New in Armor Rush
+#: UPGRADETYPE:JapanTechSight
+msgctxt "UPGRADETYPE:JapanTechSight"
+msgid "基础强化升级"
+msgstr "Unit Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:JapanTechSight
+msgctxt "DESCRIPTION:JapanTechSight"
+msgid ""
+"扩大单位的视野，更好的捕获目标。\r\n"
+"\r\n"
+">>扩大视野\r\n"
+"     全体单位\r\n"
+"\r\n"
+"     视野+10%\r\n"
+"\r\n"
+">>战略配备优先权\r\n"
+"     协议冷却时间-10%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Develop better radar modules to expand the field of vision of the Empire's forces.\n"
+"\n"
+"> Increases unit vision range (+10%)\n"
+"\n"
+"> Top-Secret Protocol cooldown -10%"
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanTechTrans
+msgctxt "UPGRADENAME:JapanTechTrans"
+msgid "高速转换升级"
+msgstr "High-Speed Transformation"
+
+#. New in Armor Rush
+#: TYPE:JapanTechTrans
+msgctxt "TYPE:JapanTechTrans"
+msgid "变形单位强化"
+msgstr "Unit Transformation Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:JapanTechTrans
+msgctxt "DESCRIPTION:JapanTechTrans"
+msgid ""
+"优化结构单元，此项升级会缩短变形部队的变形冷却时间，还能让他们跑得更快。\n"
+"\n"
+">>缩短特殊技能冷却时间\n"
+"     天狗机甲\n"
+"     VX机甲\n"
+"     海翼\n"
+"     VX防卫者\n"
+"\n"
+"     冷却时间-50%，速度+10%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Optimize structural units in transforming units, which reduces their mode-shifting cooldown time and increases their speed.\n"
+"\n"
+"> Increases speed (+10%) and decreases cooldown times (-50%) for the following units:\n"
+"     Mecha Tengu\n"
+"     Striker-VX\n"
+"     Sea-Wing\n"
+"     Defender-VX"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeBarracksBravo
+msgctxt "UPGRADENAME:KamikazeBarracksBravo"
+msgid "心若云霞"
+msgstr "Bushido"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeBarracksBravo
+msgctxt "UPGRADETYPE:KamikazeBarracksBravo"
+msgid "步兵强化"
+msgstr "Infantry Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:KamikazeBarracksBravo
+msgctxt "DESCRIPTION:KamikazeBarracksBravo"
+msgid ""
+"高强度武士道精神灌输，全面提升步兵的各项属性并使其免疫压制。\n"
+"\n"
+">>生命值提升\n"
+"     阳炎步兵\n"
+"\n"
+"     生命值+20%，速度+10%，视野+10%，免疫压制\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Instill the Samurai Spirit into infantry forces, enhancing their attributes and fearlessness in the face of fire.\n"
+"\n"
+"> Increases infantry health (+20%), speed (+10%) and vision range (+10%)\n"
+"\n"
+"> Infantry resist suppression"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeBarracksSpeed1
+msgctxt "UPGRADENAME:KamikazeBarracksSpeed1"
+msgid "身若剑成"
+msgstr "Intensive Drilling"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeBarracksSpeed1
+msgctxt "UPGRADETYPE:KamikazeBarracksSpeed1"
+msgid "克隆武士强化"
+msgstr "Clone Warrior Upgrade"
+
+#. New in Armor Rush, NOTE: See Clone Warrior's name in ImperialUnits
+#: DESCRIPTION:KamikazeBarracksSpeed1
+msgctxt "DESCRIPTION:KamikazeBarracksSpeed1"
+msgid ""
+"提高阳炎武士训练强度，使其拥有更强健的体魄与更精准的力道控制。\n"
+"\n"
+">>战斗力提升\n"
+"     克隆武士\n"
+"\n"
+"     速度+10%，血量+20%，自爆伤害增加\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Intensify the drills carried out by Clone Warriors during training, improving their physique.\n"
+"\n"
+"> Increases Clone Warrior health (+20%), speed (+10%) and suicide damage"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeBarracksSpeed2
+msgctxt "UPGRADENAME:KamikazeBarracksSpeed2"
+msgid "行若脱兔"
+msgstr "Lightened Nano-Armor"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeBarracksSpeed2
+msgctxt "UPGRADETYPE:KamikazeBarracksSpeed2"
+msgid "步兵强化"
+msgstr "Infantry Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:KamikazeBarracksSpeed2
+msgctxt "DESCRIPTION:KamikazeBarracksSpeed2"
+msgid ""
+"优化纳米护甲内部结构，降低装备总重从而增加步兵的机动能力。\n"
+"\n"
+">>速度提升\n"
+"     阳炎步兵\n"
+"\n"
+"     速度+20%\n"
+"\n"
+"升级开始>>"
+msgstr ""
+"Develop lightened nano-armor for infantry, increasing their agility.\n"
+"\n"
+"> Increases infantry speed (+20%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeTechAdvLaser
+msgctxt "UPGRADENAME:KamikazeTechAdvLaser"
+msgid "炎若八咫"
+msgstr "Improved Lasers"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeTechAdvLaser
+msgctxt "UPGRADETYPE:KamikazeTechAdvLaser"
+msgid "激光武器强化"
+msgstr "Laser Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:KamikazeTechAdvLaser
+#, fuzzy
+msgctxt "DESCRIPTION:KamikazeTechAdvLaser"
+msgid ""
+"改造现有激光武器至最新型，使之拥有更强劲的穿透力与杀伤力。\n"
+"\n"
+">>作战能力提升\n"
+"    天狗特攻机\n"
+" \n"
+"    伤害+20%，射程+10%\n"
+"\n"
+"    VX防卫者\n"
+"\n"
+"    射程+30%\n"
+"\n"
+"    AX机甲\n"
+"\n"
+"    部署模式射程+100%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Transform the existing laser weapon to the latest model to make it have stronger penetrating power and lethality.\n"
+"\n"
+">>Strengthening combat capability\n"
+"     Tengu Special Attack Machine\n"
+" \n"
+"     Damage +20%, range +10%\n"
+"\n"
+"     VX Defender\n"
+"\n"
+"     Range +30%\n"
+"\n"
+"     AX Mecha\n"
+"\n"
+"     Deployment mode range +100%\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"\n"
+"Transform existing laser weapons to the latest models to provide greater penetration and lethality.\n"
+"\n"
+">> capability is enhanced.\n"
+"    Tian dog special attack machine.\n"
+" \n"
+"Damage: 20%, range, range, 10%\n"
+"\n"
+"VX Defender.\n"
+"\n"
+"Range: 30%\n"
+"\n"
+"AX armor.\n"
+"\n"
+"Deployment mode range : 100%\n"
+"\n"
+"Start upgrading >>."
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeTechBravo
+msgctxt "UPGRADENAME:KamikazeTechBravo"
+msgid "勇若阳炎"
+msgstr "Forward Momentum"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeTechBravo
+msgctxt "UPGRADETYPE:KamikazeTechBravo"
+msgid "载具强化"
+msgstr "Vehicle Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:KamikazeTechBravo
+msgctxt "DESCRIPTION:KamikazeTechBravo"
+msgid ""
+"综合强化所有载具的作战能力，实现装甲部队战斗力的飞跃性提升。\n"
+"\n"
+">>作战能力提升\n"
+"    阳炎载具\n"
+"\n"
+"    速度+15%，生命值+15%，伤害+10%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Upgrade all vehicles in every aspect, greatly improving their performance in combat.\n"
+"\n"
+">Increases vehicle health (+15%), damage (+10%) and speed (+15%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeTechHealth
+msgctxt "UPGRADENAME:KamikazeTechHealth"
+msgid "愈若重圆"
+msgstr "Nano-Repair Arrays"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeTechHealth
+msgctxt "UPGRADETYPE:KamikazeTechHealth"
+msgid "高级载具强化"
+msgstr "Vehicle Survivability Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:KamikazeTechHealth
+msgctxt "DESCRIPTION:KamikazeTechHealth"
+msgid ""
+"为部分载具安装纳米修复阵列，有效提升其战场生存能力与续航力。\n"
+"\n"
+">>作战能力提升\n"
+"    潮音坦克\n"
+"    鬼王\n"
+"    影武浪人\n"
+"\n"
+"    生命值+20%，额外生命回复\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Install nano-repair arrays for certain vehicles to effectively improve their battlefield survivability and endurance.\n"
+"\n"
+"> Increases health (+20%) and provides health regen for the following units:\n"
+"    Shionoto\n"
+"    King Oni\n"
+"    Shadow Ronin"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeTechSight
+msgctxt "UPGRADENAME:KamikazeTechSight"
+msgid "了若镜鉴"
+msgstr "Improved Radar Modules"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeTechSight
+msgctxt "UPGRADETYPE:KamikazeTechSight"
+msgid "视野强化"
+msgstr "Unit Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:KamikazeTechSight
+msgctxt "DESCRIPTION:KamikazeTechSight"
+msgid ""
+"提高单位所携终端的扫描范围，更好的捕捉战场内敌军的动向。\n"
+"\n"
+">>扩大视野\n"
+"     所有单位\n"
+"\n"
+"     视野+25%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Develop better radar modules to expand the field of vision of Kagerou's forces.\n"
+"\n"
+"> Increases unit vision range (+25%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeWarFactoryCoreEnhance
+msgctxt "UPGRADENAME:KamikazeWarFactoryCoreEnhance"
+msgid "爆若雷霆"
+msgstr "Enhanced Kamikaze Cores"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeWarFactoryCoreEnhance
+msgctxt "UPGRADETYPE:KamikazeWarFactoryCoreEnhance"
+msgid "自爆核心强化"
+msgstr "Kamikaze Core Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:KamikazeWarFactoryCoreEnhance
+msgctxt "DESCRIPTION:KamikazeWarFactoryCoreEnhance"
+msgid ""
+"优化爆破核心的制造工艺，加强其外部装甲强度并有效提升其核心的爆炸威力。\n"
+"\n"
+">>作战能力提升\n"
+"    爆破核心\n"
+"\n"
+"    生命值+300%，护甲强度提升，自爆伤害增加\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Equip Kamikaze Cores with tank-grade armor and pack more dangerous explosives into them, increasing deadliness.\n"
+"\n"
+"> Increases Kamikaze Core armor, health (+300%) and damage"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeWarFactorySpeed
+msgctxt "UPGRADENAME:KamikazeWarFactorySpeed"
+msgid "迅若疾风"
+msgstr "Engine Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeWarFactorySpeed
+msgctxt "UPGRADETYPE:KamikazeWarFactorySpeed"
+msgid "载具强化"
+msgstr "Vehicle Speed Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:KamikazeWarFactorySpeed
+msgctxt "DESCRIPTION:KamikazeWarFactorySpeed"
+msgid ""
+"开启新式发动机的装配流程，在提高载具速度的同时满足更高级装备的制造条件。\n"
+"\n"
+">>速度提升\n"
+"    天狗机甲\n"
+"    潮音坦克\n"
+"    VX打击者\n"
+"    鬼王\n"
+"    大型迅雷载具\n"
+"    影武浪人\n"
+"\n"
+"     解锁 潮音坦克\n"
+"     解锁 VX打击者\n"
+"\n"
+"     速度+10%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Equips Kagerou vehicles with better engines, allowing faster movement. Also unlocks additional units.\n"
+"\n"
+"> Increases speed for the following units:\n"
+"    Mecha Tengu\n"
+"    Shionoto\n"
+"    Striker-AX\n"
+"    King Oni\n"
+"    Class-L Sudden Transport\n"
+"    Shadow Ronin\n"
+"\n"
+"> Unlocks Shionoto\n"
+"    Unlocks Striker-AX"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeWarFactoryT3
+msgctxt "UPGRADENAME:KamikazeWarFactoryT3"
+msgid "势若阳明"
+msgstr "Mechlab Breakthrough"
+
+#. New in Armor Rush
+#: UPGRADETYPE:KamikazeWarFactoryT3
+msgctxt "UPGRADETYPE:KamikazeWarFactoryT3"
+msgid "科技等级提升"
+msgstr "Technology Level Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in ImperialUnits
+#: DESCRIPTION:KamikazeWarFactoryT3
+msgctxt "DESCRIPTION:KamikazeWarFactoryT3"
+msgid ""
+"使用纳米机械改造工厂内部，解锁其对先进载具与破坏性实验武器的生产能力。\n"
+"\n"
+">>科技生产\n"
+"     解锁 鬼王\n"
+"     解锁 大型迅雷载具\n"
+"     解锁 影武浪人\n"
+"\n"
+"     阳炎机关\n"
+"     生命值+50%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Reinforces the structure of Kagerou Mechlabs and unlocks their most destructive mechanized forces.\n"
+"\n"
+"> Increases Mechlab health (+50%)\n"
+"\n"
+"> Unlocks King Oni\n"
+"    Unlocks Class-L Sudden Transport\n"
+"    Unlocks Shadow Ronin"
+
+#. New in Armor Rush
+#: UPGRADENAME:JapanEnhancedKamikaze
+msgctxt "UPGRADENAME:JapanEnhancedKamikaze"
+msgid "光荣自爆"
+msgstr "Honorable Discharge"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:JapanEnhancedKamikaze
+msgctxt "UPGRADEPREREQ:JapanEnhancedKamikaze"
+msgid "光荣自爆"
+msgstr "Honorable Discharge"
+
+#. New in Armor Rush
+#: UPGRADENAME:KamikazeBarracksTech2
+msgctxt "UPGRADENAME:KamikazeBarracksTech2"
+msgid "道场升级"
+msgstr "Dojo Upgrade"
+
+#  ## Buildings ##
+#. New in Armor Rush
+#: NAME:JapanKamikazeEgg
+msgctxt "NAME:JapanKamikazeEgg"
+msgid "爆破核心"
+msgstr "Kamikaze Core"
+
+#. New in Armor Rush
+#: TYPE:JapanKamikazeEgg
+msgctxt "TYPE:JapanKamikazeEgg"
+msgid "爆破型机器人"
+msgstr "Self-Destructing Core"
+
+#. New in Armor Rush
+#: DESC:JapanKamikazeEgg
+msgctxt "DESC:JapanKamikazeEgg"
+msgid "这个核心里的纳米机器人全部被换成了致命的高爆炸药。"
+msgstr "Not-so-special drones loaded with lethal explosives rather than nanomachines."
+
+#. New in Armor Rush
+#: NAME:KamikazeNano
+msgctxt "NAME:KamikazeNano"
+msgid "机魂毁灭"
+msgstr "Core Self-Destruction"
+
+#. New in Armor Rush
+#: DESC:KamikazeNano
+msgctxt "DESC:KamikazeNano"
+msgid "即刻启动自毁程序，引爆携带的炸药摧毁周遭敌军。"
+msgstr "Causes the Kamikaze Core to immediately self-destruct, dealing damage to all nearby objects."
+
+#. Modified existing RA3 String
+#: NAME:JAPANMCV
+msgctxt "NAME:JAPANMCV"
+msgid "帝国基地车"
+msgstr "MCV"
+
+#. New in Armor Rush
+#: NAME:JapanMCVKamikaze
+msgctxt "NAME:JapanMCVKamikaze"
+msgid "阳炎基地车"
+msgstr "Kagerou MCV"
+
+#. Modified existing RA3 String, NOTE: See other factions's MCV descriptions
+#: DESC:ABILITYUNPACKJAPANMCV
+msgctxt "DESC:ABILITYUNPACKJAPANMCV"
+msgid "变形为潘多拉魔盒，战争是万恶之源。"
+msgstr "Transforms to a Construction Yard, which can create other military structures."
+
+#. New in Armor Rush
+#: NAME:JapanFleetMotherShip
+msgctxt "NAME:JapanFleetMotherShip"
+msgid "天琼母舰"
+msgstr "Tenkei Mothership"
+
+#. New in Armor Rush
+#: TYPE:JapanFleetMotherShip
+msgctxt "TYPE:JapanFleetMotherShip"
+msgid "浮岛要塞核心"
+msgstr "Floating Island Fortress"
+
+#. New in Armor Rush
+#: DESC:JapanFleetMotherShip
+msgctxt "DESC:JapanFleetMotherShip"
+msgid "这艘天琼母舰代表着天琼帝国的科技、荣耀，她在天琼帝国中有不可替代的重要地位。"
+msgstr ""
+"The Tenkei Mothership represents the technological advances and glory of the Tenkei Empire, and produces military structure cores for deployment as "
+"needed."
+
+#. New in Armor Rush
+#: DESCRIPTION:JapanFleetMotherShip
+msgctxt "DESCRIPTION:JapanFleetMotherShip"
+msgid "这艘天琼母舰代表着天琼帝国的科技、荣耀，她在天琼帝国中有不可替代的重要地位。"
+msgstr ""
+"The Tenkei Mothership represents the technological advances and glory of the Tenkei Empire, and produces military structure cores for deployment as "
+"needed."
+
+#. New in Armor Rush
+#: NAME:JapanFleetMotherShip_AA
+msgctxt "NAME:JapanFleetMotherShip_AA"
+msgid "防空炮组"
+msgstr "AA Turrets"
+
+#. New in Armor Rush
+#: TYPE:JapanFleetMotherShip_AA
+msgctxt "TYPE:JapanFleetMotherShip_AA"
+msgid "防空模块"
+msgstr "Anti-Air Module"
+
+#. New in Armor Rush
+#: DESC:JapanFleetMotherShip_AA
+msgctxt "DESC:JapanFleetMotherShip_AA"
+msgid "天琼母舰的防空炮组，负责抵御来自天空的攻击。"
+msgstr "The Tenkei mothership's AA turrets effectively repel enemy air threats."
+
+#. New in Armor Rush
+#: NAME:JapanFleetMotherShip_Engine
+msgctxt "NAME:JapanFleetMotherShip_Engine"
+msgid "引擎"
+msgstr "Engines"
+
+#. New in Armor Rush
+#: TYPE:JapanFleetMotherShip_Engine
+msgctxt "TYPE:JapanFleetMotherShip_Engine"
+msgid "动力模块"
+msgstr "Power Module"
+
+#. New in Armor Rush
+#: DESC:JapanFleetMotherShip_Engine
+msgctxt "DESC:JapanFleetMotherShip_Engine"
+msgid "天琼母舰的引擎，是重要的模块，受到严重损伤后会导致母舰速度降低。"
+msgstr ""
+"The Tenkei mothership's engines are vital for travelling around the battlefield. Critical damage to the engines will slow down the mothership."
+
+#. New in Armor Rush
+#: NAME:JapanFleetMotherShip_IN
+msgctxt "NAME:JapanFleetMotherShip_IN"
+msgid "天琼之眼"
+msgstr "Eye of Tenkei"
+
+#. New in Armor Rush
+#: TYPE:JapanFleetMotherShip_IN
+msgctxt "TYPE:JapanFleetMotherShip_IN"
+msgid "终极武器模块"
+msgstr "Ultimate Weapon Module"
+
+#. New in Armor Rush
+#: DESC:JapanFleetMotherShip_IN
+msgctxt "DESC:JapanFleetMotherShip_IN"
+msgid ""
+"由巴别塔计划提供相关技术支持的舰载巨型能量武器，可以在完成建造后且模块结构耐久度足够的情况下通过相关程序充能激活，扫除母舰视野范围内的一切敌军。"
+msgstr "The Tenkei mothership's ultimate weapon carries out area denial to the most extreme degree. Disabled if critically damaged."
+
+#. New in Armor Rush
+#: NAME:FleetTechIndependence
+msgctxt "NAME:FleetTechIndependence"
+msgid "独立日"
+msgstr "Independence Day"
+
+#. New in Armor Rush
+#: UPGRADENAME:FleetTechIndependence
+msgctxt "UPGRADENAME:FleetTechIndependence"
+msgid "独立日"
+msgstr "Independence Day"
+
+#. New in Armor Rush
+#: TYPE:FleetTechIndependence
+msgctxt "TYPE:FleetTechIndependence"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:FleetTechIndependence
+msgctxt "UPGRADEPREREQ:FleetTechIndependence"
+msgid "独立日"
+msgstr "Independence Day"
+
+#. New in Armor Rush
+#: NAME:MotherIndependence
+msgctxt "NAME:MotherIndependence"
+msgid "窥渊之果"
+msgstr "Fire and Brimstone"
+
+#. New in Armor Rush
+#: TYPE:MotherIndependence
+msgctxt "TYPE:MotherIndependence"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: DESC:MotherIndependence
+msgctxt "DESC:MotherIndependence"
+msgid ""
+"即刻解开所有能量限制，启动脉冲星拟似能量坍缩集束轰炸程序，向窥探巴别塔的无知敌人报以天琼之眼的凝视。\r\n"
+"\r\n"
+"“切勿靠近，切勿窥看，\r\n"
+"深渊之内，别有洞天。\r\n"
+"文明不过泡影，混沌方为永恒，\r\n"
+"汝等应在通天的幻梦中，永世沉寂安眠。”"
+msgstr ""
+"Activate the Eye of Tenkei, obliterating everything around the Tenkei Mothership in a very large radius!\r\n"
+"\r\n"
+"'Now I am become Death, the destroyer of worlds.'\r\n"
+"    ~ J. Robert Oppenheimer"
+
+#. New in Armor Rush
+#: NAME:JapanFleetMotherShip_MC
+msgctxt "NAME:JapanFleetMotherShip_MC"
+msgid "磁轨主炮"
+msgstr "Railgun Batteries"
+
+#. New in Armor Rush
+#: TYPE:JapanFleetMotherShip_MC
+msgctxt "TYPE:JapanFleetMotherShip_MC"
+msgid "武器模块"
+msgstr "Weapon Module"
+
+#. New in Armor Rush
+#: DESC:JapanFleetMotherShip_MC
+msgctxt "DESC:JapanFleetMotherShip_MC"
+msgid "天琼母舰的510mm磁轨主炮，受到严重损伤后将无法开火。"
+msgstr "The Tenkei mothership's 510mm main railgun batteries can bombard enemies from afar. Disabled if critically damaged."
+
+#. New in Armor Rush
+#: NAME:Independence
+msgctxt "NAME:Independence"
+msgid "天琼之眼"
+msgstr "Eye of Tenkei"
+
+#. New in Armor Rush
+#: DESC:Independence
+msgctxt "DESC:Independence"
+msgid ""
+"激活天琼之眼武器发射进程，摧毁视野内的所有敌方物体。\r\n"
+"\r\n"
+"我们不愿坐以待毙！\r\n"
+"我们不能不战而亡！\r\n"
+"我们要活下去！\r\n"
+"我们会活下去！\r\n"
+"今天，我们庆祝的是自己的独立日！"
+msgstr ""
+"Activate the Eye of Tenkei, obliterating everything around the Tenkei Mothership in a very large radius!\n"
+"\r\n"
+"'Now I am become Death, the destroyer of worlds.'\r\n"
+"    ~ J. Robert Oppenheimer"
+
+#. New in Armor Rush
+#: NAME:JapanConstructionYardKamikaze
+msgctxt "NAME:JapanConstructionYardKamikaze"
+msgid "阳炎中枢"
+msgstr "Kagerou Center"
+
+#. New in Armor Rush
+#: DESC:JapanConstructionYardKamikaze
+msgctxt "DESC:JapanConstructionYardKamikaze"
+msgid "旭日帝国阳炎分支基地的中枢。它们为不同的需求生产军用建筑核心。"
+msgstr "Hub of a Kagerou base. They produce military structure cores for deployment as needed."
+
+#. New in Armor Rush
+#: NAME:JapanPowerPlantFleetEgg
+msgctxt "NAME:JapanPowerPlantFleetEgg"
+msgid "风之电厂核心"
+msgstr "Kaze Generator Core"
+
+#. Modified existing RA3 String
+#: DESC:JAPANPOWERPLANTEGG
+msgctxt "DESC:JAPANPOWERPLANTEGG"
+msgid "展开成发电机的专用机器人，可以为基地提供电力。"
+msgstr "Special drones that unfurl into the Instant Generator, which powers Imperial bases."
+
+#. New in Armor Rush
+#: NAME:JapanPowerPlantFleet
+msgctxt "NAME:JapanPowerPlantFleet"
+msgid "风之电厂"
+msgstr "Kaze Generator"
+
+#. New in Armor Rush
+#: DESC:JapanPowerPlantFleet
+msgctxt "DESC:JapanPowerPlantFleet"
+msgid "天琼需要这些使用化学燃料的建筑来维持运转效率。"
+msgstr "Tenkei bases need these wind-trapping structures to maintain operational efficiency."
+
+#. New in Armor Rush
+#: DESC:JapanPowerPlantKamikaze
+msgctxt "DESC:JapanPowerPlantKamikaze"
+msgid "阳炎基地需要这些使用化学燃料的建筑来维持运转效率。"
+msgstr "Kagerou bases need these chemical-burning structures to maintain operational efficiency."
+
+#. Modified existing RA3 String
+#: DESC:JAPANBARRACKSEGG
+msgctxt "DESC:JAPANBARRACKSEGG"
+msgid "展开成道场的专用机器人，可以在那里训练各种无畏的步兵。"
+msgstr "Special drones that unfurl into the Instant Dojo, which trains all Imperial infantry."
+
+#. New in Armor Rush
+#: NAME:JapanBarracksFleet
+msgctxt "NAME:JapanBarracksFleet"
+msgid "火之道场"
+msgstr "Honoh Dojo"
+
+#. New in Armor Rush
+#: DESC:JapanBarracksFleet
+msgctxt "DESC:JapanBarracksFleet"
+msgid "纳米训练中心，天琼的战术人形在这里诞生并接受训练。"
+msgstr "Self-folding martial-arts centers in which Tenkei's droid infantry are built for battle."
+
+#. New in Armor Rush
+#: NAME:JapanBarracksFleetEgg
+msgctxt "NAME:JapanBarracksFleetEgg"
+msgid "火之道场核心"
+msgstr "Honoh Dojo Core"
+
+#. New in Armor Rush
+#: DESC:JapanBarracksFleetEgg
+msgctxt "DESC:JapanBarracksFleetEgg"
+msgid "展开成道场的专用机器人，在这里可以制造并训练天琼各种独特的战术人形。"
+msgstr "Special drones that unfurl into the Honoh Dojo, which builds all Tenkei droid infantry."
+
+#. New in Armor Rush
+#: NAME:JapanBarracksKamikaze
+msgctxt "NAME:JapanBarracksKamikaze"
+msgid "阳炎道场"
+msgstr "Kagerou Dojo"
+
+#. New in Armor Rush
+#: DESC:JapanBarracksKamikaze
+msgctxt "DESC:JapanBarracksKamikaze"
+msgid "可折叠式训练中心，阳炎步兵在这里接受武士道精神的洗礼。"
+msgstr "Self-folding martial-arts centers in which Kagerou's infantry are baptized by the spirit of Bushido."
+
+#. Modified existing RA3 String
+#: DESCRIPTION:UPGRADEJAPANBARRACKSTECH2
+msgctxt "DESCRIPTION:UPGRADEJAPANBARRACKSTECH2"
+msgid "升级这个道场到下一级别，允许招募更高级的兵种。"
+msgstr "Expands this facility to the next level, granting access to the recruitment of advanced infantry."
+
+#. Modified existing RA3 String
+#: DESCRIPTION:UPGRADEJAPANBARRACKSTECH3
+msgctxt "DESCRIPTION:UPGRADEJAPANBARRACKSTECH3"
+msgid "完全升级该道场，能够使用精锐突击队员。"
+msgstr "Completes the expansion of this facility, enabling access to recruit Commandos."
+
+#. Modified existing RA3 String, NOTE: See Collector name in ImperialUnits
+#: DESC:JAPANREFINERY
+msgctxt "DESC:JAPANREFINERY"
+msgid "矿车通过把资源运回这些提炼厂供给帝国军队。"
+msgstr "Ore Collectors fund Japan's military by depositing resources at these processing plants."
+
+#. New in Armor Rush
+#: NAME:JapanRefineryFleetEgg
+msgctxt "NAME:JapanRefineryFleetEgg"
+msgid "林之冶场核心"
+msgstr "Hayashi Refinery Core"
+
+#. Modified existing RA3 String
+#: DESC:JAPANREFINERYEGG
+msgctxt "DESC:JAPANREFINERYEGG"
+msgid "展开成精炼厂的专用机器人，这是军费的来源。"
+msgstr "Special drones that unfurl into the Ore Refinery, which generates war funds."
+
+#. New in Armor Rush
+#: NAME:JapanRefineryFleet
+msgctxt "NAME:JapanRefineryFleet"
+msgid "林之冶场"
+msgstr "Hayashi Refinery"
+
+#. New in Armor Rush, NOTE: See Collector name in ImperialUnits
+#: DESC:JapanRefineryFleet
+msgctxt "DESC:JapanRefineryFleet"
+msgid "矿车通过把资源运回这些精炼厂供给天琼军队。"
+msgstr "MALL-E Collectors fund Tenkei's military by depositing resources at these processing plants."
+
+#. New in Armor Rush, NOTE: See Collector name in ImperialUnits
+#: DESC:JapanRefineryKamikaze
+msgctxt "DESC:JapanRefineryKamikaze"
+msgid "矿车通过把资源运回这些精炼厂供给阳炎军队。"
+msgstr "Ore Collectors fund Kagerou's military by depositing resources at these processing plants."
+
+#. New in Armor Rush
+#: NAME:JapanKamikazeWarFactoryEgg
+msgctxt "NAME:JapanKamikazeWarFactoryEgg"
+msgid "机关核心"
+msgstr "Mechlab Core"
+
+#. New in Armor Rush
+#: NAME:JapanWarFactoryKamikaze
+msgctxt "NAME:JapanWarFactoryKamikaze"
+msgid "阳炎机关"
+msgstr "Mechlab"
+
+#. New in Armor Rush
+#: DESC:JapanWarFactoryKamikaze
+msgctxt "DESC:JapanWarFactoryKamikaze"
+msgid "这些工厂组装和修理阳炎军用车辆，包括那些有飞行能力的。"
+msgstr "These facilities assemble and repair Kagerou military vehicles, including flight-capable ones."
+
+#. New in Armor Rush
+#: NAME:JapanNavalYardFleetEgg
+msgctxt "NAME:JapanNavalYardFleetEgg"
+msgid "雾之海港核心"
+msgstr "Kiri Harbor Core"
+
+#. Modified existing RA3 String
+#: DESC:JAPANNAVALYARDEGG
+msgctxt "DESC:JAPANNAVALYARDEGG"
+msgid "展开成海港的专用机器人，这里可以建造海军舰艇。"
+msgstr "Special drones that unfurl into the Kiri Harbor, which builds naval vessels."
+
+#. New in Armor Rush
+#: NAME:JapanNavalYardFleet
+msgctxt "NAME:JapanNavalYardFleet"
+msgid "雾之海港"
+msgstr "Kiri Harbor"
+
+#. New in Armor Rush
+#: DESC:JapanNavalYardFleet
+msgctxt "DESC:JapanNavalYardFleet"
+msgid "令全世界为之震颤的天琼海军从这里下水，出征。"
+msgstr "Tenkei's impregnable fleets sail forth from and repair at these ornate facilities."
+
+#. New in Armor Rush
+#: NAME:JapanKamikazeNavalYardEgg
+msgctxt "NAME:JapanKamikazeNavalYardEgg"
+msgid "彼岸核心"
+msgstr "Docks Core"
+
+#. New in Armor Rush
+#: NAME:JapanNavalYardKamikaze
+msgctxt "NAME:JapanNavalYardKamikaze"
+msgid "阳炎彼岸"
+msgstr "Kagerou Docks"
+
+#. New in Armor Rush
+#: DESC:JapanNavalYardKamikaze
+msgctxt "DESC:JapanNavalYardKamikaze"
+msgid "阳炎的舰队从这些工厂中下水和维修。"
+msgstr "Kagerou's unshakeable fleets sail forth from and repair at these ornate facilities."
+
+#. New in Armor Rush
+#: NAME:JapanTechStructureFleetEgg
+msgctxt "NAME:JapanTechStructureFleetEgg"
+msgid "山之姬路核心"
+msgstr "Yama Hijemi Core"
+
+#. New in Armor Rush
+#: NAME:JapanTechStructureFleet
+msgctxt "NAME:JapanTechStructureFleet"
+msgid "山之姬路"
+msgstr "Yama Hijemi"
+
+#. New in Armor Rush
+#: DESC:JapanTechStructureFleet
+msgctxt "DESC:JapanTechStructureFleet"
+msgid "放置于战场上的作战用量子计算枢纽，为战区内我方单位提供附加运算能力与高级授权选项。"
+msgstr "These authorize access to more powerful tech by updating nanomachines with classified firmware."
+
+#  ## Base Defenses ##
+#. Modified existing RA3 String
+#: NAME:JAPANBASEDEFENSEADVANCED
+msgctxt "NAME:JAPANBASEDEFENSEADVANCED"
+msgid "RX轨道炮塔"
+msgstr "Railgun Tower"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANBASEDEFENSEADVANCED
+msgctxt "TYPE:JAPANBASEDEFENSEADVANCED"
+msgid "高级基地防御/探测隐形"
+msgstr "Advanced Base Defense / Detects Stealth"
+
+#. Modified existing RA3 String
+#: DESC:JAPANBASEDEFENSEADVANCED
+msgctxt "DESC:JAPANBASEDEFENSEADVANCED"
+msgid "固定炮台，聚集的能量发射出高速弹丸可以摧毁地面目标。"
+msgstr "Stationary guns whose high-velocity slug salvos can punch effortlessly through terrestrial threats."
+
+#. Modified existing RA3 String
+#: NAME:JAPANBASEDEFENSEADVANCEDEGG
+msgctxt "NAME:JAPANBASEDEFENSEADVANCEDEGG"
+msgid "RX轨道炮塔核心"
+msgstr "Tower Core"
+
+#. Modified existing RA3 String
+#: DESC:JAPANBASEDEFENSEADVANCEDEGG
+msgctxt "DESC:JAPANBASEDEFENSEADVANCEDEGG"
+msgid "展开成RX轨道炮塔的专用机器人，这是一种强大的固定武器。"
+msgstr "Special drones that unfurl into the Railgun Tower, a powerful stationary weapon."
+
+#. New in Armor Rush
+#: NAME:JapanBaseDefenseFleetEgg
+msgctxt "NAME:JapanBaseDefenseFleetEgg"
+msgid "多用途导弹防御塔核心"
+msgstr "R.V.S.T. Core"
+
+#. New in Armor Rush
+#: DESC:JapanBaseDefenseFleetEgg
+msgctxt "DESC:JapanBaseDefenseFleetEgg"
+msgid "能够展开成R.V.S.T的专用机器人，必要时可以通过出售指令将其重新打包为核心状态。"
+msgstr "Special drones that unfurl into the R.V.S.T. Defender, a variable gun emplacement which can pack up via a sell command."
+
+#. New in Armor Rush
+#: NAME:JapanBaseDefenseFleet
+msgctxt "NAME:JapanBaseDefenseFleet"
+msgid "多用途导弹防御塔"
+msgstr "R.V.S.T. Defender"
+
+#. New in Armor Rush
+#: DESC:JapanBaseDefenseFleet
+msgctxt "DESC:JapanBaseDefenseFleet"
+msgid "多用途导弹防御塔(Rocket Versatile Security Tower)是天琼独立后对VX塔进行改装后的产品，其对空状态同时也可以反坦克。"
+msgstr "Rocket Versatile Security Towers are mobile gun emplacements featuring both anti-personnel and anti-armor, anti-air firing configurations."
+
+#. New in Armor Rush
+#: NAME:RVSTTransformSpecialPower
+msgctxt "NAME:RVSTTransformSpecialPower"
+msgid "对空/反装甲模式"
+msgstr "AA/AP Mode"
+
+#. New in Armor Rush
+#: DESC:RVSTTransformSpecialPower
+msgctxt "DESC:RVSTTransformSpecialPower"
+msgid "转换为热能制导飞弹发射器，自动攻击来自陆地与天空的敌军装甲单位。"
+msgstr "Switches to AA/AP configuration, which automatically fires on  enemy armor and aircraft."
+
+#. New in Armor Rush
+#: NAME:RVSTTransformSpecialPowerOff
+msgctxt "NAME:RVSTTransformSpecialPowerOff"
+msgid "反步兵模式"
+msgstr "Defender Mode"
+
+#. New in Armor Rush
+#: DESC:RVSTTransformSpecialPowerOff
+msgctxt "DESC:RVSTTransformSpecialPowerOff"
+msgid "转换为经典的束能机枪来压制敌人的步兵攻势。"
+msgstr "Switches to anti-personnel configuration, which automatically fires on enemy infantry units."
+
+#. Modified existing RA3 String
+#: NAME:JAPANBASEDEFENSEADVANCED_FIREKICANNON
+msgctxt "NAME:JAPANBASEDEFENSEADVANCED_FIREKICANNON"
+msgid "心灵终结仪"
+msgstr "Psychic Dominator"
+
+#. Modified existing RA3 String
+#: DESC:ABILITYUNPACKJAPANSUPERWEAPONADVANCEDEGG
+msgctxt "DESC:ABILITYUNPACKJAPANSUPERWEAPONADVANCEDEGG"
+msgid "开始纳米释放过程，迅速建成心灵终结仪。"
+msgstr "Initiates nano-unfurling sequence, converting to the Pyschic Dominator in seconds."
+
+#. Modified existing RA3 String
+#: DESC:JAPANSUPERWEAPON
+msgctxt "DESC:JAPANSUPERWEAPON"
+msgid "向目标区域放出无数纳米机器人，在创造暂时性屏障的同时为其内友方载具进行快速维修。"
+msgstr "Sends billions of nanomachines envelop an area for a short while, effectively sealing it off and repairing friendly vehicles inside."
+
+#. Modified existing RA3 String
+#: NAME:JAPANSUPERWEAPONADVANCEDEGG
+msgctxt "NAME:JAPANSUPERWEAPONADVANCEDEGG"
+msgid "心灵终结仪核心"
+msgstr "Dominator Core"
+
+#. Modified existing RA3 String
+#: DESC:JAPANSUPERWEAPONADVANCEDEGG
+msgctxt "DESC:JAPANSUPERWEAPONADVANCEDEGG"
+msgid "展开成心灵终结仪的专用机器人，控制一切心智。"
+msgstr "Special drones that unfurl into the Psychic Dominator, which mind-controls everything in its destructive radius."
+
+#. Modified existing RA3 String
+#: NAME:JAPANSUPERWEAPONADVANCED
+msgctxt "NAME:JAPANSUPERWEAPONADVANCED"
+msgid "心灵终结仪"
+msgstr "Psychic Dominator"
+
+#. Modified existing RA3 String
+#: DESC:JAPANSUPERWEAPONADVANCED
+msgctxt "DESC:JAPANSUPERWEAPONADVANCED"
+msgid "由神罗研究中心提供的新式广域心灵能量武器，在指挥系统的配合之下可以使敌方部队的意志力和指挥权在转瞬间归顺于天命的号召。"
+msgstr ""
+"Wide-area psychic energy weapon created by the Shinra Research Center. With the assistance of the command system, it can instantly shatter the "
+"wills of any biological enemy, forcing them to surrender to the call of Japan's Destiny."
+
+#. Modified existing RA3 String
+#: NAME:SUPERWEAPONTIMERTELEKINETIC
+msgctxt "NAME:SUPERWEAPONTIMERTELEKINETIC"
+msgid "心灵终结"
+msgstr "Dominate"
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERTELEKINETICPROJECTORDEVICE
+msgctxt "NAME:PLAYERPOWERTELEKINETICPROJECTORDEVICE"
+msgid "绯红黄昏"
+msgstr "Dominate"
+
+#. Modified existing RA3 String
+#: DESC:PLAYERPOWERTELEKINETICPROJECTORDEVICE
+msgctxt "DESC:PLAYERPOWERTELEKINETICPROJECTORDEVICE"
+msgid ""
+"控制全场所有地面附近的单位并在能量释放地点激发出大规模的破坏性超能波。\r\n"
+"\r\n"
+"“一个好的指挥官不会背叛他的军队，无论代价是什么。\r\n"
+"一个更好的指挥官知道当他想背叛他的军队时，什么时候应该伪装。\r\n"
+"一个最好的指挥官精明地确立自己的绝对领导，并引领着人民走向更好的未来。”"
+msgstr ""
+"Control all enemy ground units in the field while inducing devastating psionic cataclysms at the target location!\r\n"
+"\r\n"
+"'He who controls the past, commands the future. He who commands the future, conquers the past.'\r\n"
+"    ~ George Orwell"

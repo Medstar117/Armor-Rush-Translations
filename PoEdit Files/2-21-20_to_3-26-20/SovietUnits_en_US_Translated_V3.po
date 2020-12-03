@@ -1,0 +1,1297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  ### Soviet Factions Units ###
+#  ## Infantry ##
+#. Modified existing RA3 String
+#: TYPE:SOVIETSCOUTINFANTRY
+msgctxt "TYPE:SOVIETSCOUTINFANTRY"
+msgid "反步兵侦察兵/探测隐形"
+msgstr "Anti-Infantry Scout / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:SovietScoutInfantryArmor
+msgctxt "NAME:SovietScoutInfantryArmor"
+msgid "UAV"
+msgstr "UAV"
+
+#. New in Armor Rush
+#: TYPE:SovietScoutInfantryArmor
+msgctxt "TYPE:SovietScoutInfantryArmor"
+msgid "侦察/维修/探测隐形"
+msgstr "Flying Scout  / Repair / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietScoutInfantryArmor
+msgctxt "DESC:SovietScoutInfantryArmor"
+msgid "由苏联无人维修机改装而成的无人侦察机，搭载有自卫型电子干扰装置。"
+msgstr ""
+"Surveillance drones based on modified Soviet maintenance drones. Equipped with ECM "
+"devices."
+
+#. New in Armor Rush
+#: NAME:PortableECM
+msgctxt "NAME:PortableECM"
+msgid "电子干扰"
+msgstr "ECM Device"
+
+#. New in Armor Rush
+#: DESC:PortableECM
+msgctxt "DESC:PortableECM"
+msgid "调整飞行姿态并开启电子干扰装置，短暂地从敌方的火控系统中消失。"
+msgstr ""
+"Activate the drone's electronic countermeasures, briefly disappearing from enemy fire-"
+"control systems."
+
+#. New in Armor Rush
+#: TYPE:SovietAntiInfantryInfantryArmor
+msgctxt "TYPE:SovietAntiInfantryInfantryArmor"
+msgid "反步兵小队/反驻军"
+msgstr "Anti-Infantry Squad / Anti-Garrison"
+
+#. New in Armor Rush
+#: NAME:SovietArmorStormTrooper
+msgctxt "NAME:SovietArmorStormTrooper"
+msgid "突击兵"
+msgstr "Pioneer"
+
+#. New in Armor Rush
+#: TYPE:SovietArmorStormTrooper
+msgctxt "TYPE:SovietArmorStormTrooper"
+msgid "反步兵"
+msgstr "Anti-Infantry / Anti-Vehicle"
+
+#. New in Armor Rush
+#: DESC:SovietArmorStormTrooper
+msgctxt "DESC:SovietArmorStormTrooper"
+msgid "经过高强度训练的血月战士，其改良后的武装足以抵挡敌方的步坦协同部队。"
+msgstr ""
+"Frontline Scarlet Crescent soldiers armed with rifles and anti-tank grenades, allowing "
+"them to take on all sorts of ground targets."
+
+#. New in Armor Rush
+#: NAME:AbilityToggleAntiTankGrenade
+msgctxt "NAME:AbilityToggleAntiTankGrenade"
+msgid "切换手雷"
+msgstr "Anti-Tank Grenade"
+
+#. New in Armor Rush
+#: DESC:AbilityToggleAntiTankGrenade
+msgctxt "DESC:AbilityToggleAntiTankGrenade"
+msgid "使用随身携带的黑蜘蛛步兵手雷，可以对敌方载具形成有效牵制。"
+msgstr ""
+"Switches to using \"Black Spider\" anti-tank grenades to effectively pin down enemy "
+"vehicles."
+
+#. New in Armor Rush
+#: NAME:AbilityToggleType56
+msgctxt "NAME:AbilityToggleType56"
+msgid "切换Type56"
+msgstr "QBZ-56 Rifle"
+
+#. New in Armor Rush
+#. NOTE: Switch back to the rifle (scarlet crescent)
+#: DESC:AbilityToggleType56
+#, fuzzy
+msgctxt "DESC:AbilityToggleType56"
+msgid "使用主武器56式突击步枪或获得的轻机枪，可以有效压制敌方步兵。"
+msgstr ""
+"Using the main weapon Type 56 assault rifle or obtained light machine gun can effectively "
+"suppress enemy infantry.\n"
+"\n"
+"\n"
+"The use of the main weapon Type 56 assault rifle or the obtained light machine gun can "
+"effectively suppress enemy infantry."
+
+#. New in Armor Rush
+#: NAME:SovietHeavyAntiVehicleInfantryTesla
+msgctxt "NAME:SovietHeavyAntiVehicleInfantryTesla"
+msgid "磁暴突击队"
+msgstr "Tesla Stormtrooper"
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETHEAVYANTIVEHICLEINFANTRY
+msgctxt "TYPE:SOVIETHEAVYANTIVEHICLEINFANTRY"
+msgid "高级对地/探测隐形"
+msgstr "Advanced Anti-Surface / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietHeavyAntiVehicleInfantryTesla
+msgctxt "DESC:SovietHeavyAntiVehicleInfantryTesla"
+msgid "身披重甲的反装甲步兵，可以释放闪电，也可以突入敌人建筑进行破坏。"
+msgstr ""
+"Heavily-armored, lightning-shooting bruisers that can also infiltrate enemy bases for "
+"maximum chaos."
+
+#. New in Armor Rush
+#: TYPE:SovietHeavyAntiVehicleInfantryTesla
+msgctxt "TYPE:SovietHeavyAntiVehicleInfantryTesla"
+msgid "高级对地/劫匪/探测隐形"
+msgstr "Advanced Anti-Surface / Infiltrator / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:ActivateTeslaGrenade
+msgctxt "NAME:ActivateTeslaGrenade"
+msgid "磁能榴弹发射器"
+msgstr "Tesla Grenade Launcher"
+
+#. New in Armor Rush
+#: DESC:ActivateTeslaGrenade
+msgctxt "DESC:ActivateTeslaGrenade"
+msgid "连接磁能榴弹发射器，让闪电飞到更远的距离！"
+msgstr ""
+"Switches to a Tesla grenade launcher, which shoots tesla grenades into the distance."
+
+#. New in Armor Rush
+#: NAME:ActivateTeslaGrenadeOff
+msgctxt "NAME:ActivateTeslaGrenadeOff"
+msgid "磁暴枪"
+msgstr "Tesla Coilguns"
+
+#. New in Armor Rush
+#: DESC:ActivateTeslaGrenadeOff
+msgctxt "DESC:ActivateTeslaGrenadeOff"
+msgid "换回磁暴枪作为武器，用击穿空气的闪电烧毁敌人！"
+msgstr "Did you miss being able to shoot terrible bolts of lightning at your enemies?"
+
+#. New in Armor Rush
+#: NAME:SovietEngineerArmor
+msgctxt "NAME:SovietEngineerArmor"
+msgid "政委"
+msgstr "Commissar"
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETENGINEER
+msgctxt "TYPE:SOVIETENGINEER"
+msgid "战场支援/黑客"
+msgstr "Field Support / Hacker"
+
+#. New in Armor Rush, NOTE: See SovietArmorOutpost description in SovietNonUnits
+#: DESC:SovietEngineerArmor
+msgctxt "DESC:SovietEngineerArmor"
+msgid ""
+"血月军团政委是战场多面手，他们可以占领建筑物，修建宣传基站，还可以使周围部队的士气得到提"
+"升。"
+msgstr ""
+"Scarlet Crescent commissars are quite handy, with their ability to construct propaganda "
+"stations that boost the morale of surrounding troops."
+
+#. New in Armor Rush
+#: NAME:ConstructSovietAASpecialPower
+msgctxt "NAME:ConstructSovietAASpecialPower"
+msgid "建造防空炮"
+msgstr "Construct AA Battery"
+
+#. New in Armor Rush
+#: DESC:ConstructSovietAASpecialPower
+msgctxt "DESC:ConstructSovietAASpecialPower"
+msgid "用一点小费用建造一个防空炮。"
+msgstr "Construct an anti-aircraft gun for a small fee."
+
+#. New in Armor Rush, NOTE: See SovietArmorOutpost description in SovietNonUnits
+#: NAME:ConstructSovietArmorBunkerSpecialPower
+msgctxt "NAME:ConstructSovietArmorBunkerSpecialPower"
+msgid "宣传基站"
+msgstr "Telecom Station"
+
+#. New in Armor Rush
+#: DESC:ConstructSovietArmorBunkerSpecialPower
+msgctxt "DESC:ConstructSovietArmorBunkerSpecialPower"
+msgid "用一点小费用建造一座能够鼓舞周围士兵士气的宣传哨站。"
+msgstr ""
+"Constructs a telecom station for a small fee that boosts the morale of soldiers around it "
+"and provides expansion space for building.."
+
+#. New in Armor Rush
+#: NAME:SovietBunkerArmor
+msgctxt "NAME:SovietBunkerArmor"
+msgid "坦克碉堡"
+msgstr "Tank Bunker"
+
+#. New in Armor Rush
+#: TYPE:SovietBunkerArmor
+msgctxt "TYPE:SovietBunkerArmor"
+msgid "防御建筑"
+msgstr "Defensive Structure"
+
+#. New in Armor Rush
+#: DESC:SovietBunkerArmor
+msgctxt "DESC:SovietBunkerArmor"
+msgid "坦克碉堡能允许坦克进入有妥善防护的区域对敌人进行反击。"
+msgstr ""
+"Counter-attack the enemy by garrisoning your tanks in these well-defended structures."
+
+#. New in Armor Rush
+#: NAME:SovietArmorFlametrooper
+msgctxt "NAME:SovietArmorFlametrooper"
+msgid "喷火兵"
+msgstr "Flametrooper"
+
+#. New in Armor Rush
+#: TYPE:SovietArmorFlametrooper
+msgctxt "TYPE:SovietArmorFlametrooper"
+msgid "先进反步兵"
+msgstr "Advanced Anti-Infantry"
+
+#. New in Armor Rush
+#: DESC:SovietArmorFlametrooper
+msgctxt "DESC:SovietArmorFlametrooper"
+msgid "装备有喷火套装与白磷燃烧弹的轻装甲工兵，能屹立在敌坦克群中快速无死角地清理敌军士兵。"
+msgstr ""
+"Armored troopers that can stand against enemy tank groups while cleansing the battlefield "
+"of enemy infantry with their flamethrowers."
+
+#. New in Armor Rush
+#: NAME:DesolatorWeaponMode
+msgctxt "NAME:DesolatorWeaponMode"
+msgid "白磷燃烧弹"
+msgstr "White Phosphorus Incendiary Bombs"
+
+#. New in Armor Rush
+#: DESC:DesolatorWeaponMode
+msgctxt "DESC:DesolatorWeaponMode"
+msgid "切换到白磷燃烧弹清理驻军。"
+msgstr ""
+"Switches to white phosphorus incendiary bombs to clear out enemy garrisons destroy enemy "
+"structures."
+
+#. New in Armor Rush
+#: NAME:DesolatorWeaponModeOff
+msgctxt "NAME:DesolatorWeaponModeOff"
+msgid "喷火"
+msgstr "Flamethrower"
+
+#. New in Armor Rush
+#: DESC:DesolatorWeaponModeOff
+msgctxt "DESC:DesolatorWeaponModeOff"
+msgid "切换到对步兵极具威胁的火焰喷射器。"
+msgstr "Switches to using a flamethrower, which burns all enemy infantry to ashes."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETCOMMANDOTECH1
+msgctxt "TYPE:SOVIETCOMMANDOTECH1"
+msgid "特种兵/探测隐形"
+msgstr "Commando / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:ActivateBombingRunSpecialPower
+msgctxt "NAME:ActivateBombingRunSpecialPower"
+msgid "导引轰炸"
+msgstr "Guided Airstrike"
+
+#. New in Armor Rush
+#: DESC:ActivateBombingRunSpecialPower
+msgctxt "DESC:ActivateBombingRunSpecialPower"
+msgid "在目标上空召唤一架袋狸轰炸机，对目标所在区域进行轰炸。"
+msgstr "Calls in a Badger bomber to bombard the target area."
+
+#. New in Armor Rush
+#: NAME:SovietCommandoTech1Tesla
+msgctxt "NAME:SovietCommandoTech1Tesla"
+msgid "帕布利琴科"
+msgstr "Pavlichenko"
+
+#. New in Armor Rush
+#: DESC:SovietCommandoTech1Tesla
+msgctxt "DESC:SovietCommandoTech1Tesla"
+msgid "帕布利琴科有时喜欢亲自上阵，用她手中的高爆狙击枪和RPG摧毁敌方重要目标"
+msgstr ""
+"Pavlichenko sometimes joins the battle in person, using her high-power burst sniper rifle "
+"and RPG to destroy enemy targets."
+
+#. New in Armor Rush
+#: NAME:PavlichenkoRPG
+msgctxt "NAME:PavlichenkoRPG"
+msgid "RPG"
+msgstr "RPG Attack"
+
+#. New in Armor Rush
+#: TYPE:PavlichenkoRPG
+msgctxt "TYPE:PavlichenkoRPG"
+msgid "反裝甲/高爆"
+msgstr "Anti-Armor / High Explosive"
+
+#. New in Armor Rush
+#: DESC:PavlichenkoRPG
+msgctxt "DESC:PavlichenkoRPG"
+msgid "掏出一把加强型RPG！如果一发不够，那就来两发。"
+msgstr ""
+"Pulls out a modified RPG to heavily damage her target. If one shot isn't enough, why "
+"leave it at one shot?"
+
+#. New in Armor Rush
+#: NAME:SovietArmorCommandoTech1
+msgctxt "NAME:SovietArmorCommandoTech1"
+msgid "李团长"
+msgstr "Head Li"
+
+#. New in Armor Rush
+#: DESC:SovietArmorCommandoTech1
+msgctxt "DESC:SovietArmorCommandoTech1"
+msgid ""
+"血月特战旅中绰号为“团长”的精锐战士，军事技能过硬，随身携带的测距定位装置可为远程炮兵提供打"
+"击坐标。"
+msgstr ""
+"The elite \"Head Li\" Scarlet Crescent soldiers possess outstanding military skills and "
+"portable rangefinders which they use to call in destructive artillery strikes."
+
+#. New in Armor Rush
+#: NAME:CallArtilleryFireSpecialPower
+msgctxt "NAME:CallArtilleryFireSpecialPower"
+msgid "标定打击坐标"
+msgstr "Calibrate Strike Coordinates"
+
+#. New in Armor Rush
+#: DESC:CallArtilleryFireSpecialPower
+msgctxt "DESC:CallArtilleryFireSpecialPower"
+msgid "标定目标位置，呼叫一轮远程火炮打击。"
+msgstr ""
+"Calibrates the rangefinder on the target position and calls in a round of long-range "
+"artillery strikes."
+
+#. New in Armor Rush
+#: NAME:SovietAntiInfantryInfantryArmor
+msgctxt "NAME:SovietAntiInfantryInfantryArmor"
+msgid "步枪兵小队"
+msgstr "Rifleman Squad"
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTIINFANTRYINFANTRY
+msgctxt "TYPE:SOVIETANTIINFANTRYINFANTRY"
+msgid "反步兵/反驻军"
+msgstr "Anti-Infantry / Anti-Garrison"
+
+#. New in Armor Rush
+#: DESC:SovietAntiInfantryInfantryArmor
+msgctxt "DESC:SovietAntiInfantryInfantryArmor"
+msgid ""
+"血月军团根据人员特长编制的小队，战斗力强，但使用廉价的武器。可以使用白磷燃烧弹清空建筑里的"
+"敌军"
+msgstr ""
+"Scarlet Crescent Legions are based on squads of veteran soldiers whose prowess are barely "
+"weighed down by cheap weaponry."
+
+#. New in Armor Rush
+#: NAME:P4
+msgctxt "NAME:P4"
+msgid "白磷燃烧弹"
+msgstr "White Phosphorus Incendiary Bomb"
+
+#. New in Armor Rush
+#: DESC:P4
+msgctxt "DESC:P4"
+msgid "由小队队长发射一枚白磷燃烧弹，能清空一栋建筑里所有的敌人步兵。"
+msgstr ""
+"Commands the squad leader to fire a white phosphorus incendiary bomb which flushes out "
+"all enemy infantry garrisoned in a building."
+
+#. New in Armor Rush
+#: NAME:SovietAntiVehicleInfantryArmor
+msgctxt "NAME:SovietAntiVehicleInfantryArmor"
+msgid "反坦克小队"
+msgstr "Anti-Tank Squad"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiVehicleInfantryArmor
+msgctxt "TYPE:SovietAntiVehicleInfantryArmor"
+msgid "反装甲小队"
+msgstr "Anti-Armor"
+
+#. New in Armor Rush
+#: DESC:SovietAntiVehicleInfantryArmor
+msgctxt "DESC:SovietAntiVehicleInfantryArmor"
+msgid ""
+"血月军团根据人员特长编制的反坦克小队，擅长摧毁坦克及空军。队长可埋设隐形地雷，对附近的敌人"
+"造成大量损伤。"
+msgstr ""
+"The Scarlet Crescent's anti-armor squads specialize in destroying enemy tanks and air "
+"units. Their captains can plant mines that cause considerable damage to anything in their "
+"proximity."
+
+#. New in Armor Rush
+#: NAME:InvisibleMine
+msgctxt "NAME:InvisibleMine"
+msgid "隐形地雷"
+msgstr "Stealth Mines"
+
+#. New in Armor Rush
+#: DESC:InvisibleMine
+msgctxt "DESC:InvisibleMine"
+msgid "铺设隐形地雷，对地雷附近任何敌军造成大量的伤害！"
+msgstr "Plant a field of hidden mines that cause massive damage to any enemies around them!"
+
+#  ## Non Infantry ##
+#. New in Armor Rush
+#: NAME:SovietAntiNavyShipTech1Armor
+msgctxt "NAME:SovietAntiNavyShipTech1Armor"
+msgid "洛斧护卫艇"
+msgstr "Luofu Corvette"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiNavyShipTech1Armor
+msgctxt "TYPE:SovietAntiNavyShipTech1Armor"
+msgid "反潜巡逻艇"
+msgstr "Anti-Surface Patrol Boat"
+
+#. New in Armor Rush
+#: DESC:SovietAntiNavyShipTech1Armor
+msgctxt "DESC:SovietAntiNavyShipTech1Armor"
+msgid ""
+"负责渔政巡逻的小型护卫艇，装备着渔用榴弹炮和窜天猴反甲导弹，必要时也可用榴弹炮痛打入侵者。"
+msgstr ""
+"Small corvettes that can effectively fend off invaders using its howitzers and Rhesus "
+"anti-armor missiles."
+
+#. New in Armor Rush
+#: NAME:AbilitySetNavalMine
+msgctxt "NAME:AbilitySetNavalMine"
+msgid "布置磁性水雷"
+msgstr "Depth Charges"
+
+#. New in Armor Rush
+#: DESC:AbilitySetNavalMine
+msgctxt "DESC:AbilitySetNavalMine"
+msgid "布置一颗鸵鸟蛋磁性水雷，可以潜伏在水中悄悄接近靠近的敌方船只。"
+msgstr ""
+"Deploys an \"Ostrich Egg\" - a magnetic mine that lurks in the water and quietly "
+"approaches nearby enemy ships."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTINAVYSHIPTECH2
+msgctxt "TYPE:SOVIETANTINAVYSHIPTECH2"
+msgid "高级攻击潜艇/探测隐形"
+msgstr "Advanced Anti-Armor / Detects Stealth"
+
+#. Modified existing RA3 String
+#: DESC:SOVIETANTINAVYSHIPTECH2
+msgctxt "DESC:SOVIETANTINAVYSHIPTECH2"
+msgid "隐藏的杀手，在水下展开攻击。在它们的鱼雷面前任何东西都挺不了多久。"
+msgstr ""
+"Hidden killers that attack while submerged. Nothing can withstand their torpedoes for "
+"long."
+
+#. New in Armor Rush
+#: NAME:SovietTeslaAntiNavyShipTech2
+msgctxt "NAME:SovietTeslaAntiNavyShipTech2"
+msgid "梭鱼级潜艇"
+msgstr "Barracuda"
+
+#. New in Armor Rush
+#: DESC:SovietTeslaAntiNavyShipTech2
+msgctxt "DESC:SovietTeslaAntiNavyShipTech2"
+msgid ""
+"与阿库拉型潜艇外形相似而被盟军情报部门错误标记的改型攻击潜艇，为控制成本和降低噪音而去除了"
+"部分武器系统。"
+msgstr ""
+"Attack submarines modeled after the Soviet Akula, which trade several weapons systems for "
+"reduced cost and noise."
+
+#. New in Armor Rush
+#: NAME:SovietAntiNavyShipTech2Armor
+msgctxt "NAME:SovietAntiNavyShipTech2Armor"
+msgid "山海级潜艇"
+msgstr "Shan Hai"
+
+#. New in Armor Rush
+#: DESC:SovietAntiNavyShipTech2Armor
+msgctxt "DESC:SovietAntiNavyShipTech2Armor"
+msgid ""
+"以来自苏联的援助图纸为基础改进制造的深蓝卫士，必要时可以加装导弹发射管以上浮使用导弹。"
+msgstr ""
+"The Shan Hai submarine, whose design is based off other Soviet blueprints, can be "
+"equipped with cruise missile launchers for offshore support."
+
+#. New in Armor Rush
+#: NAME:ToggleSubRocket
+msgctxt "NAME:ToggleSubRocket"
+msgid "导弹模式"
+msgstr "Cruise Missile Mode"
+
+#. New in Armor Rush
+#: DESC:ToggleSubRocket
+msgctxt "DESC:ToggleSubRocket"
+msgid "切换武器至导弹，上浮并对陆地上的敌人展开攻击。"
+msgstr "Switches to cruise missiles and emerge from the water to attack land enemies."
+
+#. New in Armor Rush
+#: NAME:ToggleSubTorp
+msgctxt "NAME:ToggleSubTorp"
+msgid "鱼雷模式"
+msgstr "Torpedo Mode"
+
+#. New in Armor Rush
+#: DESC:ToggleSubTorp
+msgctxt "DESC:ToggleSubTorp"
+msgid "切换回鱼雷武器，继续对海作战。"
+msgstr "Switches back to using torpedo launchers and submerge to continue the fight at sea."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTISTRUCTURESHIP
+msgctxt "TYPE:SOVIETANTISTRUCTURESHIP"
+msgid "重型导弹平台"
+msgstr "Heavy Bombardment Ship"
+
+#. Modified existing RA3 String
+#: NAME:RAPIDLAUNCHSPECIALPOWER
+msgctxt "NAME:RAPIDLAUNCHSPECIALPOWER"
+msgid "过载模式"
+msgstr "Sacrifice Launchers"
+
+#. New in Armor Rush
+#: NAME:SovietArmorWinterWind
+msgctxt "NAME:SovietArmorWinterWind"
+msgid "冬风战舰"
+msgstr "Winter Wind"
+
+#. New in Armor Rush
+#: TYPE:SovietArmorWinterWind
+msgctxt "TYPE:SovietArmorWinterWind"
+msgid "重型导弹平台"
+msgstr "Heavy Bombardment Ship"
+
+#. New in Armor Rush
+#: DESC:SovietArmorWinterWind
+msgctxt "DESC:SovietArmorWinterWind"
+msgid "血月海军竞标的赢家，这种巨型战舰装载了两套骇人的季风火箭发射器。"
+msgstr ""
+"The winning design of the Scarlet Crescent Navy competitive tender, these massive siege "
+"ships host two fearsome Monsoon rocket launchers."
+
+#. New in Armor Rush
+#: NAME:WinterWindJammingMissile
+msgctxt "NAME:WinterWindJammingMissile"
+msgid "信号遮蔽"
+msgstr "Signal Masking"
+
+#. New in Armor Rush
+#: DESC:WinterWindJammingMissile
+msgctxt "DESC:WinterWindJammingMissile"
+msgid "发射一枚携带有电子战装置的远程导弹，制作出一片作战指挥系统链接盲区。"
+msgstr ""
+"Launches a long-range missile carrying electronic countermeasures, which creates a blind "
+"spot for linking the combat command system."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETSCOUTVEHICLE
+msgctxt "TYPE:SOVIETSCOUTVEHICLE"
+msgid "对地侦察/探测隐形"
+msgstr "Anti-Surface Scout / Detects Stealth"
+
+#. Modified existing RA3 String
+#: NAME:SOVIETANTIAIRSHIP
+msgctxt "NAME:SOVIETANTIAIRSHIP"
+msgid "牛蛙防空车"
+msgstr "Bullfrog"
+
+#. New in Armor Rush
+#: NAME:SovietAntiAirShipArmor
+msgctxt "NAME:SovietAntiAirShipArmor"
+msgid "彤弓防空车"
+msgstr "Tong Gong"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiAirShipArmor
+msgctxt "TYPE:SovietAntiAirShipArmor"
+msgid "防空支援车"
+msgstr "Anti-Air / AA Support"
+
+#. New in Armor Rush
+#: DESC:SovietAntiAirShipArmor
+msgctxt "DESC:SovietAntiAirShipArmor"
+msgid "搭载血月自主研发63式高炮的全地形防空车辆，能使用干扰仪进行防空电子战。"
+msgstr ""
+"All-terrain anti-air vehicles equipped with Type-63 AA batteries, which effortlessly tear "
+"through enemy aircraft. Can use jammers as an aerial defense measure."
+
+#. New in Armor Rush
+#: NAME:ToggleAirJammer
+msgctxt "NAME:ToggleAirJammer"
+msgid "\"干扰者\"对空干扰仪"
+msgstr "\"Distractor\" Anti-Air Jammer"
+
+#. New in Armor Rush
+#: DESC:ToggleAirJammer
+msgctxt "DESC:ToggleAirJammer"
+msgid "关闭武器系统，使用车载电子干扰仪对敌机进行数据反制以降低其各项性能。"
+msgstr ""
+"Shuts down weapon systems and activates the \"Distractor\"­, an electronic countermeasure "
+"that lowers the combat effectiveness of enemy aircraft within a large radius."
+
+#. New in Armor Rush
+#: NAME:ToggleFlakCannon
+msgctxt "NAME:ToggleFlakCannon"
+msgid "63式高射炮"
+msgstr "Flak Cannons"
+
+#. New in Armor Rush
+#: DESC:ToggleFlakCannon
+msgctxt "DESC:ToggleFlakCannon"
+msgid "关闭干扰系统，使用高射炮制造出暴雨般的弹幕。"
+msgstr ""
+"Deactivates electronic countermeasures and switches back to flak cannons to shoot down "
+"enemy aircraft."
+
+#. New in Armor Rush
+#: NAME:SovietSurveyorArmor
+msgctxt "NAME:SovietSurveyorArmor"
+msgid "布雷车"
+msgstr "Minelayer"
+
+#. New in Armor Rush
+#: TYPE:SovietSurveyorArmor
+msgctxt "TYPE:SovietSurveyorArmor"
+msgid "布雷"
+msgstr "Support Vehicle / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietSurveyorArmor
+msgctxt "DESC:SovietSurveyorArmor"
+msgid "载有一车地雷的布雷车，虽然没有武装，但是能布下密集的地雷。"
+msgstr "Unarmed vehicles capable of deploying extensive minefields."
+
+#. New in Armor Rush
+#: NAME:SovietMortarCycle
+msgctxt "NAME:SovietMortarCycle"
+msgid "火炮机车"
+msgstr "Mortar Cycle"
+
+#. New in Armor Rush
+#: TYPE:SovietMortarCycle
+msgctxt "TYPE:SovietMortarCycle"
+msgid "轻型反载具游击队"
+msgstr "Anti-Infantry / Light Bombardment"
+
+#. New in Armor Rush
+#: DESC:SovietMortarCycle
+msgctxt "DESC:SovietMortarCycle"
+msgid "具有血月军团特色的高速游击单位，火炮机车能够以其高速不断骚扰敌军。"
+msgstr ""
+"These souped-up bikes would be even faster if not for all the explosives they carry."
+
+#. New in Armor Rush
+#: NAME:ToggleSovietMortarCycleMolotov
+msgctxt "NAME:ToggleSovietMortarCycleMolotov"
+msgid "火焰喷射器"
+msgstr "Flamethrower"
+
+#. New in Armor Rush
+#: DESC:ToggleSovietMortarCycleMolotov
+msgctxt "DESC:ToggleSovietMortarCycleMolotov"
+msgid "切换到火焰喷射器，开始审判敌军步兵。"
+msgstr "Switches to using a flamethrower to burn down enemy infantry."
+
+#. New in Armor Rush
+#: NAME:ToggleSovietMortarCycleMortar
+msgctxt "NAME:ToggleSovietMortarCycleMortar"
+msgid "\"雷鸣者\"迫击炮"
+msgstr "\"Rumbler\" Mortar"
+
+#. New in Armor Rush
+#: DESC:ToggleSovietMortarCycleMortar
+msgctxt "DESC:ToggleSovietMortarCycleMortar"
+msgid "切换到\"雷鸣者\"迫击炮，这种武器特色在于3连发，但装弹时间很久，且精确度较低。"
+msgstr "Unpacks a light \"Rumbler\" mortar for use against medium-range targets."
+
+#. New in Armor Rush
+#: NAME:TriggerSovietMortarcycleMineMortar
+msgctxt "NAME:TriggerSovietMortarcycleMineMortar"
+msgid "发射迫击炮"
+msgstr "Fire \"Rumbler\" Mortar"
+
+#. New in Armor Rush
+#. New in Armor Rush
+#: DESC:TriggerSovietMortarcycleMineMortar
+msgctxt "DESC:TriggerSovietMortarcycleMineMortar"
+msgid "发射三连发\"雷鸣者\"迫击炮，向目标区域部署雷区。"
+msgstr ""
+"Fires three consecutive \"Rumbler\" shells which deploy minefields at the targeted area."
+
+#: NAME:SovietArmorAntiInfantryVehicle
+msgctxt "NAME:SovietArmorAntiInfantryVehicle"
+msgid "铁人四驱车"
+msgstr "Ironman Drone"
+
+#. New in Armor Rush
+#: TYPE:SovietArmorAntiInfantryVehicle
+msgctxt "TYPE:SovietArmorAntiInfantryVehicle"
+msgid "反步兵无人机/探测隐形"
+msgstr "Anti-Infantry Drone / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietArmorAntiInfantryVehicle
+msgctxt "DESC:SovietArmorAntiInfantryVehicle"
+msgid "摇摇晃晃的无人载具，能用车顶的喷火器清扫敌人步兵。"
+msgstr ""
+"Rickety drones that can decimate enemy infantry with their roof-mounted flamethrowers."
+
+#. Modified existing RA3 String
+#. NOTE: Should be Hammer tank
+#: DESC:SOVIETANTIVEHICLEVEHICLETECH1
+#, fuzzy
+msgctxt "DESC:SOVIETANTIVEHICLEVEHICLETECH1"
+msgid ""
+"稳健的主战坦克，红军的象征。可以吸收敌人的装甲和武器。\n"
+"\n"
+"——英雄级特效：可生成磁能风暴的主炮弹头"
+msgstr ""
+"A stable main battle tank, a symbol of the Red Army. Can absorb enemy armor and weapons.\n"
+"\n"
+"——Hero-level special effects: the main artillery warhead that can generate a magnetic "
+"storm\n"
+"\n"
+"\n"
+"Steady main battle tank, symbol of the Red Army. Can absorb enemy armor and weapons.\n"
+"\n"
+"- Heroic effects: The main warhead that generates a magnetic storm."
+
+#. New in Armor Rush
+#: NAME:SovietAntiVehicleVehicleTech1Armor
+msgctxt "NAME:SovietAntiVehicleVehicleTech1Armor"
+msgid "五九式坦克"
+msgstr "Type-59 Tank"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiVehicleVehicleTech1Armor
+msgctxt "TYPE:SovietAntiVehicleVehicleTech1Armor"
+msgid "多用途反装甲"
+msgstr "Multirole Tank"
+
+#. New in Armor Rush, NOTE: See descriptions in SovietsNonUnits
+#. NOTE: Should be Type-59 Tank
+#: DESC:SovietAntiVehicleVehicleTech1Armor
+#, fuzzy
+msgctxt "DESC:SovietAntiVehicleVehicleTech1Armor"
+msgid ""
+"血月军团在苏联原型坦克基础上改造而成的多用途坦克，可以根据需要改装成各种功能的战车。\n"
+"\n"
+"——英雄级特效：可点燃目标区域的主炮弹头"
+msgstr ""
+"The Blood Moon Corps is a multi-purpose tank transformed on the basis of the Soviet "
+"prototype tank, which can be converted into a variety of functional tanks as needed.\n"
+"\n"
+"——Heroic special effects: can ignite the main artillery warhead in the target area\n"
+"\n"
+"\n"
+"The Blood Moon Regiment's multi-purpose tanks, based on prototype Soviet tanks, can be "
+"converted into combat vehicles for a variety of functions as needed.\n"
+"\n"
+"Hero effects: The main warhead that ignites the target area."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTIVEHICLEVEHICLETECH2
+msgctxt "TYPE:SOVIETANTIVEHICLEVEHICLETECH2"
+msgid "高级反装甲坦克/反步兵"
+msgstr "Advanced Anti-Armor / Anti-Infantry Tank"
+
+#. Modified existing RA3 String
+#. NOTE: Should be Tesla Tank
+#: DESC:SOVIETANTIVEHICLEVEHICLETECH2
+#, fuzzy
+msgctxt "DESC:SOVIETANTIVEHICLEVEHICLETECH2"
+msgid ""
+"安装了一对特斯拉线圈的铁甲怪物，可以在电光火石间把车辆粉碎成渣。\n"
+"\n"
+"——英雄级特效：造成群体磁暴伤害与减速的磁能场"
+msgstr ""
+"The armored monster with a pair of Tesla coils can smash the vehicle into slag between "
+"the electric light and flint.\n"
+"\n"
+"——Hero-level special effects: the magnetic field that causes mass magnetic storm damage "
+"and deceleration\n"
+"\n"
+"\n"
+"An armored monster with a pair of Tesla coils can crush a vehicle into slag between "
+"electro-light firestones.\n"
+"\n"
+"- Heroic effects: magnetic field that causes mass magnetic storm damage and deceleration."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTIVEHICLEVEHICLETECH3
+msgctxt "TYPE:SOVIETANTIVEHICLEVEHICLETECH3"
+msgid "超重型坦克"
+msgstr "Advanced Anti-Armor Tank"
+
+#. New in Armor Rush
+#: NAME:SovietAntiVehicleVehicleTech3Armor
+msgctxt "NAME:SovietAntiVehicleVehicleTech3Armor"
+msgid "炎黄坦克"
+msgstr "Overlord Tank"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiVehicleVehicleTech3Armor
+msgctxt "TYPE:SovietAntiVehicleVehicleTech3Armor"
+msgid "超重型坦克"
+msgstr "Advanced Anti-Armor Tank"
+
+#. New in Armor Rush
+#: DESC:SovietAntiVehicleVehicleTech3Armor
+msgctxt "DESC:SovietAntiVehicleVehicleTech3Armor"
+msgid ""
+"留洋归来的天才科学家们一心报效祖国，把这台有着恐怖火力和笨重装甲的钢铁巨兽从蓝图中搬到了战"
+"场上。"
+msgstr ""
+"Hellbent on serving their country, a cadre of talented scientists designed these steel "
+"behemoths to serve the glory of the motherland."
+
+#. New in Armor Rush
+#: NAME:SpecialPowerMissileSalvo
+msgctxt "NAME:SpecialPowerMissileSalvo"
+msgid "导弹齐射"
+msgstr "Missile Salvo"
+
+#. New in Armor Rush
+#: DESC:SpecialPowerMissileSalvo
+msgctxt "DESC:SpecialPowerMissileSalvo"
+msgid "对目标区域进行饱和打击，发射大量高爆火箭弹，也可锁定单个目标发射以进行精准打击。"
+msgstr ""
+"Saturate the target area with a volley of high-explosive rockets, while locking onto a "
+"single target for a precision strike."
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTISTRUCTUREVEHICLE
+msgctxt "TYPE:SOVIETANTISTRUCTUREVEHICLE"
+msgid "重型导弹炮兵"
+msgstr "Heavy Bombardment Ship"
+
+#. New in Armor Rush
+#: NAME:QubaAntiStructureVehicle
+msgctxt "NAME:QubaAntiStructureVehicle"
+msgid "季风火箭炮"
+msgstr "Monsoon Rocket Launcher"
+
+#. New in Armor Rush
+#: TYPE:QubaAntiStructureVehicle
+msgctxt "TYPE:QubaAntiStructureVehicle"
+msgid "重型多管火箭"
+msgstr "Heavy Bombardment"
+
+#. New in Armor Rush
+#: DESC:QubaAntiStructureVehicle
+msgctxt "DESC:QubaAntiStructureVehicle"
+msgid "拥有最远射程的可怕的季风火箭炮，出现在战场上时常常令各位盟军指挥官毛骨悚然。"
+msgstr ""
+"These fearsome rocket artillery platforms rain calamitous air mail over enemy bases from "
+"extreme ranges. Nothing outranges the Monsoon."
+
+#. New in Armor Rush
+#: DESC:QubaToggleRangeA
+msgctxt "DESC:QubaToggleRangeA"
+msgid ""
+"目前射程：500-2500\n"
+"散布极大，伤害减少70%\n"
+"\n"
+"切换射程：500-1250\n"
+"散布较小，伤害正常"
+msgstr ""
+"Current range: 500-2500\n"
+"Large spread, 30% damage\n"
+"\n"
+"Toggle range: 500-1250\n"
+"Small spread, normal damage"
+
+#. NOTE: Obsolete
+#. New in Armor Rush
+#: DESC:QubaToggleRangeB
+msgctxt "DESC:QubaToggleRangeB"
+msgid ""
+"(已废用)\n"
+"\n"
+"目前射程：500-1000\n"
+"散布极小，伤害正常\n"
+"\n"
+"切换射程：500-1500\n"
+"散布较小，伤害正常"
+msgstr ""
+"(Deprecated)\n"
+"\n"
+"Current range: 500-1000\n"
+"Minimal spread, normal damage\n"
+"\n"
+"Toggle range: 500-1500\n"
+"Small spread, normal damage"
+
+#. New in Armor Rush
+#: DESC:QubaToggleRangec
+msgctxt "DESC:QubaToggleRangec"
+msgid ""
+"目前射程：500-1250\n"
+"散布较小，伤害正常\n"
+"\n"
+"切换射程：500-2000\n"
+"散布中等，伤害正常"
+msgstr ""
+"Current range: 500-1250\n"
+"Small spread, normal damage\n"
+"\n"
+"Toggle range: 500-2000\n"
+"Medium spread, normal damage"
+
+#. New in Armor Rush
+#: DESC:QubaToggleRangeD
+msgctxt "DESC:QubaToggleRangeD"
+msgid ""
+"目前射程：500-2000\n"
+"散布中等，伤害正常\n"
+"\n"
+"切换射程：500-2500\n"
+"散布极大，伤害减少70%"
+msgstr ""
+"Current range: 500-2000\n"
+"Medium spread, normal damage\n"
+"\n"
+"Toggle range: 500-2500\n"
+"Large spread, 30% damage"
+
+#. New in Armor Rush
+#: DESC:V4ToggleRangeA
+msgctxt "DESC:V4ToggleRangeA"
+msgid ""
+"目前射程：200-2500\n"
+"散布极大，伤害减少70%\n"
+"\n"
+"切换射程：200-1000\n"
+"散布极小，伤害正常"
+msgstr ""
+"Current range: 200-2500\n"
+"Large spread, 30% damage\n"
+"\n"
+"Toggle range: 200-1000\n"
+"Minimal spread, normal damage"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: DESC:V4ToggleRangeB
+msgctxt "DESC:V4ToggleRangeB"
+msgid ""
+"(已废用)\n"
+"\n"
+"目前射程：200-700\n"
+"无散布，伤害正常\n"
+"\n"
+"切换射程：200-1100\n"
+"散布极小，伤害正常"
+msgstr ""
+"(Deprecated)\n"
+"\n"
+"Current range: 200-700\n"
+"No spread, normal damage\n"
+"\n"
+"Toggle range: 200-1100\n"
+"Minimal spread, normal damage"
+
+#. New in Armor Rush
+#: DESC:V4ToggleRangeC
+msgctxt "DESC:V4ToggleRangeC"
+msgid ""
+"目前射程：200-1000\n"
+"散布极小，伤害正常\n"
+"\n"
+"切换射程：200-1500\n"
+"散布中等，伤害正常"
+msgstr ""
+"Current range: 200-1000\n"
+"Minimal spread, normal damage.\n"
+"\n"
+"Toggle range: 200-1500\n"
+"Medium spread, normal damage."
+
+#. New in Armor Rush
+#: DESC:V4ToggleRangeD
+msgctxt "DESC:V4ToggleRangeD"
+msgid ""
+"目前射程：200-1500\n"
+"散布中等，伤害正常\n"
+"\n"
+"切换射程：200-2500\n"
+"散布极大，伤害减少70%"
+msgstr ""
+"Current range: 200-1500\n"
+"Medium spread, normal damage.\n"
+"\n"
+"Toggle range: 200-2500\n"
+"Large spread, 30% damage"
+
+#. New in Armor Rush
+#: NAME:SovietSupportBomber
+msgctxt "NAME:SovietSupportBomber"
+msgid "袋狸轰炸机"
+msgstr "Badger Bomber"
+
+#. New in Armor Rush
+#: DESC:SovietSupportBomber
+msgctxt "DESC:SovietSupportBomber"
+msgid "袋狸轰炸机携带有苏联科学家最非人道的发明之一，毒素炸弹能让土地寸草不生。"
+msgstr ""
+"Badger Bombers carry one of the Soviet's most inhumane inventions, toxin bombs that can "
+"devastate any and all life on the surface."
+
+#. New in Armor Rush
+#: TYPE:SovietSupportBomberTesla
+msgctxt "TYPE:SovietSupportBomberTesla"
+msgid "支援轰炸机"
+msgstr "Advanced Bomber"
+
+#. New in Armor Rush
+#. NOTE: KGB's Tesla Badger Bomber
+#: DESC:SovietSupportBomberTesla
+#, fuzzy
+msgctxt "DESC:SovietSupportBomberTesla"
+msgid ""
+"袋狸轰炸机携带有克格勃科学家最机密的发明之一，磁能炸弹能生成一片电磁奇点，毁灭周围的一切敌"
+"军。\n"
+"\n"
+"——英雄级特效：可长时间瘫痪载具"
+msgstr ""
+"Bandicoot bombers carry one of the most secret inventions of KGB scientists. Magnetic "
+"energy bombs can generate an electromagnetic singularity and destroy all surrounding "
+"enemy forces.\n"
+"\n"
+"——Heroic special effects: can paralyze vehicles for a long time\n"
+"\n"
+"\n"
+"The Beaver bomber carries one of the most secret inventions of KGB scientists, a magnetic "
+"bomb that generates an electromagnetic sing an oddity that destroys all the enemy forces "
+"around it.\n"
+"\n"
+"- Heroic effects: can paralyze the carrier for a long time."
+
+#. New in Armor Rush
+#: NAME:TeslaShot
+msgctxt "NAME:TeslaShot"
+msgid "磁暴轰炸"
+msgstr "Tesla Bombardment"
+
+#. New in Armor Rush
+#: DESC:TeslaShot
+msgctxt "DESC:TeslaShot"
+msgid "蓄能后对目标地点进行磁能榴弹轰炸，使一定范围内敌人的载具短路。"
+msgstr ""
+"Bombards the targeted area with Tesla grenades that short-circuit enemy vehicles, leaving "
+"them temporarily disabled."
+
+#. Modified existing RA3 String
+#: NAME:SOVIETANTIGROUNDAIRCRAFT
+msgctxt "NAME:SOVIETANTIGROUNDAIRCRAFT"
+msgid "双刃直升机"
+msgstr "Twinblade"
+
+#. Modified existing RA3 String
+#: TYPE:SOVIETANTIGROUNDAIRCRAFT
+msgctxt "TYPE:SOVIETANTIGROUNDAIRCRAFT"
+msgid "对地运输机/探测隐形"
+msgstr "Anti-Surface Air Transport / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:SovietAntiGroundAircraftArmor
+msgctxt "NAME:SovietAntiGroundAircraftArmor"
+msgid "没羽直升机"
+msgstr "Headhunter"
+
+#. New in Armor Rush
+#: TYPE:SovietAntiGroundAircraftArmor
+msgctxt "TYPE:SovietAntiGroundAircraftArmor"
+msgid "对地直升机/探测隐形"
+msgstr "Anti-Surface / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:SovietAntiGroundAircraftArmor
+msgctxt "DESC:SovietAntiGroundAircraftArmor"
+msgid "挂载四门机炮的对地攻击直升机，可以靠精湛的低空机动技术躲过防空火力。"
+msgstr ""
+"Equipped with four autocannons, 'Featherless Arrow' attack helicopters can evade anti-air "
+"fire by flying at incredibly low altitudes. Most Allied forces refer to it by its "
+"reporting name."
+
+#. New in Armor Rush
+#: NAME:ToggleHeightHigh
+msgctxt "NAME:ToggleHeightHigh"
+msgid "升空警戒"
+msgstr "Lift-Off"
+
+#. New in Armor Rush
+#: DESC:ToggleHeightHigh
+msgctxt "DESC:ToggleHeightHigh"
+msgid "提升飞行高度，恢复机动能力并启用机炮进行对地压制。"
+msgstr ""
+"Activates anti-surface autocannons and restores flight altitude and maneuverability."
+
+#. New in Armor Rush
+#: NAME:ToggleHeightLow
+msgctxt "NAME:ToggleHeightLow"
+msgid "近地飞行"
+msgstr "Low Altitude Flight"
+
+#. New in Armor Rush
+#: DESC:ToggleHeightLow
+msgctxt "DESC:ToggleHeightLow"
+msgid "关闭机炮，以最低高度谨慎飞行，避开防空火力。"
+msgstr ""
+"Switches off auto-cannons and flies at the lowest possible altitude to avoid anti-air "
+"firepower."
+
+#. Modified existing RA3 String
+#: DESC:SOVIETFIGHTERAIRCRAFTRETURNTOAIRFIELD
+msgctxt "DESC:SOVIETFIGHTERAIRCRAFTRETURNTOAIRFIELD"
+msgid "立刻掉头，加速返回机场重新装弹。"
+msgstr ""
+"Causes the MiG Fighter to immediately turn tail and double back to an Airfield to rearm."
+
+#. New in Armor Rush
+#: NAME:SovietEngineerZombie
+#, fuzzy
+msgctxt "NAME:SovietEngineerZombie"
+msgid "受感染的战斗工程师"
+msgstr "Infected Combat Engineer"
+
+#. New in Armor Rush
+#: NAME:SovietAntiInfantryZombie
+#, fuzzy
+msgctxt "NAME:SovietAntiInfantryZombie"
+msgid "受感染的征召兵"
+msgstr "Infected Conscript"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer abour her. Link Nov is one of main Artist of Armor Rush.
+#: NAME:SovietLoli
+msgctxt "NAME:SovietLoli"
+msgid "尼科诺瓦"
+msgstr "Link Nov (Ask plot writer abour her. Link Nov is one of main Artist of Armor Rush.)"
+
+#. New in Armor Rush
+#. NOTE: Ask plot writer for her name
+#: TYPE:SovietLoli
+#, fuzzy
+msgctxt "TYPE:SovietLoli"
+msgid "萝莉"
+msgstr "Loli"
+
+#. New in Armor Rush
+#: DESC:SovietLoli
+#, fuzzy
+msgctxt "DESC:SovietLoli"
+msgid "总之是萝莉。"
+msgstr "In short, it's a loli."
+
+#. New in Armor Rush
+#: NAME:SovietTeslaCommandoTech2
+msgctxt "NAME:SovietTeslaCommandoTech2"
+msgid "恰巴耶夫"
+msgstr "(KGB Computer Commander. If you're unsure, ask plot writer for his name)"
+
+#: NAME:SovietTransportShip
+#, fuzzy
+msgctxt "NAME:SovietTransportShip"
+msgid "装甲运输船"
+msgstr ""
+"Armored transport ship\n"
+"\n"
+"\n"
+"Armored transport vessel"
+
+#: TYPE:SovietTransportShip
+#, fuzzy
+msgctxt "TYPE:SovietTransportShip"
+msgid "单位运输/登陆支援"
+msgstr "Unit transport/landing support"
+
+#: DESC:SovietTransportShip
+#, fuzzy
+msgctxt "DESC:SovietTransportShip"
+msgid "比天启坦克还夸张的庞然大物，能使用多用途火箭弹和机炮压制岸防阵地。"
+msgstr ""
+"A behemoth that is more exaggerated than the Apocalypse tank, it can use multi-purpose "
+"rockets and machine guns to suppress coastal defense positions.\n"
+"\n"
+"\n"
+"A behemoth that exaggerates than apocalypt tanks and can use multi-purpose rockets and "
+"machine guns to suppress shore defence positions."
+
+#. New in Armor Rush
+#: NAME:SovietOldAntiVehicleVehicleTech3
+#, fuzzy
+msgctxt "NAME:SovietOldAntiVehicleVehicleTech3"
+msgid "天啓坦克"
+msgstr "Apocalypse Tank"
+
+#. New in Armor Rush
+#: DESC:SovietOldAntiVehicleVehicleTech3
+#, fuzzy
+msgctxt "DESC:SovietOldAntiVehicleVehicleTech3"
+msgid "可以自我维修的怪兽坦克，就连盟军最结实的坦克也难以在它的双联152mm主炮之下幸存。"
+msgstr ""
+"A monster tank that can repair itself, even the strongest tank of the Allies cannot "
+"survive its twin 152mm main gun.\n"
+"\n"
+"\n"
+"Self-repairable monster tanks, even the most powerful of the Allies, are hard to survive "
+"under its twin 152mm main gun."
+
+#. New in Armor Rush
+#: NAME:SovietOldAntiVehicleVehicle
+#, fuzzy
+msgctxt "NAME:SovietOldAntiVehicleVehicle"
+msgid "旧式坦克"
+msgstr "Old tank"
+
+#. New in Armor Rush
+#: TYPE:SovietOldAntiVehicleVehicle
+#, fuzzy
+msgctxt "TYPE:SovietOldAntiVehicleVehicle"
+msgid "老古董"
+msgstr "Antique"
+
+#. New in Armor Rush
+#: DESC:SovietOldAntiVehicleVehicle
+#, fuzzy
+msgctxt "DESC:SovietOldAntiVehicleVehicle"
+msgid ""
+"如果这个过时的轻型坦克不是从三流军火商手里买到的，那应该就是从哪里的博物馆里拖出来的。"
+msgstr ""
+"If this outdated light tank was not bought from a third-rate arms dealer, it should have "
+"been dragged out from a museum somewhere.\n"
+"\n"
+"\n"
+"If this outdated light tank wasn't bought from a third-rate arms dealer, it should have "
+"been pulled from a museum."
+
+#. New in Armor Rush
+#: NAME:SovietArmorTransportVehicle
+#, fuzzy
+msgctxt "NAME:SovietArmorTransportVehicle"
+msgid "六三式装甲运输车"
+msgstr ""
+"Type 63 armored transport vehicle\n"
+"\n"
+"\n"
+"Six or three armored transport vehicles."
+
+#. New in Armor Rush
+#: TYPE:SovietArmorTransportVehicle
+#, fuzzy
+msgctxt "TYPE:SovietArmorTransportVehicle"
+msgid "两栖运兵车"
+msgstr "Amphibious personnel carrier"
+
+#. New in Armor Rush
+#: DESC:SovietArmorTransportVehicle
+#, fuzzy
+msgctxt "DESC:SovietArmorTransportVehicle"
+msgid "血月自主开发的两栖装甲运输车，有着宽广舒适的乘员舱和一挺可拆卸轻机枪。"
+msgstr ""
+"The amphibious armored transport vehicle independently developed by Blood Moon has a wide "
+"and comfortable crew cabin and a detachable light machine gun.\n"
+"\n"
+"\n"
+"Blood Moon's self-developed amphibious armored transport vehicle has a wide and "
+"comfortable crew compartment and a detachable light machine gun."

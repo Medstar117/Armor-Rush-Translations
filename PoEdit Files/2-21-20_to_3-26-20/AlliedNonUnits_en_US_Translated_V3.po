@@ -1,0 +1,1662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  Allied Factions Non Units
+#  ## Other ##
+#. Modified existing RA3 String
+#: APT:PLAYERPOWERSHEADERALLIES
+msgctxt "APT:PLAYERPOWERSHEADERALLIES"
+msgid "盟军战区研究所远景研究"
+msgstr "Carville CombatTech Research"
+
+#. New in Armor Rush, NOTE: See Infantry Names in AlliedUnits
+#: DESC:CallAlliedAirForceParatroopers
+msgctxt "DESC:CallAlliedAirForceParatroopers"
+msgid ""
+"呼叫改装的千年轰炸机前往战区，空投精英伞兵部队。\r\n"
+"\r\n"
+"空降-->军犬两只，维和步兵六名，标枪兵两名"
+msgstr ""
+"Sends two Attack dogs, six Peacekeepers and two Javelin Soldiers into the area via modified Millennium Bombers.\r\n"
+"\r\n"
+"Airborne -- 2 Attack dogs, 6 Peacekeepers, 2 Javelin soldiers"
+
+#. New in Armor Rush, NOTE: See Infantry Names in AlliedUnits
+#: DESC:CallAlliedIceParatroopers
+msgctxt "DESC:CallAlliedIceParatroopers"
+msgid ""
+"呼叫阿刻罗俄斯运输机前往战区，空投精英伞兵部队。\r\n"
+"\r\n"
+"空降-->军犬两只，维和步兵六名，标枪兵两名"
+msgstr ""
+"Sends two Attack dogs, six Peacekeepers and two Javelin Soldiers into the area via Achelous transports.\r\n"
+"\r\n"
+"Airborne -- 2 Attack dogs, 6 Peacekeepers, 2 Javelin soldiers"
+
+#. New in Armor Rush, NOTE: See Infantry Names in AlliedUnits
+#: DESC:CallAlliedParatroopers
+msgctxt "DESC:CallAlliedParatroopers"
+msgid ""
+"呼叫世纪轰炸机前往战区，空投精英伞兵部队。\r\n"
+"\r\n"
+"空降-->军犬两只，维和步兵六名，标枪兵两名"
+msgstr ""
+"Sends two Attack dogs, six Peacekeepers and two Javelin Soldiers into the area via Century Bombers.\r\n"
+"\r\n"
+"Airborne -- 2 Attack dogs, 6 Peacekeepers, 2 Javelin soldiers"
+
+#. Modified existing RA3 String
+#: DESC:PLAYERPOWERHIGHTECHNOLOGY
+msgctxt "DESC:PLAYERPOWERHIGHTECHNOLOGY"
+msgid "为你的部分部队升级高科技设备，提升冷冻光束和特殊技能的威力！作用于警犬、超时空军团兵、守护者坦克、冷冻直升机和航空母舰。"
+msgstr "Powers up the special abilities of Attack Dogs, Chrono Legionnaires, Guardian Tanks, Cryocopters and Aircraft Carriers!"
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERTIMEBOMBLVL1
+msgctxt "NAME:PLAYERPOWERTIMEBOMBLVL1"
+msgid "超时空炸弹"
+msgstr "Time Bomb"
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERTIMEBOMBLVL2
+msgctxt "NAME:PLAYERPOWERTIMEBOMBLVL2"
+msgid "超时空炸弹豪华版"
+msgstr "Deluxe Time Bomb"
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERTIMEBOMBLVL3
+msgctxt "NAME:PLAYERPOWERTIMEBOMBLVL3"
+msgid "超时空炸弹至尊版"
+msgstr "Supreme Time Bomb"
+
+#. Modified existing RA3 String
+#: DESC:PLAYERPOWERTIMEBOMBLVL3
+msgctxt "DESC:PLAYERPOWERTIMEBOMBLVL3"
+msgid "在指定区域形成一个脾气火爆，性格冲动的定时高爆炸药包！"
+msgstr "Materialize a short-fused, unbelievably explosive package at the designated spot!"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceBarracksSpeed
+msgctxt "UPGRADENAME:AirForceBarracksSpeed"
+msgid "训练程序升级"
+msgstr "Integrated Training Programme"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceBarracksSpeed
+msgctxt "UPGRADETYPE:AirForceBarracksSpeed"
+msgid "步兵强化"
+msgstr "Infantry Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForceBarracksSpeed
+#, fuzzy
+msgctxt "DESCRIPTION:AirForceBarracksSpeed"
+msgid ""
+"加强对步兵们的训练，提高他们的各种能力。\n"
+"\n"
+">>提高作战能力\n"
+"     鹰眼步兵\n"
+"\n"
+"     速度，攻速，获取经验量上升\n"
+"\n"
+"开始研究>>"
+msgstr ""
+"Strengthen the training of infantry and improve their various abilities.\n"
+"\n"
+">>Improve combat capability\n"
+"      Hawkeye Infantry\n"
+"\n"
+"      Increase in speed, attack speed, and experience gained\n"
+"\n"
+"Start research >>\n"
+"\n"
+"Strengthen the infantry training, improve their various abilities.\n"
+"\n"
+">> improve our combat capabilities.\n"
+"     Hawkeye infantry.\n"
+"\n"
+"Speed, attack speed, gain experience increase.\n"
+"\n"
+"Start researching >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceBarracksSpeed
+msgctxt "UPGRADEPREREQ:AirForceBarracksSpeed"
+msgid "训练程序升级"
+msgstr "Integrated Training Programme"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForcePortCargo
+msgctxt "UPGRADENAME:AirForcePortCargo"
+msgid "弹仓容量升级"
+msgstr "Ammunition Capacity Upgrade"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForcePortCargo
+msgctxt "UPGRADETYPE:AirForcePortCargo"
+msgid "载弹强化"
+msgstr "Aircraft Ammo Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForcePortCargo
+msgctxt "DESCRIPTION:AirForcePortCargo"
+msgid ""
+"合理规划空间，升级后能提升部分飞行器的载弹量，并给维和轰炸机装备等离子导弹，给瓦尔基里装备火箭弹。\n"
+"\n"
+">>载弹量提升\n"
+"    阿波罗战机\n"
+"\n"
+">>载弹类型改变\n"
+"    维和轰炸机\n"
+"    瓦尔基里\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Increases the ammo capacity of Apollo-C fighters and equips Vindicators and Valkyries with more powerful weapons.\n"
+"\n"
+"> Increases Apollo-C carry capacity\n"
+"\n"
+"> Equips Vindicators with plasma missiles\n"
+"\n"
+"> Equips Valkyries with AG rockets"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForcePortCargo
+msgctxt "UPGRADEPREREQ:AirForcePortCargo"
+msgid "弹仓容量升级"
+msgstr "Ammunition Capacity Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForcePortDamage
+msgctxt "UPGRADENAME:AirForcePortDamage"
+msgid "航空武器升级"
+msgstr "Advanced Air Weaponry"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForcePortDamage
+msgctxt "UPGRADETYPE:AirForcePortDamage"
+msgid "空军武器强化"
+msgstr "Aircraft Damage Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForcePortDamage
+msgctxt "DESCRIPTION:AirForcePortDamage"
+msgid ""
+"盟军科学家废寝忘食研发出来的空军新式武器，此项升级会降低炮弹的质量。\r\n"
+"\r\n"
+">>武器伤害提升\r\n"
+"     空军\r\n"
+"     伤害+35%\r\n"
+"\r\n"
+"     解锁 瓦尔基里\r\n"
+"\r\n"
+">>武器伤害下降\r\n"
+"     突袭驱逐舰\r\n"
+"     伤害-10%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Focuses Hawkeye's resources on improving the damage of air units. However, this will reduce the firepower of Hawkeye Destroyers.\n"
+"\n"
+"> Increases aircraft damage (+35%)\n"
+"\n"
+"> Decreases Assault Destroyer damage (-10%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForcePortDamage
+msgctxt "UPGRADEPREREQ:AirForcePortDamage"
+msgid "航空武器升级"
+msgstr "Advanced Air Weaponry"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForcePortHealth
+msgctxt "UPGRADENAME:AirForcePortHealth"
+msgid "机体强化升级"
+msgstr "Structural Enhancement"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForcePortHealth
+msgctxt "UPGRADETYPE:AirForcePortHealth"
+msgid "飞行器结构强化"
+msgstr "Aircraft Health Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForcePortHealth
+msgctxt "DESCRIPTION:AirForcePortHealth"
+msgid ""
+"统一采用新的建造标准，强化飞行器结构强度的同时提升传感器探测范围，但会略微降低飞行速度。\n"
+"\n"
+">>生命值提升\n"
+"     空军\n"
+"     生命值+15%，视野+5%，速度-10%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Develop tougher aircraft alloys for use by Hawkeye aircraft. This also slightly increases scan range, but weighs down Air units.\n"
+"\n"
+"> Increases aircraft health (+15%) and scan range (+5%)\n"
+"    Decreases aircraft speed (-10%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForcePortHealth
+msgctxt "UPGRADEPREREQ:AirForcePortHealth"
+msgid "机体强化升级"
+msgstr "Structural Enhancement"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForcePortSpeed
+msgctxt "UPGRADENAME:AirForcePortSpeed"
+msgid "轻质化结构升级"
+msgstr "Lightened Heli Frames"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForcePortSpeed
+msgctxt "UPGRADETYPE:AirForcePortSpeed"
+msgid "速度强化"
+msgstr "Helicopter Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForcePortSpeed
+msgctxt "DESCRIPTION:AirForcePortSpeed"
+msgid ""
+"采用结构优化的轻质铝材，提升直升机速度。\n"
+"\n"
+">>速度提升\n"
+"     直升机\n"
+"     速度+25%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Optimise the weight of helicopter frames, allowing Hawkeye helicopters to move faster.\n"
+"\n"
+"> Increases Nightingale and Cryocopter speed (+25%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForcePortSpeed
+msgctxt "UPGRADEPREREQ:AirForcePortSpeed"
+msgid "轻质化结构升级"
+msgstr "Lightened Heli Frames"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceTechAir
+msgctxt "UPGRADENAME:AirForceTechAir"
+msgid "制空权"
+msgstr "Aerial Supremacy"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceTechAir
+msgctxt "UPGRADETYPE:AirForceTechAir"
+msgid "终极空军升级"
+msgstr "Ultimate Air Force Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForceTechAir
+#, fuzzy
+msgctxt "DESCRIPTION:AirForceTechAir"
+msgid ""
+"完全启用鹰眼最强大的空军力量，夺取天空的控制权。\n"
+"\n"
+">>加速经验获取&伤害提升\n"
+"     空军\n"
+"     经验获取x2.5\n"
+"\n"
+"     维和轰炸机\n"
+"     千年轰炸机\n"
+"     先锋武装炮艇机\n"
+"     伤害+30%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Fully use Hawkeye's most powerful air force to seize control of the sky.\n"
+"\n"
+">>Accelerate experience gain & damage increase\n"
+"      air force\n"
+"      Experience gain x2.5\n"
+"\n"
+"      Peacekeeping bomber\n"
+"      Millennium bomber\n"
+"      Vanguard gunship\n"
+"      Damage +30%\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"Fully enable Hawkeye's most powerful air force to take control of the sky.\n"
+"\n"
+">> speed up experience acquisition and injury improvement.\n"
+"     Air force.\n"
+"     Experience gets x2.5.\n"
+"\n"
+"Peacekeeping bombers.\n"
+"     Millennium Bomber.\n"
+"     Pioneer armed gunboat machine.\n"
+"     Damage: 30%\n"
+"\n"
+"Start upgrading >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceTechAir
+msgctxt "UPGRADEPREREQ:AirForceTechAir"
+msgid "制空权"
+msgstr "Aerial Supremacy"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceTechInfantry
+msgctxt "UPGRADENAME:AirForceTechInfantry"
+msgid "防弹升级"
+msgstr "Hawkeye Wardens"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceTechInfantry
+msgctxt "UPGRADETYPE:AirForceTechInfantry"
+msgid "步兵存活性升级"
+msgstr "Elite Infantry Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForceTechInfantry
+#, fuzzy
+msgctxt "DESCRIPTION:AirForceTechInfantry"
+msgid ""
+"获得此项升级后，能提高步兵在战场上的存活性。\n"
+"\n"
+">>作战能力提升\n"
+"     鹰眼步兵\n"
+"\n"
+"     生命值提升\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"After getting this upgrade, it can improve the survivability of infantry on the battlefield.\n"
+"\n"
+">>Strengthening combat capability\n"
+"      Hawkeye Infantry\n"
+"\n"
+"      Health boost\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"With this upgrade, infantry survival on the battlefield can be improved.\n"
+"\n"
+">> capability is enhanced.\n"
+"     Hawkeye infantry.\n"
+"\n"
+"The value of life increases.\n"
+"\n"
+"Start upgrading >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceTechInfantry
+msgctxt "UPGRADEPREREQ:AirForceTechInfantry"
+msgid "防弹升级"
+msgstr "Hawkeye Wardens"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceTechRocket
+msgctxt "UPGRADENAME:AirForceTechRocket"
+msgid "目标导引升级"
+msgstr "Advanced Missile Guidance"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceTechRocket
+msgctxt "UPGRADETYPE:AirForceTechRocket"
+msgid "导弹强化"
+msgstr "Missile Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry / Vehicle names in AlliedUnits
+#: DESCRIPTION:AirForceTechRocket
+msgctxt "DESCRIPTION:AirForceTechRocket"
+msgid ""
+"最新研制的目标锁定器能安装在部分导弹发射器上，同时使导弹打击更加精准。\r\n"
+"\r\n"
+">>射速升级\r\n"
+"     标枪兵\r\n"
+"     IFV\r\n"
+"\r\n"
+"     射速+30%，伤害+10%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Develop advanced missile guidance systems, improving the firepower and fire rate of missile units \n"
+"\n"
+"> Increases damage (+10%) and rate of fire (+30%) of missile units:\n"
+"     Javelin Soldier\n"
+"     Multigunner IFV"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceTechRocket
+msgctxt "UPGRADEPREREQ:AirForceTechRocket"
+msgid "目标导引升级"
+msgstr "Advanced Missile Guidance"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceTechSight
+msgctxt "UPGRADENAME:AirForceTechSight"
+msgid "先进机载扫描器"
+msgstr "Improved Aircraft Scanners"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceTechSight
+msgctxt "UPGRADETYPE:AirForceTechSight"
+msgid "扫描器强化"
+msgstr "Aircraft Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForceTechSight
+msgctxt "DESCRIPTION:AirForceTechSight"
+msgid ""
+"换装新式的雷达，扩大飞行器的视野。\r\n"
+"\r\n"
+">>扩大视野\r\n"
+"     空军\r\n"
+"     视野+20%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Install more powerful radars on aircraft, expanding their field of vision.\n"
+"\n"
+"> Increases aircraft scan range"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceTechSight
+msgctxt "UPGRADEPREREQ:AirForceTechSight"
+msgid "侦查能力升级"
+msgstr "Aircraft Vision Upgrade"
+
+#. New in Armor Rush
+#: UPGRADENAME:AirForceTechSpeed
+msgctxt "UPGRADENAME:AirForceTechSpeed"
+msgid "航空引擎升级"
+msgstr "Jet Engine Enhancement"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AirForceTechSpeed
+msgctxt "UPGRADETYPE:AirForceTechSpeed"
+msgid "速度强化"
+msgstr "Aircraft Speed Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AirForceTechSpeed
+msgctxt "DESCRIPTION:AirForceTechSpeed"
+msgid ""
+"给飞行器换装动力更为强劲的发动机。\n"
+"\n"
+">>速度提升\n"
+"     空军\n"
+"     速度+20%\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"Develop powerful new aircraft engines for general use.\n"
+"\n"
+"> Increases aircraft speed (+20%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AirForceTechSpeed
+msgctxt "UPGRADEPREREQ:AirForceTechSpeed"
+msgid "航空引擎升级"
+msgstr "Jet Engine Enhancement"
+
+#. New in Armor Rush
+#: NAME:AlliedBarracksShotgun
+msgctxt "NAME:AlliedBarracksShotgun"
+msgid "霰步枪"
+msgstr "Equip Shotguns"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedBarracksShotgun
+msgctxt "UPGRADENAME:AlliedBarracksShotgun"
+msgid "独头霰弹枪"
+msgstr "Equip Shotguns"
+
+#. New in Armor Rush
+#: TYPE:AlliedBarracksShotgun
+msgctxt "TYPE:AlliedBarracksShotgun"
+msgid "更换武器"
+msgstr "Weapon Modification"
+
+#. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
+#: DESCRIPTION:AlliedBarracksShotgun
+msgctxt "DESCRIPTION:AlliedBarracksShotgun"
+msgid ""
+"给维和步兵换装霰步枪，用步枪攻击远处敌人，以及能用霰弹枪攻击较近的敌人。\r\n"
+"\r\n"
+">>换装霰步枪\r\n"
+"     维和步兵\r\n"
+"\r\n"
+"     单发武器，伤害增强\r\n"
+"     射速降低，速度降低\r\n"
+"\r\n"
+"开始更换>>"
+msgstr ""
+"Allows Peacekeepers to use shotguns against close-ranged enemies. Shotguns have lower fire rate, but higher damage than rifles.\n"
+"\n"
+"> Equips Peacekeepers with shotguns\n"
+"    (Note: Peacekeepers use rifles at long range)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AlliedBarracksShotgun
+msgctxt "UPGRADEPREREQ:AlliedBarracksShotgun"
+msgid "独头霰弹枪"
+msgstr "Equip Shotguns"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedAirPower
+msgctxt "UPGRADENAME:AlliedAirPower"
+msgid "先进航空学"
+msgstr "Advanced Aeronautics"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:AlliedAirPower
+msgctxt "UPGRADEPREREQ:AlliedAirPower"
+msgid "先进航空学"
+msgstr "Advanced Aeronautics"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedTechAir
+msgctxt "UPGRADENAME:AlliedTechAir"
+msgid "先进航空学II"
+msgstr "Advanced Aeronautics II"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AlliedTechAir
+msgctxt "UPGRADETYPE:AlliedTechAir"
+msgid "飞行器强化"
+msgstr "Aircraft Combat Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AlliedTechAir
+msgctxt "DESCRIPTION:AlliedTechAir"
+msgid ""
+"完成此项升级后，盟军飞行器作战能力会再次得到极大提升！\r\n"
+"\r\n"
+">>作战能力提升\r\n"
+"     空军\r\n"
+"\r\n"
+"     经验获取，速度，伤害，生命值提升\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Further improves the combat abilities of Allied aircraft.\n"
+"\n"
+"> Increase aircraft health, damage, speed and veterancy growth"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedTechDisguise
+msgctxt "UPGRADENAME:AlliedTechDisguise"
+msgid "隐形升级"
+msgstr "Advanced Cloaking Field"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AlliedTechDisguise
+msgctxt "UPGRADETYPE:AlliedTechDisguise"
+msgid "无隐无踪的升级"
+msgstr "Mirage Tank Upgrade"
+
+#. New in Armor Rush, NOTE: See Vehicle names in AlliedUnits
+#: DESCRIPTION:AlliedTechDisguise
+msgctxt "DESCRIPTION:AlliedTechDisguise"
+msgid ""
+"研发新的隐形系统，让幻影坦克来无影去无踪。但搭载更重的隐形设备会使幻影坦克速度减慢。\r\n"
+"\r\n"
+">>完全隐形\r\n"
+"     幻影坦克\r\n"
+"\r\n"
+"     移动和静止时完全隐形\r\n"
+"     速度-10%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Upgrades Mirage tanks with cloaking devices which provide consistent invisibility, but are significantly heavier.\n"
+"\n"
+"> Mirage tanks remain stealthed when stationary and mobile\n"
+"   Decreases Mirage tank speed (-10%)"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedTechRocket
+msgctxt "UPGRADENAME:AlliedTechRocket"
+msgid "导弹装填升级"
+msgstr "Missile Autoloaders"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AlliedTechRocket
+msgctxt "UPGRADETYPE:AlliedTechRocket"
+msgid "武器升级"
+msgstr "Missile Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
+#: DESCRIPTION:AlliedTechRocket
+msgctxt "DESCRIPTION:AlliedTechRocket"
+msgid ""
+"优化导弹再装填程序，加快便携式导弹的重新上弹时间。\r\n"
+"\r\n"
+">>射速升级\r\n"
+"     标枪兵\r\n"
+"     IFV\r\n"
+"\r\n"
+"     射速+25%，伤害+5%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Upgrades all missile weapons with autoloaders to speed up the reload time of portable missiles.\n"
+"\n"
+"> Increases damage (+5%) and rate of fire (+25%) of missile units:\n"
+"     Javelin Soldier\n"
+"     Multigunner IFV"
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedTechSight
+msgctxt "UPGRADENAME:AlliedTechSight"
+msgid "雷达模块升级"
+msgstr "Improved Radar Modules"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AlliedTechSight
+msgctxt "UPGRADETYPE:AlliedTechSight"
+msgid "侦查装备升级"
+msgstr "Unit Vision Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:AlliedTechSight
+msgctxt "DESCRIPTION:AlliedTechSight"
+msgid ""
+"更新雷达模块，扩大盟军部队的视野范围。\r\n"
+"\r\n"
+">>扩大视野\r\n"
+"    所有单位\r\n"
+"    视野+20%\r\n"
+"\r\n"
+">>战略配备优先权\r\n"
+"     协议冷却时间-10%\r\n"
+"\r\n"
+"开始升级>>"
+msgstr ""
+"Develop better radar modules to expand the field of vision of the Allies' forces.\n"
+"\n"
+"> Increases unit vision range (+20%)\n"
+"\n"
+"> Top-Secret Protocol cooldown -10%"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksDisguise
+msgctxt "UPGRADENAME:IceBarracksDisguise"
+msgid "先进单兵光学迷彩"
+msgstr "Advanced Individual Optical Camouflage"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksDisguise
+msgctxt "UPGRADETYPE:IceBarracksDisguise"
+msgid "战场存活性升级"
+msgstr "Infantry Stealth Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
+#: DESCRIPTION:IceBarracksDisguise
+#, fuzzy
+msgctxt "DESCRIPTION:IceBarracksDisguise"
+msgid ""
+"更新步兵装备的作战模块，在提高生存能力的同时能使步兵在非开火时融入周围的环境。\n"
+"\n"
+">>提高作战能力\n"
+"     涅墨西斯步兵，围墙\n"
+"     \n"
+"     生命值，视野提升\n"
+"     伤害降低\n"
+"     非开火时隐形\n"
+"\n"
+"开始更新>>"
+msgstr ""
+"Updating the combat module of infantry equipment, while improving survivability, enables infantry to blend into the surrounding environment "
+"when not firing.\n"
+"\n"
+">>Improve combat capability\n"
+"      Nemesis infantry, fence\n"
+"     \n"
+"      Health value, vision increased\n"
+"      Damage reduction\n"
+"      Invisible when not firing\n"
+"\n"
+"Start update >>\n"
+"\n"
+"\n"
+"Update the infantry equipment's combat module to improve survivability while enabling infantry to integrate into the surrounding "
+"environment when not firing.\n"
+"\n"
+">> improve our combat capabilities.\n"
+"     Nemesis Infantry, Wall.\n"
+"     \n"
+"Life value, field of view increased.\n"
+"     Damage is reduced.\n"
+"     Invisible when not firing.\n"
+"\n"
+"Start updating >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceBarracksDisguise
+msgctxt "UPGRADEPREREQ:IceBarracksDisguise"
+msgid "先进单兵光学迷彩"
+msgstr "Advanced Individual Optical Camouflage"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksHealth
+msgctxt "UPGRADENAME:IceBarracksHealth"
+msgid "战争科学"
+msgstr "Combat Information"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksHealth
+msgctxt "UPGRADETYPE:IceBarracksHealth"
+msgid "科技等级"
+msgstr "Technology Level Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:IceBarracksHealth
+msgctxt "DESCRIPTION:IceBarracksHealth"
+msgid ""
+"涅墨西斯独特的一套战争科学能为盟军提供科技支持。\r\n"
+"\r\n"
+">>战争科学\r\n"
+"     升级到T2，解锁新单位\r\n"
+"\r\n"
+"开始>>"
+msgstr ""
+"Nemesis' unique collection of combat information provides scientific and technological support for the Allies and unlocks the next tier of "
+"units for your production facilities.\n"
+"\n"
+"> Combat Information\n"
+"     Upgrades to T2 to unlock new units"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceBarracksHealth
+msgctxt "UPGRADEPREREQ:IceBarracksHealth"
+msgid "战争科学"
+msgstr "Combat Information"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksIce
+msgctxt "UPGRADENAME:IceBarracksIce"
+msgid "冰霜武器实验型"
+msgstr "Prototype Cryo Weaponry"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksIce
+msgctxt "UPGRADETYPE:IceBarracksIce"
+msgid "先进武器升级"
+msgstr "Cryo Weapon Development"
+
+#. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
+#: DESCRIPTION:IceBarracksIce
+msgctxt "DESCRIPTION:IceBarracksIce"
+msgid ""
+"将神祗的武器搬到现实，尽管缺乏改进，但不失为一种强大的武器。\r\n"
+"\r\n"
+">>更换武器\r\n"
+"     维和步兵\r\n"
+"     标枪兵\r\n"
+"     激流ACV\r\n"
+"     阿波罗战机\r\n"
+"     水翼船\r\n"
+"     阿瑞斯毁灭者\r\n"
+"\r\n"
+"     冰冻武器，伤害极低\r\n"
+"     能够冰冻敌军\r\n"
+"\r\n"
+"开始更新>>"
+msgstr ""
+"Equips various NEMESIS units with cyrotech weapons, which trade stopping power for freezing potential.\n"
+"\n"
+"> Equips following units with cryotech weaponry:\n"
+"     Peacekeeper\n"
+"     Javelin Soldier\n"
+"     Hermes\n"
+"     Apollo Fighter\n"
+"     Eunomia\n"
+"     Ares"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceBarracksIce
+msgctxt "UPGRADEPREREQ:IceBarracksIce"
+msgid "冰霜武器实验型"
+msgstr "Prototype Cryo Weaponry"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksIce2
+msgctxt "UPGRADENAME:IceBarracksIce2"
+msgid "冰霜武器改进型"
+msgstr "Advanced Cyro Weaponry"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksIce2
+msgctxt "UPGRADETYPE:IceBarracksIce2"
+msgid "先进武器强化"
+msgstr "Cyro Weapon Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in AlliedUnits
+#: DESCRIPTION:IceBarracksIce2
+msgctxt "DESCRIPTION:IceBarracksIce2"
+msgid ""
+"将速射冰霜武器的改进型带到战场上测试，可能有点非人道，但肯定比不上苏联。\r\n"
+"\r\n"
+">>冰霜武器强化\r\n"
+"     维和步兵\r\n"
+"     激流ACV\r\n"
+"     阿波罗战机\r\n"
+"     水翼船\r\n"
+"     阿瑞斯毁灭者\r\n"
+"\r\n"
+"     射程+10%\r\n"
+"     射速大幅提升\r\n"
+"\r\n"
+">>冰霜武器强化\r\n"
+"     标枪兵\r\n"
+"     \r\n"
+"     射程+20%\r\n"
+"\r\n"
+"开始测试>>"
+msgstr ""
+"Develops cryotech weapons with better combat performance to be used by NEMESIS forces.\n"
+"\n"
+"> Increases range (+10%) and significantly boosts fire rate of following units:\n"
+"     Peacekeeper\n"
+"     Hermes\n"
+"     Apollo Fighter\n"
+"     Eunomia\n"
+"     Ares\n"
+"\n"
+"> Increases Javelin Soldier range (+20%)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceBarracksIce2
+msgctxt "UPGRADEPREREQ:IceBarracksIce2"
+msgid "冰霜武器改进型"
+msgstr "Advanced Cyro Weaponry"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksSpeed
+#, fuzzy
+msgctxt "UPGRADENAME:IceBarracksSpeed"
+msgid "动力外骨骼"
+msgstr "Power Exoskeleton"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksSpeed
+msgctxt "UPGRADETYPE:IceBarracksSpeed"
+msgid "速度强化"
+msgstr "Infantry Health/Speed Upgrade"
+
+#. New in Armor Rush, NOTE: See Infantry names in AlliedUnits
+#: DESCRIPTION:IceBarracksSpeed
+#, fuzzy
+msgctxt "DESCRIPTION:IceBarracksSpeed"
+msgid ""
+"为步兵装备新型的动力外骨骼，有效提升步兵的机动能力和载重量，允许步兵携带更重与更先进的装备。\n"
+"\n"
+">>速度提升\n"
+"     涅墨西斯步兵\n"
+"\n"
+"     速度+30%\n"
+"     生命值+20%\n"
+"\n"
+"开始整合>>"
+msgstr ""
+"Equip infantry with a new type of power exoskeleton, which effectively improves the mobility and load capacity of infantry, allowing "
+"infantry to carry heavier and more advanced equipment.\n"
+"\n"
+">>Speed increase\n"
+"      Nemesis Infantry\n"
+"\n"
+"      Speed +30%\n"
+"      Health +20%\n"
+"\n"
+"Start integration >>\n"
+"\n"
+"\n"
+"Equipped infantry with new dynamic exoskeletons, it effectively enhances infantry mobility and load, allowing infantry to carry heavier and "
+"more advanced equipment.\n"
+"\n"
+">> speed is increased.\n"
+"     Nemesis Infantry.\n"
+"\n"
+"Speed: 30%\n"
+"     Life value: 20%\n"
+"\n"
+"Start integrating >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceBarracksSpeed
+msgctxt "UPGRADEPREREQ:IceBarracksSpeed"
+msgid "配件整合"
+msgstr "Equipment Integration"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceNavalSonic
+msgctxt "UPGRADENAME:IceNavalSonic"
+msgid "先进声波武器"
+msgstr "Anti-Submarine Sonic Weaponry"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceNavalSonic
+msgctxt "UPGRADETYPE:IceNavalSonic"
+msgid "单位强化"
+msgstr "Dolphin Upgrade"
+
+#. New in Armor Rush, NOTE: See Dolphin name in AlliedUnits
+#: DESCRIPTION:IceNavalSonic
+#, fuzzy
+msgctxt "DESCRIPTION:IceNavalSonic"
+msgid ""
+"涅墨西斯先进的声波武器，能瘫痪水下的潜艇，是最先进的声波武器。\n"
+"\n"
+">>安装先进声波武器\n"
+"     海豚\n"
+"\n"
+"     武器可对潜\n"
+"\n"
+"开始安装>>"
+msgstr ""
+"Nemesis’s advanced sonic weapon can paralyze underwater submarines and is the most advanced sonic weapon.\n"
+"\n"
+">>Install advanced sonic weapons\n"
+"      dolphin\n"
+"\n"
+"      Weapon can be submarine\n"
+"\n"
+"Start installation>>\n"
+"\n"
+"\n"
+"Nemesis's advanced sonic weapon, which can paralyze submarines underwater, is the most advanced sonic weapon.\n"
+"\n"
+">> are also required to install advanced sonic weapons.\n"
+"     Dolphins.\n"
+"\n"
+"Weapons can dive.\n"
+"\n"
+"Start installing >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceNavalSonic
+msgctxt "UPGRADEPREREQ:IceNavalSonic"
+msgid "先进声波武器"
+msgstr "Anti-Submarine Sonic Weaponry"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceTechDefense
+msgctxt "UPGRADENAME:IceTechDefense"
+msgid "防卫协议"
+msgstr "Defense Protocol"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceTechDefense
+msgctxt "UPGRADETYPE:IceTechDefense"
+msgid "基地强化"
+msgstr "Base Defense Upgrade"
+
+#. New in Armor Rush
+#: DESCRIPTION:IceTechDefense
+#, fuzzy
+msgctxt "DESCRIPTION:IceTechDefense"
+msgid ""
+"与盟军本部签署新的防卫协议，保护正在研究的新科技。\n"
+"\n"
+">>防卫协议\n"
+"     生产建筑，阿瑞斯毁灭者\n"
+"     血量+15%\n"
+"\n"
+"     防御塔\n"
+"     血量+25%\n"
+"\n"
+">>战略配备优先权\n"
+"     协议冷却时间-15%\n"
+"\n"
+"开始协商>>"
+msgstr ""
+"Sign a new defense agreement with the headquarters of the Allied Forces to protect the new technology under study.\n"
+"\n"
+">>Defense Agreement\n"
+"      Production building, Ares Destroyer\n"
+"      HP+15%\n"
+"\n"
+"      Defense tower\n"
+"      HP +25%\n"
+"\n"
+">>Strategic allocation priority\n"
+"      Agreement cooling time -15%\n"
+"\n"
+"Start negotiation >>\n"
+"\n"
+"\n"
+"Sign a new defense agreement with the Allied forces to protect new technologies under study.\n"
+"\n"
+">> defense agreement.\n"
+"     Production building, Ares Destroyer.\n"
+"     Blood volume: 15%\n"
+"\n"
+"Defensive tower.\n"
+"     Blood volume: 25%\n"
+"\n"
+">> strategy is prioritized.\n"
+"     Protocol cooling time -15%\n"
+"\n"
+"Start negotiating >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceTechDefense
+msgctxt "UPGRADEPREREQ:IceTechDefense"
+msgid "防卫协议"
+msgstr "Defense Protocol"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceTechFuture
+msgctxt "UPGRADENAME:IceTechFuture"
+msgid "未来科技"
+msgstr "FutureTech"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceTechFuture
+msgctxt "UPGRADETYPE:IceTechFuture"
+msgid "领先世界的科技"
+msgstr "Elite Infantry Upgrade"
+
+#. New in Armor Rush, NOTE: See unit names in AlliedUnits
+#: DESCRIPTION:IceTechFuture
+msgctxt "DESCRIPTION:IceTechFuture"
+msgid ""
+"科技永无止境。\r\n"
+"\r\n"
+">>未来科技研究\r\n"
+">>仿生外骨骼\r\n"
+"     涅墨西斯步兵，海豚\r\n"
+"     自动医疗伤员\r\n"
+"     生命值上升\r\n"
+"\r\n"
+">>生物学习芯片\r\n"
+"     涅墨西斯步兵，海豚\r\n"
+"     经验值获取x3\r\n"
+"\r\n"
+"开始研究>>"
+msgstr ""
+"Technology is endless. Deploys FutureTech equipment to greatly improve the combat abilities of NEMESIS Infantry.\n"
+"\n"
+"> Bionic Exoskeleton\n"
+"> Increases infantry and Dolphin health, enables health regeneration\n"
+"\n"
+"> Biological Learning Chip\n"
+"> Accelerate infantry and Dolphin veterancy growth (x3)"
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceTechFuture
+msgctxt "UPGRADEPREREQ:IceTechFuture"
+msgid "未来科技"
+msgstr "FutureTech"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceTechScout
+msgctxt "UPGRADENAME:IceTechScout"
+msgid "间谍卫星"
+msgstr "Spy Satellite"
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceTechScout
+msgctxt "UPGRADETYPE:IceTechScout"
+msgid "连线轨道卫星"
+msgstr "Battlefield Reconnaissance"
+
+#. New in Armor Rush
+#: DESCRIPTION:IceTechScout
+#, fuzzy
+msgctxt "DESCRIPTION:IceTechScout"
+msgid ""
+"连线位于太空轨道的精确侦察卫星，当卫星运行到战场上空时，便可接收到整个战场的短暂影像。\n"
+"\n"
+">>连接间谍卫星\n"
+"     电力-75\n"
+"\n"
+"     战场视野 8s\n"
+"     黑暗时间 120s\n"
+"\n"
+"开始连接>>"
+msgstr ""
+"Connecting to a precision reconnaissance satellite in space orbit, when the satellite moves over the battlefield, it can receive a brief "
+"image of the entire battlefield.\n"
+"\n"
+">>Connect Spy Satellite\n"
+"      Electricity-75\n"
+"\n"
+"      Battlefield vision 8s\n"
+"      Dark time 120s\n"
+"\n"
+"Start to connect >>\n"
+"\n"
+"\n"
+"An accurate reconnaissance satellite in orbit that receives short images of the entire battlefield as it travels into the air.\n"
+"\n"
+">> is connected to a spy satellite.\n"
+"     Power-75.\n"
+"\n"
+"Battlefield Vision 8s.\n"
+"     Dark Time 120s.\n"
+"\n"
+"Start connecting >>."
+
+#. New in Armor Rush
+#: UPGRADEPREREQ:IceTechScout
+msgctxt "UPGRADEPREREQ:IceTechScout"
+msgid "间谍卫星"
+msgstr "Spy Satellite"
+
+#. New in Armor Rush
+#: NAME:SuperweaponTimerChronosphereIce
+msgctxt "NAME:SuperweaponTimerChronosphereIce"
+msgid "空间转移"
+msgstr "Chronoshift"
+
+#. New in Armor Rush
+#: NAME:PlayerPowerChronosphereIce
+msgctxt "NAME:PlayerPowerChronosphereIce"
+msgid "空间转移"
+msgstr "Chronoshift"
+
+#. New in Armor Rush
+#: TYPE:PlayerPowerChronosphereIce
+msgctxt "TYPE:PlayerPowerChronosphereIce"
+msgid "偷袭"
+msgstr "Superweapon"
+
+#. New in Armor Rush, NOTE: See unit names in AlliedUnits
+#: DESC:PlayerPowerChronosphereIce
+msgctxt "DESC:PlayerPowerChronosphereIce"
+msgid "涅墨西斯兵营驱动的空间转移装置，其能量只能传送友军步兵。注意：不可传送游说者与特种兵。"
+msgstr "Matter-transport target infantry units to any other point on the field! Note: Cannot be used by Canvassers or Commandos."
+
+#. New in Armor Rush
+#: NAME:SonarEMP
+msgctxt "NAME:SonarEMP"
+msgid "破坏性声波"
+msgstr "Ultrasonic Pulse"
+
+#. New in Armor Rush
+#: DESC:SonarEMP
+msgctxt "DESC:SonarEMP"
+msgid "以最大功率释放超声波，其能量可以使水下设备停止运转一段时间。"
+msgstr "Release an ultrasonic wave, capable of disabling submerged units for a while."
+
+#  ## Buildings ##
+#. Modified existing RA3 String, NOTE: See other factions's MCV descriptions
+#: DESC:ABILITYUNPACKALLIEDMCV
+msgctxt "DESC:ABILITYUNPACKALLIEDMCV"
+msgid "展开潘多拉魔盒，战争是万恶之源。"
+msgstr "Converts to a Construction Yard, which builds all sorts of military structures."
+
+#. New in Armor Rush
+#: NAME:AlliedMCVAirForce
+msgctxt "NAME:AlliedMCVAirForce"
+msgid "鹰眼基地车"
+msgstr "Hawkeye MCV"
+
+#. New in Armor Rush
+#: NAME:AlliedConstructionYardAirForce
+msgctxt "NAME:AlliedConstructionYardAirForce"
+msgid "鹰眼前指部"
+msgstr "Forward Command"
+
+#. New in Armor Rush, NOTE: See Original Allied MCV descriptions
+#: DESC:AlliedConstructionYardAirForce
+msgctxt "DESC:AlliedConstructionYardAirForce"
+msgid "鹰眼前线指挥部。能够生产建筑，并为周围工厂提供科技许可。"
+msgstr "Hawkeye forward HQ. They enable production and grant tech clearance to nearby facilities."
+
+#. New in Armor Rush
+#: NAME:AlliedConstructionYardIce
+msgctxt "NAME:AlliedConstructionYardIce"
+msgid "涅墨西斯指挥所"
+msgstr "Command Post"
+
+#. New in Armor Rush, NOTE: See Original Allied MCV descriptions
+#: DESC:AlliedConstructionYardIce
+msgctxt "DESC:AlliedConstructionYardIce"
+msgid "涅墨西斯指挥中心。能够生产建筑，并为周围工厂提供科技许可。"
+msgstr "NEMESIS frontline HQ. They enable production and grant tech clearance to nearby facilities."
+
+#. New in Armor Rush
+#: NAME:AlliedBarracksAirForce
+msgctxt "NAME:AlliedBarracksAirForce"
+msgid "鹰眼军营"
+msgstr "Warden Barracks"
+
+#. New in Armor Rush, NOTE: See Original Allied Barracks descriptions
+#: DESC:AlliedBarracksAirForce
+msgctxt "DESC:AlliedBarracksAirForce"
+msgid "鹰眼步兵师正时刻准备着通过该军用建筑部署到战场上去。"
+msgstr "Hawkeye's elite infantry corps stand ready to be deployed from these military structures."
+
+#. New in Armor Rush
+#: NAME:AlliedBarracksIce
+msgctxt "NAME:AlliedBarracksIce"
+msgid "涅墨西斯训练营"
+msgstr "Training Camp"
+
+#. New in Armor Rush, NOTE: See Original Allied Barracks descriptions
+#: DESC:AlliedBarracksIce
+msgctxt "DESC:AlliedBarracksIce"
+msgid "涅墨西斯强大的步兵军团已经准备好通过这个建筑部署到战场上。"
+msgstr "NEMESIS' powerful legion stand by for deployment through these military structures."
+
+#. New in Armor Rush
+#: NAME:AlliedWarFactoryAirForce
+msgctxt "NAME:AlliedWarFactoryAirForce"
+msgid "鹰眼战车间"
+msgstr "Weapons Factory"
+
+#. New in Armor Rush, NOTE: See Original Allied War Factory descriptions
+#: DESC:AlliedWarFactoryAirForce
+msgctxt "DESC:AlliedWarFactoryAirForce"
+msgid "生产和维修鹰眼用于地面防御的车辆的工厂。"
+msgstr "Factories that produce and repair Hawkeye vehicles for ground defense."
+
+#. New in Armor Rush
+#: NAME:AlliedWarFactoryIce
+msgctxt "NAME:AlliedWarFactoryIce"
+msgid "涅墨西斯重工"
+msgstr "Heavy Factory"
+
+#. New in Armor Rush, NOTE: See Original Allied War Factory descriptions
+#: DESC:AlliedWarFactoryIce
+msgctxt "DESC:AlliedWarFactoryIce"
+msgid "生产和维修涅墨西斯支援步兵车辆的工厂。"
+msgstr "Factories which manufacture and deploy NEMESIS infantry support vehicles."
+
+#. New in Armor Rush
+#: NAME:AlliedAirfieldAirForce
+msgctxt "NAME:AlliedAirfieldAirForce"
+msgid "鹰眼空指部"
+msgstr "Air Command"
+
+#. New in Armor Rush, NOTE: See Original Allied Airfield descriptions
+#: DESC:AlliedAirfieldAirForce
+msgctxt "DESC:AlliedAirfieldAirForce"
+msgid "鹰眼在这个建筑里生产各种实验型飞行器以及维修它们。"
+msgstr "Hawkeye produces highly advanced aircraft and repairs and rearms them in these buildings."
+
+#. New in Armor Rush
+#: NAME:AlliedAirfieldIce
+msgctxt "NAME:AlliedAirfieldIce"
+msgid "涅墨西斯机场"
+msgstr "Air Control"
+
+#. New in Armor Rush, NOTE: See Original Allied Airfield descriptions
+#: DESC:AlliedAirfieldIce
+msgctxt "DESC:AlliedAirfieldIce"
+msgid "涅墨西斯在这个建筑里生产各种支援类飞行器并维修它们。"
+msgstr "NEMESIS utilises these buildings for maintaining and producing their support aircraft."
+
+#. New in Armor Rush
+#: NAME:AlliedNavalYardAirForce
+msgctxt "NAME:AlliedNavalYardAirForce"
+msgid "鹰眼海港"
+msgstr "Naval Port"
+
+#. New in Armor Rush, NOTE: See Original Allied Naval Yard descriptions
+#: DESC:AlliedNavalYardAirForce
+msgctxt "DESC:AlliedNavalYardAirForce"
+msgid "通过这些建筑建造和修理鹰眼强大的海军力量。"
+msgstr "Hawkeye's naval forces can be built and maintained at these structures."
+
+#. New in Armor Rush
+#: NAME:AlliedNavalYardIce
+msgctxt "NAME:AlliedNavalYardIce"
+msgid "涅墨西斯海港"
+msgstr "Waterfront"
+
+#. New in Armor Rush, NOTE: See Original Allied Naval Yard descriptions
+#: DESC:AlliedNavalYardIce
+msgctxt "DESC:AlliedNavalYardIce"
+msgid "通过这些建筑建造和修理涅墨西斯的辅助海军力量。"
+msgstr "NEMESIS naval forces are produced and repaired at these structures."
+
+#. New in Armor Rush, NOTE: See Original Allied Outpost descriptions
+#: DESC:AlliedOutpostAirForce
+msgctxt "DESC:AlliedOutpostAirForce"
+msgid "这个设施由勘探矿车展开而来，可以在周围放置其他鹰眼建筑。"
+msgstr "Converted from Prospectors, these facilities allow other Hawkeye structures to be built nearby."
+
+#. New in Armor Rush
+#: NAME:AlliedOutpostIce
+msgctxt "NAME:AlliedOutpostIce"
+msgid "控制中心"
+msgstr "Control Center"
+
+#. New in Armor Rush, NOTE: See Original Allied Outpost descriptions; See Neptune Tank Name in Allied Units
+#: DESC:AlliedOutpostIce
+msgctxt "DESC:AlliedOutpostIce"
+msgid "这个设施由勘探矿车展开而来，可以在周围放置其他涅墨西斯建筑。能够为涅普顿坦克提供指挥信号。"
+msgstr ""
+"Converted from Demeters, these facilities allow other NEMESIS structures to be built nearby and provide command signals for Neptune tanks."
+
+#. New in Armor Rush, NOTE: See Original Allied PowerPlant descriptions
+#: DESC:AlliedPowerPlantAirForce
+msgctxt "DESC:AlliedPowerPlantAirForce"
+msgid "这些建筑使用可持续清洁燃料为鹰眼建筑提供电力。"
+msgstr "These structures safely use clean-burning, sustainable fuels to power Hawkeye bases."
+
+#. New in Armor Rush, NOTE: See Original Allied PowerPlant descriptions
+#: DESC:AlliedPowerPlantIce
+msgctxt "DESC:AlliedPowerPlantIce"
+msgid "这些建筑使用可持续清洁燃料为涅墨西斯建筑提供电力。"
+msgstr "These structures safely use clean-burning, sustainable fuels to power NEMESIS bases."
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedPowerPlantTurbine
+msgctxt "UPGRADENAME:AlliedPowerPlantTurbine"
+msgid "涡轮升级"
+msgstr "Turbine Upgrade"
+
+#. New in Armor Rush
+#: DESC:AlliedPowerPlantTurbine
+msgctxt "DESC:AlliedPowerPlantTurbine"
+msgid ""
+"更换先进涡轮机并安装额外护甲，\n"
+"——发电量+50 发电厂生命值+25%"
+msgstr ""
+"Install advanced turbines and additional armor on this Power Plant.\n"
+"\n"
+"> Power generation +50, Power Plant health +25%"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDTECHSTRUCTURE
+msgctxt "DESC:ALLIEDTECHSTRUCTURE"
+msgid "盟军使用这些建筑来监管他们部署的绝密防御设施及研究先进新式武器。"
+msgstr "The Allies use these structures to supervise deployment of their top-secret defenses."
+
+#. New in Armor Rush
+#: DESC:AlliedTechStructureAirForce
+msgctxt "DESC:AlliedTechStructureAirForce"
+msgid "鹰眼使用这些建筑来监管他们部署的绝密防御设施及研究先进新式武器。"
+msgstr "Hawkeye uses these structures to oversee the top-secret defense facilities they deploy and research advanced new weapons."
+
+#. New in Armor Rush
+#: DESC:AlliedTechStructureIce
+msgctxt "DESC:AlliedTechStructureIce"
+msgid "涅墨西斯使用这些建筑来继续研发从未来科技获得的先进科技。"
+msgstr "Nemesis uses these structures to continue to develop advanced technologies derived from FutureTech."
+
+#  ## Base Defenses ##
+#. New in Armor Rush
+#. NOTE: NEMESIS's base defense
+#: NAME:AlliedBaseDefenseIce
+#, fuzzy
+msgctxt "NAME:AlliedBaseDefenseIce"
+msgid "AT-47防御炮台"
+msgstr "AT-47 Defense Turret"
+
+#. New in Armor Rush
+#: TYPE:AlliedBaseDefenseIce
+msgctxt "TYPE:AlliedBaseDefenseIce"
+msgid "基础基地防御"
+msgstr "Advanced Base Defense"
+
+#. New in Armor Rush
+#: DESC:AlliedBaseDefenseIce
+msgctxt "DESC:AlliedBaseDefenseIce"
+msgid "通用防御系统，能发射高速穿甲弹，对敌军装甲单位有很高杀伤力。"
+msgstr "General-purpose defense systems capable of firing high-velocity AP projectiles, which are highly lethal against enemy armor."
+
+#. New in Armor Rush
+#: NAME:AlliedBaseDefenseAdvancedIce
+msgctxt "NAME:AlliedBaseDefenseAdvancedIce"
+msgid "裂缝产生器"
+msgstr "Gap Generator"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDBASEDEFENSEADVANCED
+msgctxt "TYPE:ALLIEDBASEDEFENSEADVANCED"
+msgid "高级基地防御/探测隐形"
+msgstr "Stealth Generator / Detection"
+
+#. New in Armor Rush
+#: DESC:AlliedBaseDefenseAdvancedIce
+msgctxt "DESC:AlliedBaseDefenseAdvancedIce"
+msgid "先进的基地隐蔽系统，可以通过产生裂缝来隐藏部队甚至建筑物。"
+msgstr "Advanced base concealment systems which hide troops and buildings by projecting camo fields."
+
+#. Modified existing RA3 String
+#: NAME:ALLIEDSUPERWEAPONADVANCED
+msgctxt "NAME:ALLIEDSUPERWEAPONADVANCED"
+msgid "西格玛协调器"
+msgstr "Sigma Harmonizer"
+
+#. Modified existing RA3 String
+#: NAME:SUPERWEAPONTIMERPARTICLECANNON
+msgctxt "NAME:SUPERWEAPONTIMERPARTICLECANNON"
+msgid "西格玛协调器"
+msgstr "Sigma Harmonizer"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDSUPERWEAPONADVANCED
+msgctxt "DESC:ALLIEDSUPERWEAPONADVANCED"
+msgid ""
+"由同盟军第一研究中心根据从未来科技缴获的草案扩展升级而成的区域时空干扰装置，其量产型号可以通过干扰作战指挥系统与扰乱战区时间计量的方式达成近"
+"似于时间静止的效果。"
+msgstr ""
+"Regional time-stopping device upgraded by the Allied First Research Center based on drafts seized from FutureTech. Its mass-produced model "
+"can achieve a near-stationary effect by jamming Battle Control systems and disrupting the flow of the space-time continuum."
+
+#. Modified existing RA3 String
+#: NAME:PLAYERPOWERPARTICLECANNON
+msgctxt "NAME:PLAYERPOWERPARTICLECANNON"
+msgid "时间之外"
+msgstr "Time Stop"
+
+#. Modified existing RA3 String
+#: DESC:PLAYERPOWERPARTICLECANNON
+msgctxt "DESC:PLAYERPOWERPARTICLECANNON"
+msgid "向战场上任意一处发射高能快子束，在延缓全场所有敌军单位的时间计量的同时锁死全体敌方单位的装备并暂且瘫痪敌方的战场控制系统。"
+msgstr ""
+"Fires a high-energy tachyon beam which halts the flow of time, leaving enemy units vulnerable to your forces!\r\n"
+"\r\n"
+"Warning: This may anger a specific vampire somewhere in Egypt."
+
+#. Modified existing RA3 String
+#: NAME:ALLIEDSCIENCELAB
+msgctxt "NAME:ALLIEDSCIENCELAB"
+msgid "\"宙斯\"天气控制器"
+msgstr "Zeus Weather Control Device"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDSCIENCELAB
+msgctxt "TYPE:ALLIEDSCIENCELAB"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDSCIENCELAB
+msgctxt "DESC:ALLIEDSCIENCELAB"
+msgid ""
+"由RS单独研发的大型天气控制装置，据说使用了一些没有交付给盟军理事会的未来科技成果，可以通过向对流层高空区释放水份与电荷在区域内制造零散的大气"
+"放电现象，也可以在一段时间的充能后诱发更为极端的恶劣天气。"
+msgstr ""
+"Large-scale weather control device independently developed by RS and rumoured to be unknown to the Allied War Council. It can create "
+"scattered atmospheric discharges in the area by releasing water and electric charges to the troposphere upper-air area."
+
+#. New in Armor Rush
+#: NAME:LightningStorm
+msgctxt "NAME:LightningStorm"
+msgid "闪电风暴"
+msgstr "Lightning Storm"
+
+#. New in Armor Rush
+#: TYPE:LightningStorm
+msgctxt "TYPE:LightningStorm"
+msgid "终极武器"
+msgstr "Ultimate Weapon"
+
+#. New in Armor Rush
+#: DESC:LightningStorm
+msgctxt "DESC:LightningStorm"
+msgid "在指定地点诱发一次伴随着急速降温的毁灭性闪电风暴，借自然之力摧毁所有遭到波及的单位。"
+msgstr ""
+"Induces a devastating lightning storm accompanied by rapid cooling to obliterate everything in a target area!\r\n"
+"\r\n"
+"'Those who play with the devil's toys will be brought by degrees to wield his sword.'\r\n"
+"    ~ Buckminister Fuller"
+
+#. New in Armor Rush
+#: UPGRADENAME:IceBarracksOptimize
+#, fuzzy
+msgctxt "UPGRADENAME:IceBarracksOptimize"
+msgid "配件整合"
+msgstr ""
+"Accessory integration\n"
+"\n"
+"\n"
+"Accessories integration."
+
+#. New in Armor Rush
+#: UPGRADETYPE:IceBarracksOptimize
+#, fuzzy
+msgctxt "UPGRADETYPE:IceBarracksOptimize"
+msgid "基础强化"
+msgstr ""
+"Foundation strengthening\n"
+"\n"
+"\n"
+"Foundation hardening."
+
+#. New in Armor Rush
+#: DESCRIPTION:IceBarracksOptimize
+#, fuzzy
+msgctxt "DESCRIPTION:IceBarracksOptimize"
+msgid ""
+"将步兵身上的配件进行整合与统一，小幅提升步兵的作战能力，为新型装备升级留下空间。\n"
+"\n"
+">>基础战力提升\n"
+"     涅墨西斯步兵\n"
+"\n"
+"     速度+2.5%，生命值+10%\n"
+"\n"
+"     标枪兵\n"
+"\n"
+"     速度+10%，生命值+20%\n"
+"\n"
+"开始整合>>"
+msgstr ""
+"Integrate and unify the accessories of the infantry to slightly improve the combat capability of the infantry, leaving room for new "
+"equipment upgrades.\n"
+"\n"
+">>Increase basic combat power\n"
+"      Nemesis Infantry\n"
+"\n"
+"      Speed +2.5%, health +10%\n"
+"\n"
+"      Javelinmen\n"
+"\n"
+"      Speed +10%, health +20%\n"
+"\n"
+"Start integration >>\n"
+"\n"
+"\n"
+"Integrate and unify the accessories on the infantry, slightly improve the infantry's combat capability, leaving room for new equipment "
+"upgrades.\n"
+"\n"
+">> the basic combat power is enhanced.\n"
+"     Nemesis Infantry.\n"
+"\n"
+"Speed: 2.5%, life, 10%\n"
+"\n"
+"Jatrooper.\n"
+"\n"
+"Speed: 10%, life value, 20%\n"
+"\n"
+"Start integrating >>."
+
+#. New in Armor Rush
+#: NAME:AlliedHeavyTankForceArmorSpecialPower
+#, fuzzy
+msgctxt "NAME:AlliedHeavyTankForceArmorSpecialPower"
+msgid "启动力场装甲"
+msgstr "Start Force Field Armor"
+
+#. New in Armor Rush
+#: DESC:AlliedHeavyTankForceArmorSpecialPower
+#, fuzzy
+msgctxt "DESC:AlliedHeavyTankForceArmorSpecialPower"
+msgid "暂时启动力场发生器，生成特殊力场增强装甲强度，同时免疫大部分极端环境危害与电磁脉冲。启动期间将被迫关闭主炮和火箭发射器。"
+msgstr ""
+"Temporarily activate the force field generator to generate a special force field to increase the armor strength, while being immune to most "
+"extreme environmental hazards and electromagnetic pulses. During start-up, the main gun and rocket launcher will be forced to shut down.\n"
+"\n"
+"\n"
+"Temporarily activate the force field generator to generate a special force field to enhance armor strength, while immunized against most "
+"extreme environmental hazards and electromagnetic pulses. The main gun and rocket launcher will be forced to shut down during start-up."
+
+#. New in Armor Rush
+#: NAME:ActivateAlliedBaseDefenseIceAntiSubMode
+#, fuzzy
+msgctxt "NAME:ActivateAlliedBaseDefenseIceAntiSubMode"
+msgid "反潜火箭"
+msgstr "Anti-Submarine Rocket"
+
+#. New in Armor Rush
+#: DESC:ActivateAlliedBaseDefenseIceAntiSubMode
+#, fuzzy
+msgctxt "DESC:ActivateAlliedBaseDefenseIceAntiSubMode"
+msgid "将AT47防御塔切换为反潜模式，装填反潜导弹攻击敌方潜艇。此模式下将无法对空。"
+msgstr ""
+"Switch the AT47 defense tower to anti-submarine mode, load anti-submarine missiles to attack enemy submarines. In this mode, it cannot be "
+"airborne.\n"
+"\n"
+"\n"
+"Switch the AT47 defense tower to anti-submarine mode and fill it with anti-submarine missiles to attack enemy submarines. This mode will "
+"not be available to the air."
+
+#. New in Armor Rush
+#: NAME:ActivateAlliedBaseDefenseIceAntiSubModeOff
+#, fuzzy
+msgctxt "NAME:ActivateAlliedBaseDefenseIceAntiSubModeOff"
+msgid "对空导弹"
+msgstr "Anti-Air Missiles"
+
+#. New in Armor Rush
+#: DESC:ActivateAlliedBaseDefenseIceAntiSubModeOff
+#, fuzzy
+msgctxt "DESC:ActivateAlliedBaseDefenseIceAntiSubModeOff"
+msgid "将AT47防御塔切换为对空模式，装填对空导弹攻击敌方飞行器。此模式下将无法反潜。"
+msgstr ""
+"Switch the AT47 defensive tower to air-to-air mode, and load air-to-air missiles to attack enemy aircraft. Anti-passback is not possible in "
+"this mode.\n"
+"\n"
+"\n"
+"Switch the AT47 defense tower to air-to-air mode and fill it with air-to-air missiles to attack enemy aircraft. You will not be able to "
+"dive back in this mode."
+
+#. New in Armor Rush
+#. NOTE: Ability of NEMESIS commando
+#: DESC:TimeBeltIceSpecialPower
+#, fuzzy
+msgctxt "DESC:TimeBeltIceSpecialPower"
+msgid "银鸥的改进型时空腰带能更快把她恢复到片刻之前的状态。"
+msgstr ""
+"Silver Gull's improved time belt can restore her to the state it was a moment ago faster.\n"
+"\n"
+"\n"
+"Silver Gull's improved space-time belt will restore her to her previous state more quickly."
+
+#. New in Armor Rush
+#: DESC:AbilityUnPackAlliedIceMiner
+#, fuzzy
+msgctxt "DESC:AbilityUnPackAlliedIceMiner"
+msgid "开始展开成控制中心，为涅普顿坦克提供指挥信号，并解锁额外建造序列协助基地建设。"
+msgstr ""
+"Begin to expand into a control center, provide command signals for Neptune tanks, and unlock additional construction sequences to assist in "
+"base construction.\n"
+"\n"
+"\n"
+"Start unfolding into a control center to provide command signals for The Upton tank and unlock additional construction sequences to assist "
+"in the construction of the base."

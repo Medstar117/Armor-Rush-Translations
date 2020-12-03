@@ -1,0 +1,1272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  ### Imperial Factions Units ###
+#  ## Infantry ##
+#. New in Armor Rush
+#: NAME:JapanScoutInfantryFleet
+msgctxt "NAME:JapanScoutInfantryFleet"
+msgid "鹤型侦察构装体"
+msgstr "Recon Crane Droid"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANSCOUTINFANTRY
+msgctxt "TYPE:JAPANSCOUTINFANTRY"
+msgid "飞行侦察兵/探测隐形"
+msgstr "Flying Scout / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:JapanScoutInfantryFleet
+msgctxt "DESC:JapanScoutInfantryFleet"
+msgid ""
+"搭载了全方位侦查设备的飞行自律构装体，可以附着载具并骇入减缓其驱动"
+"效率，必要时可以启动自毁程序。"
+msgstr ""
+"Deceptively cute recon robots that can tamper with vehicles and "
+"detect disguised enemies."
+
+#. New in Armor Rush
+#: NAME:AbilityJapanScoutInfantryFleetBomb
+msgctxt "NAME:AbilityJapanScoutInfantryFleetBomb"
+msgid "自毁程序"
+msgstr "Self-Destruct"
+
+#. New in Armor Rush
+#: DESC:AbilityJapanScoutInfantryFleetBomb
+msgctxt "DESC:AbilityJapanScoutInfantryFleetBomb"
+msgid ""
+"启动微型定时炸弹，将侦查构装体化为碎片，或许连它所附着的载具也无法"
+"幸免。"
+msgstr ""
+"Initiates countdown to fiery sacrifice. May cause collateral "
+"damage and grief."
+
+#. New in Armor Rush
+#: NAME:JapanScoutInfantryKamikaze
+msgctxt "NAME:JapanScoutInfantryKamikaze"
+msgid "震荡撕裂者"
+msgstr "Shock Drone"
+
+#. New in Armor Rush
+#: NAME:AbilityJapanKamikazeScoutInfantryBomb
+msgctxt "NAME:AbilityJapanKamikazeScoutInfantryBomb"
+msgid "花火祭礼"
+msgstr "Firework Ritual"
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIINFANTRYINFANTRY
+msgctxt "DESC:JAPANANTIINFANTRYINFANTRY"
+msgid "狂热的步兵军团，使用爆能步枪和光剑作战。"
+msgstr ""
+"The Emperor's fanatical legion fights with blaster rifles and "
+"lightsabers."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIINFANTRYINFANTRY
+msgctxt "TYPE:JAPANANTIINFANTRYINFANTRY"
+msgid "对地/反驻军"
+msgstr "Anti-Infantry / Anti-Garrison"
+
+#. Modified existing RA3 String
+#: DESC:ABILITYANTIINFANTRYINFANTRYBONZAI
+msgctxt "DESC:ABILITYANTIINFANTRYINFANTRYBONZAI"
+msgid ""
+"光束武士刀的能量可以产生加速效果，并能够把步兵和摇摇晃晃的机甲轻易"
+"切成碎片。"
+msgstr ""
+"Powers on a lightsaber that provides a burst of speed and can "
+"slice through infantry and light vehicles."
+
+#. New in Armor Rush
+#: NAME:JapanAntiInfantryInfantryKamikaze
+msgctxt "NAME:JapanAntiInfantryInfantryKamikaze"
+msgid "克隆武士"
+msgstr "Clone Warrior"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiInfantryInfantryKamikaze
+msgctxt "TYPE:JapanAntiInfantryInfantryKamikaze"
+msgid "反载具/反步兵/反驻军/自爆"
+msgstr "Anti-Surface / Anti-Garrison"
+
+#. New in Armor Rush
+#: DESC:JapanAntiInfantryInfantryKamikaze
+msgctxt "DESC:JapanAntiInfantryInfantryKamikaze"
+msgid "狂热的帝国武士克隆体，使用等离子剑作战"
+msgstr ""
+"Kagerou's fanatical clone legion fights with lightsabers. Can self-"
+"destruct on command."
+
+#. New in Armor Rush
+#: NAME:Button_JAII_Gun
+msgctxt "NAME:Button_JAII_Gun"
+msgid "爆能枪"
+msgstr "Blaster Rifle"
+
+#. New in Armor Rush
+#: DESC:Button_JAII_Gun
+msgctxt "DESC:Button_JAII_Gun"
+msgid "使用爆能武器对敌方进行输出"
+msgstr ""
+"Switches to the blaster rifle, which is effective at long range."
+
+#. New in Armor Rush
+#: NAME:Button_JAII_Katana
+msgctxt "NAME:Button_JAII_Katana"
+msgid "万岁冲锋"
+msgstr "Banzai Charge"
+
+#. New in Armor Rush
+#: DESC:Button_JAII_Katana
+msgctxt "DESC:Button_JAII_Katana"
+msgid "使用激光剑，对范围步兵造成伤害"
+msgstr ""
+"Swtiches to using a lightsaber that provides a burst of speed and "
+"can slice through infantry."
+
+#. New in Armor Rush
+#: NAME:JAIIKamikaze
+msgctxt "NAME:JAIIKamikaze"
+msgid "卒子荧光"
+msgstr "Kamikaze"
+
+#. New in Armor Rush
+#: DESC:JAIIKamikaze
+msgctxt "DESC:JAIIKamikaze"
+msgid "boom！"
+msgstr ""
+"Causes the Clone Warrior to immediately self-destruct, dealing "
+"damage to all nearby objects."
+
+#. Modified existing RA3 String
+#: NAME:JAPANANTIVEHICLEINFANTRY
+msgctxt "NAME:JAPANANTIVEHICLEINFANTRY"
+msgid "装甲杀手"
+msgstr "Tankbuster"
+
+#. Modified existing RA3 String
+#: DESC:TOGGLESPIDERHOLEOFF
+msgctxt "DESC:TOGGLESPIDERHOLEOFF"
+msgid "爬出隐蔽坑，继续战斗，重新赢得荣耀。"
+msgstr ""
+"Backs out of the spider hole to resume fighting like a man. Regain "
+"honor when possible."
+
+#. New in Armor Rush
+#: NAME:JapanAntiVehicleInfantryFleet
+msgctxt "NAME:JapanAntiVehicleInfantryFleet"
+msgid "Ion-5破甲人形"
+msgstr "Ion-5 Penetrator"
+
+#. New in Armor Rush
+#: DESC:JapanAntiVehicleInfantryFleet
+msgctxt "DESC:JapanAntiVehicleInfantryFleet"
+msgid ""
+"L.M.D计划中生产的破甲人形，所持等离子炮可以轻易击穿建筑与载具的装"
+"甲。能模仿友军步兵外观。"
+msgstr ""
+"Project L.M.D's steely-cold anti-armor droids are capable of "
+"melting through enemy armor. Can disguise themselves as friendly "
+"infantry."
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIVEHICLEINFANTRYTECH3
+msgctxt "DESC:JAPANANTIVEHICLEINFANTRYTECH3"
+msgid "致命的女武士，身穿喷气动力突击服，装备有光子智能火箭发射架。"
+msgstr ""
+"Deadly women warriors clad in jet-powered assault suits armed with "
+"photon rocket arrays."
+
+#. New in Armor Rush
+#: NAME:JapanAntiVehicleInfantryTech3Fleet
+msgctxt "NAME:JapanAntiVehicleInfantryTech3Fleet"
+msgid "Tap-4空战人形"
+msgstr "Tap-4 Rocketeer"
+
+#. New in Armor Rush
+#: DESC:JapanAntiVehicleInfantryTech3Fleet
+msgctxt "DESC:JapanAntiVehicleInfantryTech3Fleet"
+msgid ""
+"L.M.D计划中生产的空中战斗人形，搭载光子智能导弹与瘫痪鞭。能模仿友军"
+"步兵外观。"
+msgstr ""
+"Project L.M.D's aerial combat droids are equipped with photon "
+"rocket arrays that can engage both ground and air targets, as well "
+"as paralysis whips. Can disguise themselves as friendly infantry."
+
+#. Modified existing RA3 String
+#: DESC:TOGGLELOCKDOWNGUNSPECIALPOWEROFF
+msgctxt "DESC:TOGGLELOCKDOWNGUNSPECIALPOWEROFF"
+msgid "切换到光子火箭发射架，能用智能弹头虐杀目标。"
+msgstr ""
+"Switches to the photon rocket arrays, which overwhelm targets with "
+"countless warheads."
+
+#. New in Armor Rush
+#: NAME:JapanArcherInfantry
+msgctxt "NAME:JapanArcherInfantry"
+msgid "Ata-7弓箭人形"
+msgstr "Ata-7 Archer"
+
+#. New in Armor Rush
+#: TYPE:JapanArcherInfantry
+msgctxt "TYPE:JapanArcherInfantry"
+msgid "反步兵/反轻型载具"
+msgstr "Anti-Infantry / Anti-Aircraft"
+
+#. New in Armor Rush
+#: DESC:JapanArcherInfantry
+msgctxt "DESC:JapanArcherInfantry"
+msgid ""
+"L.M.D计划中生产的弓箭人形，其高能箭矢能提供基本的对地及对空防护。能"
+"模仿友军步兵外观。"
+msgstr ""
+"Project L.M.D's archer droids form the backbone of Tenkei droid "
+"infantry forces, and can attack aerial units. Can disguise "
+"themselves as friendly infantry."
+
+#. New in Armor Rush
+#: NAME:ArcherArrowBarrageSpecialPower
+msgctxt "NAME:ArcherArrowBarrageSpecialPower"
+msgid "诉状箭书"
+msgstr "Barrage Shot"
+
+#. New in Armor Rush, SEE ORIGINAL UPRISING DESCRIPTION
+#: DESC:ArcherArrowBarrageSpecialPower
+#, fuzzy
+msgctxt "DESC:ArcherArrowBarrageSpecialPower"
+msgid ""
+"向天空射出一支散射的高能穿甲箭矢，可穿透轻型装甲防护与驻防建筑，对"
+"指定区域造成范围伤害。"
+msgstr ""
+"Shoots a scattering of high-energy armor-piercing arrows into the "
+"sky, which can penetrate light armored protection and garrisoned "
+"buildings, and cause area damage to designated areas.\n"
+"\n"
+"\n"
+"Shoot a scattered high-energy armor-penetrating arrow into the sky "
+"to penetrate light armored protection and stationing buildings, "
+"causing range damage to designated areas."
+
+#. New in Armor Rush
+#: NAME:JapanCommandoTech1Fleet
+msgctxt "NAME:JapanCommandoTech1Fleet"
+msgid "Omega-13灵能人形"
+msgstr "Omega-13 Psionic Droid"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANCOMMANDOTECH1
+msgctxt "TYPE:JAPANCOMMANDOTECH1"
+msgid "超能力特种兵/探测隐形"
+msgstr "Psionic Commando / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:JapanCommandoTech1Fleet
+msgctxt "DESC:JapanCommandoTech1Fleet"
+msgid ""
+"天琼L.M.D.计划与灵魂模拟工程结合而成的高仿人形，具有与样本同样强大"
+"的破坏性心灵力量。"
+msgstr ""
+"Project L.M.D's deadliest droid product, with psionic powers as "
+"powerful as the original psionic commando."
+
+#. New in Armor Rush
+#: NAME:PsyonicBlastFleetSpecialPower
+msgctxt "NAME:PsyonicBlastFleetSpecialPower"
+msgid "灵能爆发"
+msgstr "Psychokinetic Burst"
+
+#. New in Armor Rush
+#: DESC:PsyonicBlastFleetSpecialPower
+msgctxt "DESC:PsyonicBlastFleetSpecialPower"
+msgid "模拟样本的心灵脉冲爆发能力，粉碎四周敌方士兵的意志与躯体。"
+msgstr ""
+"Blasts incalculable violent psionic energy in all directions, "
+"crushing minds and bodies."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANENGINEER
+msgctxt "TYPE:JAPANENGINEER"
+msgid "战场支援/黑客"
+msgstr "Field Support / Hacker"
+
+#. New in Armor Rush
+#: NAME:JapanEngineerFleet
+msgctxt "NAME:JapanEngineerFleet"
+msgid "C-BO7工程人形"
+msgstr "C-BO7 Engineer"
+
+#. New in Armor Rush
+#: DESC:JapanEngineerFleet
+msgctxt "DESC:JapanEngineerFleet"
+msgid ""
+"L.M.D计划中生产的工程人形，可修理或占领建筑以及骇入防御工事。能模仿"
+"友军步兵外观。"
+msgstr ""
+"Project L.M.D's mechanical engineers can repair friendly "
+"structures or capture buildings. Can disguise themselves as "
+"friendly infantry."
+
+#. Modified existing RA3 String
+#: DESC:ABILITYJAPANENGINEERSPRINT
+msgctxt "DESC:ABILITYJAPANENGINEERSPRINT"
+msgid "让工程师狂奔一段时间，不过他会累"
+msgstr ""
+"Begins running with shameful abandon for a while. Causes fatigue, "
+"ridicule."
+
+#. New in Armor Rush
+#: NAME:AbilityJapanEngineerFleetSprint
+msgctxt "NAME:AbilityJapanEngineerFleetSprint"
+msgid "动力过载"
+msgstr "Turbo Speed"
+
+#. New in Armor Rush
+#: DESC:AbilityJapanEngineerFleetSprint
+msgctxt "DESC:AbilityJapanEngineerFleetSprint"
+msgid ""
+"开启工程人形的动力过载，暂时提升移动速度，但随后会因机体过热造成一"
+"段时间的停转。"
+msgstr ""
+"Overload the engineer's power, granting a short burst of speed. "
+"Causes overheating for a while."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANINFILTRATIONINFANTRY
+msgctxt "TYPE:JAPANINFILTRATIONINFANTRY"
+msgid "反步兵渗透者/探测隐形"
+msgstr "Anti-Infantry Infiltrator / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:JapanInfiltrationInfantryFleet
+msgctxt "NAME:JapanInfiltrationInfantryFleet"
+msgid "YoRa-9特战人形"
+msgstr "YoRa-9 Combat Droid"
+
+#. New in Armor Rush
+#: TYPE:JapanInfiltrationInfantryFleet
+msgctxt "TYPE:JapanInfiltrationInfantryFleet"
+msgid "先进反装甲/战场支援/探测隐形"
+msgstr "Advanced Anti-Armor / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:JapanInfiltrationInfantryFleet
+msgctxt "DESC:JapanInfiltrationInfantryFleet"
+msgid ""
+"L.M.D计划中生产的特种战斗人形，使用高科技武器进行传统式的攻击。能模"
+"仿友军步兵外观。"
+msgstr ""
+"Project L.M.D's special combat droids make effective use of high-"
+"tech variants of archaic weaponry against enemy armor. Can "
+"disguise themselves as friendly infantry."
+
+#. New in Armor Rush
+#: NAME:Blink
+msgctxt "NAME:Blink"
+msgid "纳米重组"
+msgstr "Nano-Recombination"
+
+#. New in Armor Rush
+#: DESC:Blink
+msgctxt "DESC:Blink"
+msgid ""
+"命令构成该特战人形的LMD智能粒子解构，并高速移动至指定位置后重组成当"
+"前的特战人形。"
+msgstr ""
+"Orders the droid to disassemble itself into nanomachines which "
+"quickly reassemble at the target location."
+
+# ## Non Infantry ##
+#. New in Armor Rush
+#: NAME:JapanAntiInfantryVehicleKamikaze_ground
+msgctxt "NAME:JapanAntiInfantryVehicleKamikaze_ground"
+msgid "天狗特攻机"
+msgstr "Mecha Kamikaze-Tengu"
+
+#. New in Armor Rush
+#: NAME:JapanMinerFleet
+msgctxt "NAME:JapanMinerFleet"
+msgid "MALL-E资源采集机"
+msgstr "MALL-E Collector"
+
+#. New in Armor Rush
+#: DESC:JapanMinerFleet
+msgctxt "DESC:JapanMinerFleet"
+msgid ""
+"负责资源采集的制式两栖自律构装体，附带了一套自卫用高射速机枪系统。"
+msgstr ""
+"The Tenkei's resource vehicle conceals a rapid-fire threat "
+"deterrent system."
+
+#. Modified existing RA3 String
+#: DESC:JAPANOREMINERDEPLOYWEAPONOFF
+msgctxt "DESC:JAPANOREMINERDEPLOYWEAPONOFF"
+msgid "收起武器，回归采矿工作。"
+msgstr ""
+"Packs up the heavy machine guns to resume ore-collecting duties."
+
+#. New in Armor Rush
+#: NAME:JapanOreMinerDeployWeaponFleet
+msgctxt "NAME:JapanOreMinerDeployWeaponFleet"
+msgid "机枪模式"
+msgstr "Security Mode"
+
+#. New in Armor Rush
+#: DESC:JapanOreMinerDeployWeaponFleet
+msgctxt "DESC:JapanOreMinerDeployWeaponFleet"
+msgid "翻转货舱，启用机枪武器系统快速压制步兵及轻装甲单位。"
+msgstr ""
+"Flips the cargo hold to reveal an anti-personnel weapon that can "
+"repel enemy forces."
+
+#. New in Armor Rush
+#: NAME:JapanOreMinerDeployWeaponFleetOff
+msgctxt "NAME:JapanOreMinerDeployWeaponFleetOff"
+msgid "载货模式"
+msgstr "Cargo Mode"
+
+#. New in Armor Rush
+#: DESC:JapanOreMinerDeployWeaponFleetOff
+msgctxt "DESC:JapanOreMinerDeployWeaponFleetOff"
+msgid "收起武器，再次投入到繁忙的资源收集任务中。"
+msgstr "Packs up the heavy blasters to resume ore-collecting duties."
+
+#. New in Armor Rush
+#: NAME:JapanLightTransportVehicleFleet
+msgctxt "NAME:JapanLightTransportVehicleFleet"
+msgid "R2-T2潜航辅助机"
+msgstr "R2-T2 Submarine Transport"
+
+#. New in Armor Rush
+#: DESC:JapanLightTransportVehicleFleet
+msgctxt "DESC:JapanLightTransportVehicleFleet"
+msgid ""
+"负责辅助作战人形快速穿梭战场的两栖自律构装体，潜航时可以避开战场指"
+"挥系统的浅海雷达扫描。"
+msgstr ""
+"Submersible transports which can carry troops underwater to avoid "
+"enemy radar detection."
+
+#. New in Armor Rush
+#: NAME:AbilityDisguisedEvacuateFleet
+msgctxt "NAME:AbilityDisguisedEvacuateFleet"
+msgid "卸载单位"
+msgstr "Evacuate Passengers"
+
+#. New in Armor Rush
+#: DESC:AbilityDisguisedEvacuateFleet
+msgctxt "DESC:AbilityDisguisedEvacuateFleet"
+msgid "依照既定程序卸载舱内的作战单位，该程序只能在陆地上执行。"
+msgstr "Unloads any infantry inside. Cannot be used in water."
+
+#. New in Armor Rush
+#: DESC:KamikazeTenguAttackSpecialPower
+msgctxt "DESC:KamikazeTenguAttackSpecialPower"
+msgid ""
+"撞击！开启战机自毁模块并急速撞向目标，每个天狗战机只能使用一次"
+msgstr ""
+"Commands the Tengu to boost into a specified target and crash "
+"violently into it. One use per Tengu."
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIVEHICLEVEHICLETECH1
+msgctxt "DESC:JAPANANTIVEHICLEVEHICLETECH1"
+msgid "帝国极富侵略性的主战坦克，在水里也能行动自如。"
+msgstr ""
+"Aggressive mainline tanks of the Japanese Empire, capable of "
+"traversing sea as well as land."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIVEHICLEVEHICLETECH1
+msgctxt "TYPE:JAPANANTIVEHICLEVEHICLETECH1"
+msgid "反坦克/反船舰"
+msgstr "Anti-Armor Tank"
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIVEHICLEVEHICLETECH1ENERGIZEDARMOR
+msgctxt "DESC:JAPANANTIVEHICLEVEHICLETECH1ENERGIZEDARMOR"
+msgid "展开纳米偏导罩，关闭主炮，增强防御力。"
+msgstr ""
+"Boosts defensive strength by temporarily diverting nanomachines "
+"from the main gun."
+
+#. New in Armor Rush
+#: NAME:JapanAntiVehicleVehicleTech1Kamikaze
+msgctxt "NAME:JapanAntiVehicleVehicleTech1Kamikaze"
+msgid "潮音坦克"
+msgstr "Shionoto"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiVehicleVehicleTech1Kamikaze
+msgctxt "TYPE:JapanAntiVehicleVehicleTech1Kamikaze"
+msgid "反步兵"
+msgstr "Anti-Armor Tank"
+
+#. New in Armor Rush
+#: DESC:JapanAntiVehicleVehicleTech1Kamikaze
+msgctxt "DESC:JapanAntiVehicleVehicleTech1Kamikaze"
+msgid "阳炎辅助型坦克，在水里也能行动自如。"
+msgstr ""
+"Aggressive mainline tanks of the Kagerou. capable of traversing "
+"sea as well as land. Fires burst shots."
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirVehicleTech1Kamikaze
+msgctxt "NAME:JapanAntiAirVehicleTech1Kamikaze"
+msgid "AX打击者/AX悲叹者"
+msgstr "Striker-AX / Lamenter-AX"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiAirVehicleTechKamikaze
+msgctxt "TYPE:JapanAntiAirVehicleTechKamikaze"
+msgid "防空/反装甲机甲"
+msgstr "Anti-Air Robot"
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirVehicleKamikaze_siege
+msgctxt "NAME:JapanAntiAirVehicleKamikaze_siege"
+msgid "AX悲叹者"
+msgstr "Lamenter-AX"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiAirVehicleKamikaze_siege
+msgctxt "TYPE:JapanAntiAirVehicleKamikaze_siege"
+msgid "反装甲机甲"
+msgstr "Light Bombardment"
+
+#. New in Armor Rush
+#: DESC:JapanAntiAirVehicleKamikaze_siege
+msgctxt "DESC:JapanAntiAirVehicleKamikaze_siege"
+msgid "“神之鼻息”武器平台，可以大范围轰炸敌方目标。"
+msgstr ""
+"Weapon platforms equipped with God's Breath devices which can tear "
+"through enemy forces from a distance."
+
+#. New in Armor Rush
+#: DESC:JapanAntiAirVehicleTech1Kamikaze
+msgctxt "DESC:JapanAntiAirVehicleTech1Kamikaze"
+msgid ""
+"多功能人工战斗机甲，既可以击退飞行的敌人，也可以用高能激光瓦解敌方"
+"的地面防御。"
+msgstr ""
+"Versatile pilot-assisted robots that can repel aerial foes or "
+"disrupt ground enemies with high-energy lasers."
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirVehicleKamikaze_ground
+msgctxt "NAME:JapanAntiAirVehicleKamikaze_ground"
+msgid "AX打击者"
+msgstr "Striker-AX"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiAirVehicleKamikaze_ground
+msgctxt "TYPE:JapanAntiAirVehicleKamikaze_ground"
+msgid "防空机甲"
+msgstr "Anti-Air Robot"
+
+#. New in Armor Rush
+#: NAME:ButtonJAAVT1K_Transform
+msgctxt "NAME:ButtonJAAVT1K_Transform"
+msgid "落尘悲叹"
+msgstr "Lamenter Mode"
+
+#. New in Armor Rush
+#: DESC:ButtonJAAVT1K_Transform
+msgctxt "DESC:ButtonJAAVT1K_Transform"
+msgid "原地固定机甲并激活“神之鼻息”，用高能激光瓦解敌方的地面防御。"
+msgstr ""
+"Fix the AX in place and activate the God's Breath device in the "
+"Lamenter-AX configuration, using high-energy lasers to destroy "
+"surface targets."
+
+#. New in Armor Rush
+#: NAME:ButtonJAAVT1K_TransformOff
+msgctxt "NAME:ButtonJAAVT1K_TransformOff"
+msgid "追燕打击"
+msgstr "Striker Mode"
+
+#. New in Armor Rush
+#: DESC:ButtonJAAVT1K_TransformOff
+msgctxt "DESC:ButtonJAAVT1K_TransformOff"
+msgid ""
+"解除机甲固定并切换为高精度防空模式，使用通用型防空激光融化敌机。"
+msgstr ""
+"Unlocks the AX's leg mechanisms and switches back to rocket arrays "
+"to take on aerial threats in the anti-air Striker-AX configuration."
+
+#. Modified existing RA3 String
+#: NAME:JAPANANTIAIRVEHICLETECH1
+msgctxt "NAME:JAPANANTIAIRVEHICLETECH1"
+msgid "VX打击者/VX斩切者"
+msgstr "Striker-VX / Chopper-VX"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIAIRVEHICLETECH1
+msgctxt "TYPE:JAPANANTIAIRVEHICLETECH1"
+msgid "防空/反装甲机甲"
+msgstr "Anti-Air / Anti-Surface"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIAIRVEHICLE_GROUND
+msgctxt "TYPE:JAPANANTIAIRVEHICLE_GROUND"
+msgid "防空机甲"
+msgstr "Anti-Air Robot"
+
+#. Modified existing RA3 String
+#: NAME:JAPANANTIAIRVEHICLE_AIR
+msgctxt "NAME:JAPANANTIAIRVEHICLE_AIR"
+msgid "VX斩切者"
+msgstr "Chopper-VX"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIAIRVEHICLE_AIR
+msgctxt "TYPE:JAPANANTIAIRVEHICLE_AIR"
+msgid "反装甲直升机/探测隐形"
+msgstr "Anti-Armor Aircraft / Detects Stealth"
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIAIRVEHICLE_AIR
+msgctxt "DESC:JAPANANTIAIRVEHICLE_AIR"
+msgid "能量脉冲直升机，可以蹂躏大多数地面目标。"
+msgstr ""
+"Laser-blasting helicopters that can lay waste to most anything on "
+"the ground."
+
+#. Modified existing RA3 String
+#: NAME:JAPANANTISTRUCTUREVEHICLE
+msgctxt "NAME:JAPANANTISTRUCTUREVEHICLE"
+msgid "波动轨道炮"
+msgstr "Railgun Artillery"
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTISTRUCTUREVEHICLE
+msgctxt "DESC:JAPANANTISTRUCTUREVEHICLE"
+msgid ""
+"移动攻城单位，可以引导难以置信的巨大能量轨道炮来进行远程攻击。"
+msgstr ""
+"Mobile siege units that concentrate staggering amounts of energy "
+"into firing long-ranged, high-velocity slugs."
+
+#. New in Armor Rush
+#: "NAME:RailGunToggleRangeA"
+#, fuzzy
+msgctxt "NAME:RailGunToggleRangeA"
+msgid "切换到速射模式"
+msgstr "Switch to Rapid-Fire Mode"
+
+#. New in Armor Rush
+#. NOTE: Should be Imperial Railgun artillery
+#: DESC:RailGunToggleRangeA
+#, fuzzy
+msgctxt "DESC:RailGunToggleRangeA"
+msgid ""
+"目前射程：100-2500\n"
+"充能率120%，伤害60%\n"
+"\n"
+"切换射程：100-700\n"
+"充能率50%，伤害60%"
+msgstr ""
+"Current range: 100-2500\n"
+"Charge rate 120%, damage 60%\n"
+"\n"
+"Switching range: 100-700\n"
+"Charge rate 50%, damage 60%\n"
+"\n"
+"\n"
+"Current range: 100-2500.\n"
+"120% charge rate, 60% damage\n"
+"\n"
+"Switch range: 100-700.\n"
+"50% charge rate, 60% damage"
+
+#. New in Armor Rush
+#. NOTE: Obsolete
+#: DESC:RailGunToggleRangeB
+msgctxt "DESC:RailGunToggleRangeB"
+msgid ""
+"(已废用)\n"
+"\n"
+"目前射程：100-700\n"
+"无散布，伤害增加30%\n"
+"\n"
+"切换射程：100-1100\n"
+"无散布，伤害增加15%"
+msgstr ""
+"(Deprecated)\n"
+"\n"
+"Current range: 100-700\n"
+"No spread, 130% damage\n"
+"\n"
+"Toggle range: 100-1100\n"
+"No spread, 115% damage"
+
+#. New in Armor Rush
+#: "NAME:RailGunToggleRangeC"
+#, fuzzy
+msgctxt "NAME:RailGunToggleRangeC"
+msgid "切换到常规模式"
+msgstr "Switch to Regular Mode"
+
+#. New in Armor Rush
+#. NOTE: Should be Imperial Railgun artillery
+#: DESC:RailGunToggleRangeC
+#, fuzzy
+msgctxt "DESC:RailGunToggleRangeC"
+msgid ""
+"目前射程：100-700\n"
+"充能率50%，伤害60%\n"
+"\n"
+"切换射程：100-1500\n"
+"充能率100%，伤害100%"
+msgstr ""
+"Current range: 100-700\n"
+"Charge rate 50%, damage 60%\n"
+"\n"
+"Switching range: 100-1500\n"
+"Charge rate 100%, damage 100%\n"
+"\n"
+"\n"
+"Current range: 100-700.\n"
+"50% charge rate, 60% damage\n"
+"\n"
+"Switch range: 100-1500.\n"
+"100% charge rate, 100% damage"
+
+#. New in Armor Rush
+#: "NAME:RailGunToggleRangeD"
+#, fuzzy
+msgctxt "NAME:RailGunToggleRangeD"
+msgid "切换到超载模式"
+msgstr "Switch to Overload Mode"
+
+#. New in Armor Rush
+#. NOTE: Should be Imperial Railgun artillery
+#: DESC:RailGunToggleRangeD
+#, fuzzy
+msgctxt "DESC:RailGunToggleRangeD"
+msgid ""
+"目前射程：100-1500\n"
+"充能率100%，伤害100%\n"
+"\n"
+"切换射程：100-2500\n"
+"充能率120%，伤害60%"
+msgstr ""
+"Current range: 100-1500\n"
+"Charge rate 100%, damage 100%\n"
+"\n"
+"Switching range: 100-2500\n"
+"Charge rate 120%, damage 60%\n"
+"\n"
+"\n"
+"Current range: 100-1500.\n"
+"100% charge rate, 100% damage\n"
+"\n"
+"Switch range: 100-2500.\n"
+"120% charge rate, 60% damage"
+
+#. New in Armor Rush
+#: NAME:JapanTransportVehicle2
+msgctxt "NAME:JapanTransportVehicle2"
+msgid "大型迅雷载具"
+msgstr "Class-L Sudden Transport"
+
+#. New in Armor Rush
+#: TYPE:JapanTransportVehicle2
+msgctxt "TYPE:JapanTransportVehicle2"
+msgid "神秘物品运输"
+msgstr "Mystery Gift Transport"
+
+#. New in Armor Rush
+#: DESC:JapanTransportVehicle2
+msgctxt "DESC:JapanTransportVehicle2"
+msgid "改装后的迅雷运输载具，装着让人意想不到的货物"
+msgstr ""
+"Heavily modified Sudden Transports which carry dangerously "
+"explosive gifts in place of infantry."
+
+#. New in Armor Rush
+#: NAME:KamikazeNuke
+msgctxt "NAME:KamikazeNuke"
+msgid "炉心融解"
+msgstr "Meltdown"
+
+#. New in Armor Rush
+#: DESC:KamikazeNuke
+msgctxt "DESC:KamikazeNuke"
+msgid "将神秘货物熔毁，快躲起来！"
+msgstr ""
+"Detonate the explosives packed in this vehicle. Make sure to run!"
+
+#. New in Armor Rush
+#: NAME:JapanSentinelVehicle
+msgctxt "NAME:JapanSentinelVehicle"
+msgid "影武浪人"
+msgstr "Shadow Ronin"
+
+#. New in Armor Rush
+#: TYPE:JapanSentinelVehicle
+msgctxt "TYPE:JapanSentinelVehicle"
+msgid "特种兵/探测隐形"
+msgstr "Robot Commando / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:JapanSentinelVehicle
+msgctxt "DESC:JapanSentinelVehicle"
+msgid ""
+"影武浪人汇聚阳炎最高科技于一身，使用能量刀攻击敌人，并载有影武分身"
+"装置。"
+msgstr ""
+"A product of the Kagerou's finest technology, the Shadow Ronin use "
+"their energy glaives to cut through enemy divisions. Only one can "
+"be deployed on the battlefield at a time."
+
+#. New in Armor Rush
+#: NAME:LaserGlaiveBlastSpecialPower
+msgctxt "NAME:LaserGlaiveBlastSpecialPower"
+msgid "影武分身装置"
+msgstr "Shadow Avatars"
+
+#. New in Armor Rush
+#: DESC:LaserGlaiveBlastSpecialPower
+msgctxt "DESC:LaserGlaiveBlastSpecialPower"
+msgid ""
+"阳炎科技的精华，影武装置能给影武浪人创造两个短时间的分身，战斗力极"
+"强，此装置需要时间充能。"
+msgstr ""
+"Creates two shadow avatars of the Shadow Ronin, which draw enemy "
+"fire and fight for you for a short time period."
+
+#. Modified existing RA3 String
+#: DESC:JAPANNAVYSCOUTSHIP
+msgctxt "DESC:JAPANNAVYSCOUTSHIP"
+msgid "装备细小鱼雷的紧凑型潜艇，无需上浮就能展开攻击。"
+msgstr ""
+"Compact submersibles armed with tiny torpedoes. Invisible to radar."
+
+#. New in Armor Rush
+#: NAME:JapanNavyScoutShipFleet
+msgctxt "NAME:JapanNavyScoutShipFleet"
+msgid "伊型迷你潜艇"
+msgstr "I-Class Mini-Sub"
+
+#. New in Armor Rush
+#: NAME:KamikazeAttackFleetSpecialPower
+msgctxt "NAME:KamikazeAttackFleetSpecialPower"
+msgid "Q.E.D."
+msgstr "Divine Wind"
+
+#. New in Armor Rush
+#: DESC:KamikazeAttackFleetSpecialPower
+msgctxt "DESC:KamikazeAttackFleetSpecialPower"
+msgid ""
+"命令潜艇加速撞击指定目标，并在成功接触目标的瞬间启动自毁程序。"
+msgstr ""
+"Commands the Mini-Sub to accelerate into a specified target and "
+"destroy it. One use per Mini-Sub."
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIAIRSHIP
+msgctxt "DESC:JAPANANTIAIRSHIP"
+msgid "鬼祟的防空船只，在敌人的雷达上不可见，发射导弹也不会上浮。"
+msgstr ""
+"Elusive anti-air vessels invisible to enemy radar until they "
+"strike from underwater, or surface to fly."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIAIRSHIP
+msgctxt "TYPE:JAPANANTIAIRSHIP"
+msgid "防空潜艇/反载具战机"
+msgstr "Anti-Air Submarine"
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIAIRSHIP_AIR
+msgctxt "TYPE:JAPANANTIAIRSHIP_AIR"
+msgid "反载具战机"
+msgstr "Anti-Infantry Aircraft"
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirShipFleet_sea
+msgctxt "NAME:JapanAntiAirShipFleet_sea"
+msgid "U511"
+msgstr "U511"
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirShipFleet_air
+msgctxt "NAME:JapanAntiAirShipFleet_air"
+msgid "吕500"
+msgstr "LU500"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiAirShipFleet_air
+msgctxt "TYPE:JapanAntiAirShipFleet_air"
+msgid "轻型反装甲坦克"
+msgstr "Anti-Armor Repulsorcraft"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiAirShipFleet
+msgctxt "TYPE:JapanAntiAirShipFleet"
+msgid "防空潜艇/反装甲"
+msgstr "Anti-Air Submarine"
+
+#. New in Armor Rush
+#: DESC:JapanAntiAirShipFleet_air
+msgctxt "DESC:JapanAntiAirShipFleet_air"
+msgid "悬浮的吕511可以在重返水下之前与敌人装甲部队战斗。"
+msgstr ""
+"The LU500 repulsorcraft is capable of maiming enemy armored forces "
+"before retreating to safe waters."
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirShipFleetTransform
+msgctxt "NAME:JapanAntiAirShipFleetTransform"
+msgid "悬浮形态"
+msgstr "Levitation Emergence"
+
+#. New in Armor Rush
+#: DESC:JapanAntiAirShipFleetTransform
+msgctxt "DESC:JapanAntiAirShipFleetTransform"
+msgid "转变为悬浮形态，能够提供中距离地对地支援。"
+msgstr ""
+"Switches to the levitating LU500 form, which provides medium range "
+"anti-ground support."
+
+#. New in Armor Rush
+#: NAME:JapanAntiAirShipFleetTransformOff
+msgctxt "NAME:JapanAntiAirShipFleetTransformOff"
+msgid "水下形态"
+msgstr "Sea Submerge"
+
+#. New in Armor Rush
+#: DESC:JapanAntiAirShipFleetTransformOff
+msgctxt "DESC:JapanAntiAirShipFleetTransformOff"
+msgid "转变为潜艇形态，去给飞机添堵吧。"
+msgstr ""
+"Switches to submersible configuration to make aircraft feel most "
+"disagreeable."
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIAIRSHIPTRANSFORM
+msgctxt "DESC:JAPANANTIAIRSHIPTRANSFORM"
+msgid "转变为飞行形态，能够提供空中近距离对地支援。"
+msgstr ""
+"Switches to the flying Sky-Wing form, which provides anti-"
+"personnel close air support."
+
+#. Modified existing RA3 String
+#: DESC:JAPANANTIVEHICLESHIP
+msgctxt "DESC:JAPANANTIVEHICLESHIP"
+msgid ""
+"装有众多炮塔和鱼雷管，可以兼顾反潜扫海与陆地支援多方面的大型巡洋"
+"舰。"
+msgstr ""
+"Specialized ship-hunters bristling with turrets and torpedo tubes "
+"that can launch along several vectors."
+
+#. Modified existing RA3 String
+#: TYPE:JAPANANTIVEHICLESHIP
+msgctxt "TYPE:JAPANANTIVEHICLESHIP"
+msgid "高级反舰/探测隐形"
+msgstr "Advanced Anti-Armor / Detects Stealth"
+
+#. Modified existing RA3 String
+#: NAME:TORPEDOSPREADSPECIALPOWER
+msgctxt "NAME:TORPEDOSPREADSPECIALPOWER"
+msgid "93式鱼雷齐射"
+msgstr "Type-93 Torpedo Salvo"
+
+#. New in Armor Rush
+#: NAME:JapanAntiVehicleShipFleet
+msgctxt "NAME:JapanAntiVehicleShipFleet"
+msgid "高雄巡洋舰"
+msgstr "Takao Cruiser"
+
+#. New in Armor Rush
+#: DESC:JapanAntiVehicleShipFleet
+msgctxt "DESC:JapanAntiVehicleShipFleet"
+msgid ""
+"可以兼顾反潜反舰与近岸支援等方面的大型舰艇，必要时可牺牲火炮模块以"
+"提供强大的对空火力。"
+msgstr ""
+"Anti-surface, anti-submarine cruisers that excel against other "
+"naval targets. Can be modified to take on anti-aircraft roles "
+"instead."
+
+#. New in Armor Rush
+#: NAME:AASkill
+msgctxt "NAME:AASkill"
+msgid "防御型防空火力"
+msgstr "Intensify AA Power"
+
+#. New in Armor Rush
+#: DESC:AASkill
+msgctxt "DESC:AASkill"
+msgid ""
+"开启防御型防空火力，加强大口径防空炮的伤害并降低敌方飞行器的攻击精"
+"准度。"
+msgstr ""
+"Increases defensive AA firepower for a short period of time, "
+"increasing the damage of the Takao's AA guns and reducing the "
+"accuracy of nearby enemy aircraft."
+
+#. New in Armor Rush
+#: NAME:JapanAntiStructureShipFleet
+msgctxt "NAME:JapanAntiStructureShipFleet"
+msgid "大和级战列舰"
+msgstr "Yamato Battleship"
+
+#. New in Armor Rush
+#: TYPE:JapanAntiStructureShipFleet
+msgctxt "TYPE:JapanAntiStructureShipFleet"
+msgid "重型炮击舰"
+msgstr "Heavy Bombardment Ship"
+
+#. New in Armor Rush
+#: DESC:JapanAntiStructureShipFleet
+msgctxt "DESC:JapanAntiStructureShipFleet"
+msgid ""
+"大舰巨炮战略的杰出代表，搭载了九门主炮及新式密集阵的巨型战列舰，在"
+"强大演算力的协助下能够超视距打击目标。"
+msgstr ""
+"Exemplifying \"Bigger is Better\" to the greatest extent, the "
+"Yamato's nine main battery guns will completely obliterate distant "
+"targets from a safe distance."
+
+#. New in Armor Rush
+#: NAME:YamatoRepair
+msgctxt "NAME:YamatoRepair"
+msgid "维修小组"
+msgstr "Emergency Repair"
+
+#. New in Armor Rush
+#: DESC:YamatoRepair
+msgctxt "DESC:YamatoRepair"
+msgid "启动紧急维修小组，修复战舰受到的轻型损伤，继续收割敌人！"
+msgstr ""
+"Scrambles the Yamato's repair crews to quickly repair damage for a "
+"short period of time."
+
+#. New in Armor Rush
+#: NAME:JapanTaihoFleet
+msgctxt "NAME:JapanTaihoFleet"
+msgid "大凤级装甲航母"
+msgstr "Taiho Carrier"
+
+#. New in Armor Rush
+#: TYPE:JapanTaihoFleet
+msgctxt "TYPE:JapanTaihoFleet"
+msgid "航空母舰"
+msgstr "Heavy Bombardment / Air Support"
+
+#. New in Armor Rush
+#: DESC:JapanTaihoFleet
+msgctxt "DESC:JapanTaihoFleet"
+msgid ""
+"海空一体战略的最终成果，以多样化无人舰载机为主要武装的海上霸主，可"
+"释放最新式的侦察机进行大范围雷达扫描。"
+msgstr ""
+"The final result of air-sea combined arms strategy, Taiho carriers "
+"are armed with a diverse selection of carrier-based drones which "
+"can bombard ground targets or engage in air-to-air combat."
+
+#. New in Armor Rush
+#: NAME:TaihoAttackDroneBomb
+msgctxt "NAME:TaihoAttackDroneBomb"
+msgid "流星"
+msgstr "Meteor Drone"
+
+#. New in Armor Rush
+#: DESC:TaihoAttackDroneBomb
+msgctxt "DESC:TaihoAttackDroneBomb"
+msgid "天琼改造组装的无人机，和烈风一起作为舰载机装备在航母上。"
+msgstr ""
+"Light and fast carrier-based drones armed with guided bombs for "
+"use against ground targets."
+
+#. New in Armor Rush
+#: NAME:TaihoAttackDroneFighter
+msgctxt "NAME:TaihoAttackDroneFighter"
+msgid "烈风"
+msgstr "Sunburst Drone"
+
+#. New in Armor Rush
+#: DESC:TaihoAttackDroneFighter
+msgctxt "DESC:TaihoAttackDroneFighter"
+msgid "天琼改造组装的无人机，和流星一起作为舰载机装备在航母上。"
+msgstr ""
+"Light and fast carrier-based drones armed with autocannons for use "
+"against enemy aircraft."
+
+#. New in Armor Rush
+#: NAME:ScoutSkill
+msgctxt "NAME:ScoutSkill"
+msgid "索敌"
+msgstr "Scout Drone"
+
+#. New in Armor Rush
+#: DESC:ScoutSkill
+msgctxt "DESC:ScoutSkill"
+msgid ""
+"放出侦察机，他们可以看到极远的距离，但很脆弱，准备时间也比较长。"
+msgstr ""
+"Deploys a light reconnaissance drone which greatly extends the "
+"vision range of the Taiho for a period of time."
+
+#. New in Armor Rush
+#: NAME:JapanFortressShip
+msgctxt "NAME:JapanFortressShip"
+msgid "UNKNOWN #2"
+msgstr "Unknown Naval Fortress"
+
+#. New in Armor Rush
+#: TYPE:JapanFortressShip
+msgctxt "TYPE:JapanFortressShip"
+msgid "？？？/？？？"
+msgstr "Unknown Type"
+
+#. New in Armor Rush
+#: DESC:JapanFortressShip
+msgctxt "DESC:JapanFortressShip"
+msgid "我们无法获知该单位的具体信息"
+msgstr ""
+"The weapons and devices on this mysterious naval fortress cannot "
+"be identified by scanners."
+
+#. New in Armor Rush
+#: NAME:JapanFortressShip_Air
+msgctxt "NAME:JapanFortressShip_Air"
+msgid "UNKNOWN #2"
+msgstr "Unknown Flying War Machine"
+
+#. New in Armor Rush
+#: TYPE:JapanFortressShip_Air
+msgctxt "TYPE:JapanFortressShip_Air"
+msgid "？？？/？？？"
+msgstr "Unknown Type"
+
+#. New in Armor Rush
+#: DESC:JapanFortressShip_Air
+msgctxt "DESC:JapanFortressShip_Air"
+msgid "我们无法获知该单位的具体信息"
+msgstr ""
+"The weapons and devices on this mysterious flying war machine "
+"cannot be identified by scanners."
+
+#. New in Armor Rush
+#: NAME:TenkeiAntiGroundAircraft
+msgctxt "NAME:TenkeiAntiGroundAircraft"
+msgid "U翼对地攻击机"
+msgstr "U-Wing Attack Aircraft"
+
+#. New in Armor Rush
+#: TYPE:TenkeiAntiGroundAircraft
+msgctxt "TYPE:TenkeiAntiGroundAircraft"
+msgid "反装甲/探测隐形"
+msgstr "Anti-Surface / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:TenkeiAntiGroundAircraft
+msgctxt "DESC:TenkeiAntiGroundAircraft"
+msgid ""
+"天琼生产的一种持续火力支援对地攻击机，使用一架致命的机炮和离子鱼雷"
+"瓦解敌方装甲单位的防御。"
+msgstr ""
+"Tenkei ground support aircraft, armed with deadly autocannons and "
+"ion torpedos which effectively annihilate enemy armor."
+
+#. New in Armor Rush
+#: NAME:TriggerIonTorp
+msgctxt "NAME:TriggerIonTorp"
+msgid "离子鱼雷"
+msgstr "Ion Torpedo"
+
+#. New in Armor Rush
+#: DESC:TriggerIonTorp
+msgctxt "DESC:TriggerIonTorp"
+msgid "发射一枚危险的离子鱼雷。高能爆炸将摧毁范围内的物体。"
+msgstr ""
+"Fires a destructive ion torpedo, causing severe damage to "
+"everything in the target area."
+
+#. New in Armor Rush
+#: NAME:TenkeiFighterAircraft
+msgctxt "NAME:TenkeiFighterAircraft"
+msgid "A翼战斗机"
+msgstr "A-Wing Fighter"
+
+#. New in Armor Rush
+#: TYPE:TenkeiFighterAircraft
+msgctxt "TYPE:TenkeiFighterAircraft"
+msgid "制空战机"
+msgstr "Anti-Air Aircraft"
+
+#. New in Armor Rush
+#: DESC:TenkeiFighterAircraft
+msgctxt "DESC:TenkeiFighterAircraft"
+msgid ""
+"天琼致命的制空战机，使用高射速的爆能炮摧毁敌方空军单位。尾部的喷射"
+"引擎后燃器可以提供短时加速。"
+msgstr ""
+"Tenkei's deadly air-defense fighters can easily bring down enemy "
+"aircraft with their laser cannons."
+
+#. New in Armor Rush
+#: NAME:TenkeiFighterAircraftSpeedUp
+msgctxt "NAME:TenkeiFighterAircraftSpeedUp"
+msgid "高速巡航"
+msgstr "Activate Afterburners"
+
+#. New in Armor Rush
+#: DESC:TenkeiFighterAircraftSpeedUp
+msgctxt "DESC:TenkeiFighterAircraftSpeedUp"
+msgid "启动喷射引擎后燃器，暂时达到更高速度。"
+msgstr "Provides a temporary burst of speed for the A-Wing."
+
+#. New in Armor Rush
+#: NAME:JapanInfiltrationZombie
+#, fuzzy
+msgctxt "NAME:JapanInfiltrationZombie"
+msgid "受感染的忍者"
+msgstr "Infected Ninja"
+
+#. New in Armor Rush
+#: NAME:JapanEngineerZombie
+#, fuzzy
+msgctxt "NAME:JapanEngineerZombie"
+msgid "受感染的工程师"
+msgstr "Infected Engineer"
+
+#. New in Armor Rush
+#: NAME:JapanAntiInfantryZombie
+#, fuzzy
+msgctxt "NAME:JapanAntiInfantryZombie"
+msgid "受感染的武士"
+msgstr "Infected Samurai"
+
+#. New in Armor Rush
+#: NAME:JapanTransportShip
+#, fuzzy
+msgctxt "NAME:JapanTransportShip"
+msgid "勾玉运输船"
+msgstr ""
+"Gouyu transport ship\n"
+"\n"
+"\n"
+"Hook jade transport ship."
+
+#. New in Armor Rush
+#: TYPE:JapanTransportShip
+#, fuzzy
+msgctxt "TYPE:JapanTransportShip"
+msgid "单位运输"
+msgstr "Unit Transport"

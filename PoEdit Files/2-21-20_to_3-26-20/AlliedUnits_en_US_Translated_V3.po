@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#  Allied Factions Units
+# ## Infantry ##
+#. Modified existing RA3 String
+#: TYPE:ALLIEDSCOUTINFANTRY
+msgctxt "TYPE:ALLIEDSCOUTINFANTRY"
+msgid "反步兵侦察兵/探测隐形"
+msgstr "Anti-Infantry Scout / Detects Stealth"
+
+#. Modified existing RA3 String
+#: DESC:RADARLOCKSPECIALPOWER
+msgctxt "DESC:RADARLOCKSPECIALPOWER"
+msgid "导弹可以三连发，就是发射前锁定目标比较花时间。"
+msgstr "Fires three missiles at once, but requires additional lock-on time."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDENGINEER
+msgctxt "TYPE:ALLIEDENGINEER"
+msgid "战地支援/黑客"
+msgstr "Field Support / Hacker"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDINFILTRATIONINFANTRY
+msgctxt "TYPE:ALLIEDINFILTRATIONINFANTRY"
+msgid "渗透者/探测隐形"
+msgstr "Infiltrator / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:AlliedInfiltrationInfantryIce
+msgctxt "NAME:AlliedInfiltrationInfantryIce"
+msgid "游说者"
+msgstr "Canvasser"
+
+#. New in Armor Rush
+#: TYPE:AlliedInfiltrationInfantryIce
+msgctxt "TYPE:AlliedInfiltrationInfantryIce"
+msgid "倒戈/渗透者"
+msgstr "Enemy Converter / Infiltrator"
+
+#. New in Armor Rush
+#: DESC:AlliedInfiltrationInfantryIce
+msgctxt "DESC:AlliedInfiltrationInfantryIce"
+msgid "无武装而又危险的游说者，能诱使敌方军队倒戈，加入资本主义阵营。"
+msgstr ""
+"Unarmed-and-dangerous saboteurs that can convert enemy forces to your own and infiltrate "
+"enemy buildings."
+
+#. New in Armor Rush
+#: NAME:CapitalismIsGood
+msgctxt "NAME:CapitalismIsGood"
+msgid "和平演变"
+msgstr "Convert Enemy"
+
+#. New in Armor Rush
+#: TYPE:CapitalismIsGood
+msgctxt "TYPE:CapitalismIsGood"
+msgid "倒戈敌军"
+msgstr "Convert Enemy"
+
+#. New in Armor Rush
+#: DESC:CapitalismIsGood
+msgctxt "DESC:CapitalismIsGood"
+msgid "游说者对敌人进行洗脑，并将其倒戈。"
+msgstr "Convince an enemy unit to join the Allied cause, without additional cost."
+
+#. New in Armor Rush
+#: NAME:AlliedLegionnaireInfantry
+msgctxt "NAME:AlliedLegionnaireInfantry"
+msgid "超时空军团兵"
+msgstr "Chrono Legionnaire"
+
+#. New in Armor Rush
+#: TYPE:AlliedLegionnaireInfantry
+msgctxt "TYPE:AlliedLegionnaireInfantry"
+msgid "先进支援"
+msgstr "Advanced Anti-Surface"
+
+#. New in Armor Rush
+#: DESC:AlliedLegionnaireInfantry
+msgctxt "DESC:AlliedLegionnaireInfantry"
+msgid "涅墨西斯麾下的这种强大的步兵军团能使用其超时空武器将敌人传送至虚空。"
+msgstr ""
+"High-Tech NEMESIS soldiers armed with special chrono weaponry that completely erase "
+"enemy units from the timeline."
+
+#. New in Armor Rush
+#: NAME:CryoLeapSpecialPower
+msgctxt "NAME:CryoLeapSpecialPower"
+msgid "喷射背包"
+msgstr "Jetpack Boost"
+
+#. New in Armor Rush
+#: DESC:CryoLeapSpecialPower
+msgctxt "DESC:CryoLeapSpecialPower"
+msgid "喷出强大的气流，让超时空军团兵跳至空中，重重的落下给敌人致命一击。"
+msgstr ""
+"Launches the Chrono Legionnaire into the air, then crashes them into the ground. Causes "
+"damage and knockback to nearby enemy infantry."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDCOMMANDOTECH1
+msgctxt "TYPE:ALLIEDCOMMANDOTECH1"
+msgid "特种兵/探测隐形"
+msgstr "Commando / Detects Stealth"
+
+# ## Non Infantry ##
+#. New in Armor Rush
+#: NAME:AlliedMinerIce
+msgctxt "NAME:AlliedMinerIce"
+msgid "得墨忒耳采集车"
+msgstr "Demeter"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDANTIGROUNDAIRCRAFT
+msgctxt "DESC:ALLIEDANTIGROUNDAIRCRAFT"
+msgid "坚固的近距离支援战机，擅长对敌人地面部队进行战术打击，或更换弹药后进行对潜攻击。"
+msgstr ""
+"Tough close-support aircraft that excel at tactical strikes against enemy ground forces "
+"or submerged units."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDANTIGROUNDAIRCRAFT
+msgctxt "TYPE:ALLIEDANTIGROUNDAIRCRAFT"
+msgid "对地/反潜轰炸机"
+msgstr "Anti-Surface / Anti-Sub Bomber"
+
+#. New in Armor Rush
+#: NAME:SwitchVindicatorWeapon
+msgctxt "NAME:SwitchVindicatorWeapon"
+msgid "更换弹药"
+msgstr "Change Ammunition"
+
+#. New in Armor Rush
+#: TYPE:SwitchVindicatorWeapon
+msgctxt "TYPE:SwitchVindicatorWeapon"
+msgid "目前状态：对地模式"
+msgstr "Current Weapon: Laser-Guided Bombs"
+
+#. New in Armor Rush
+#: DESC:SwitchVindicatorWeapon
+msgctxt "DESC:SwitchVindicatorWeapon"
+msgid "将维和轰炸机的载弹换为反潜导弹，这需要花费一些时间。"
+msgstr "Rearm all Vindicators landed here with anti-submarine missiles."
+
+#. New in Armor Rush
+#: TYPE:SwitchVindicatorWeaponOff
+msgctxt "TYPE:SwitchVindicatorWeaponOff"
+msgid "目前状态：反潜模式"
+msgstr "Current Weapon: Anti-Submarine Missiles"
+
+#. New in Armor Rush
+#: DESC:SwitchVindicatorWeaponOff
+msgctxt "DESC:SwitchVindicatorWeaponOff"
+msgid "将维和轰炸机的载弹换回对地导弹，这需要花费一些时间。"
+msgstr "Rearm all Vindicators landed here with laser-guided bombs."
+
+#. New in Armor Rush
+#: NAME:AlliedAntiGroundAircraftIce
+msgctxt "NAME:AlliedAntiGroundAircraftIce"
+msgid "玻瑞阿斯封冻机"
+msgstr "Boreas"
+
+#. New in Armor Rush
+#: TYPE:AlliedAntiGroundAircraftIce
+msgctxt "TYPE:AlliedAntiGroundAircraftIce"
+msgid "支援轰炸机"
+msgstr "Support Bomber"
+
+#. New in Armor Rush
+#: DESC:AlliedAntiGroundAircraftIce
+msgctxt "DESC:AlliedAntiGroundAircraftIce"
+msgid "涅墨西斯与盟军本部协商而来的支援配备，安装有其先进的冰霜炸弹，能进行支援攻击。"
+msgstr ""
+"Sturdy close-support bombers armed with laser-guided frost bombs which can freeze "
+"targets."
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceHeli
+msgctxt "NAME:AlliedAirForceHeli"
+msgid "夜莺直升机"
+msgstr "Nightingale"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceHeli
+msgctxt "TYPE:AlliedAirForceHeli"
+msgid "多用途直升机"
+msgstr "Anti-Surface Air Transport"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceHeli
+msgctxt "DESC:AlliedAirForceHeli"
+msgid "搭载着机炮和榴弹的小型直升机，可以运载步兵部队到战斗的第一线。"
+msgstr ""
+"Light helicopters equipped with cannons and grenades which can transport infantry units "
+"to the frontline."
+
+#. New in Armor Rush
+#: NAME:AbilityEvacuateHeli
+msgctxt "NAME:AbilityEvacuateHeli"
+msgid "卸载"
+msgstr "Evacuate Passengers"
+
+#. New in Armor Rush
+#: DESC:AbilityEvacuateHeli
+msgctxt "DESC:AbilityEvacuateHeli"
+msgid "送下夜莺直升机中的乘客，让他们继续战斗。"
+msgstr "Drops off all infantry units riding in the transport."
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceA10
+msgctxt "NAME:AlliedAirForceA10"
+msgid "瓦尔基里"
+msgstr "Valkyrie"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceA10
+msgctxt "TYPE:AlliedAirForceA10"
+msgid "高级攻击机"
+msgstr "Advanced Anti-Surface Aircraft"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceA10
+msgctxt "DESC:AlliedAirForceA10"
+msgid "挂载着四发先进反坦克导弹的对地攻击机，实验性的跃迁引擎使其可以瞬间横跨战场。"
+msgstr ""
+"Well-armed ground attack aircraft equipped with anti-tank missiles and warp engines."
+
+#. New in Armor Rush
+#: NAME:StratoFighter
+msgctxt "NAME:StratoFighter"
+msgid "曲率驱动"
+msgstr "Activate Warp Engine"
+
+#. New in Armor Rush
+#: DESC:StratoFighter
+msgctxt "DESC:StratoFighter"
+msgid "启动瓦尔基里的跃迁引擎，进入曲速状态，传送到战场的任意位置！"
+msgstr "Warps the Valkyrie to any other position on the battlefield."
+
+#. New in Armor Rush
+#: NAME:AlliedBomberAircraftAirForce
+msgctxt "NAME:AlliedBomberAircraftAirForce"
+msgid "千年轰炸机"
+msgstr "Millennium Bomber"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDBOMBERAIRCRAFT
+msgctxt "TYPE:ALLIEDBOMBERAIRCRAFT"
+msgid "重型轰炸机"
+msgstr "Superheavy Bomber"
+
+#. New in Armor Rush
+#: DESC:AlliedBomberAircraftAF
+msgctxt "DESC:AlliedBomberAircraftAF"
+msgid "威猛的重型轰炸机，可以释放干扰弹以突破敌人密集的防空火力。"
+msgstr ""
+"Grand, heavily-armoured aircraft which carpet-bombs enemy bases. Drops nukes at Heroic "
+"veterancy. Equipped with to counter enemy AA."
+
+#. New in Armor Rush
+#: NAME:Flare
+msgctxt "NAME:Flare"
+msgid "释放干扰弹"
+msgstr "Chaff Countermeasures"
+
+#. New in Armor Rush
+#: DESC:Flare
+msgctxt "DESC:Flare"
+msgid "最新研制的先进干扰弹会干扰敌人的火控系统，从而确保机舱里的礼物能平稳的送给敌人。"
+msgstr ""
+"Release chaffs which divert all enemy AA fire away from the bomber for a short period of "
+"time."
+
+#. New in Armor Rush
+#: NAME:AlliedBomberAircraftIce
+msgctxt "NAME:AlliedBomberAircraftIce"
+msgid "阿刻罗俄斯运输机"
+msgstr "Achelous Transport"
+
+#. New in Armor Rush
+#: TYPE:AlliedBomberAircraftIce
+msgctxt "TYPE:AlliedBomberAircraftIce"
+msgid "运输机"
+msgstr "Heavy Troop Carrier"
+
+#. New in Armor Rush
+#: DESC:AlliedBomberAircraftIce
+msgctxt "DESC:AlliedBomberAircraftIce"
+msgid "快速的重型运输机，可以快速部署大量兵力。"
+msgstr ""
+"Fast, heavy-duty transport aircraft that can quickly deploy large numbers of troops. "
+"Also equipped with guided missiles."
+
+#. New in Armor Rush
+#: NAME:AlliedFighterAircraftAirForce
+msgctxt "NAME:AlliedFighterAircraftAirForce"
+msgid "阿波罗C战斗机"
+msgstr "Apollo-C Fighter"
+
+#. New in Armor Rush
+#: DESC:AlliedFighterAircraftAirForce
+msgctxt "DESC:AlliedFighterAircraftAirForce"
+msgid "相较同型产品改进后的超高速空优喷气机，火力迅猛的武器可以把敌机撕成碎片。"
+msgstr ""
+"Upgraded model of the Apollo Fighter used by Allied forces, capable of shredding enemy "
+"aircraft in seconds."
+
+#. New in Armor Rush
+#: TYPE:GunshipRadar
+msgctxt "TYPE:GunshipRadar"
+msgid "雷达/探测隐形"
+msgstr "Radar Support / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:AlliedGunshipAircraft
+msgctxt "NAME:AlliedGunshipAircraft"
+msgid "先锋武装炮艇机"
+msgstr "Harbinger Gunship"
+
+#. New in Armor Rush
+#: TYPE:AlliedGunshipAircraft
+msgctxt "TYPE:AlliedGunshipAircraft"
+msgid "重型空中火力平台/探测隐形"
+msgstr "Ultraheavy Gunship / Detects Stealth"
+
+#. New in Armor Rush
+#: DESC:AlliedGunshipAircraft
+#, fuzzy
+msgctxt "DESC:AlliedGunshipAircraft"
+msgid ""
+"鹰眼本部开发出的一款空中火力平台，它令人胆寒的武装可以持续为鹰眼地面部队提供保障。由于并"
+"不受传统军事理论重视，仅有有限的产量，其在战场上的投入受限。"
+msgstr ""
+"An aerial firepower platform developed by the Hawkeye headquarters, its frightening "
+"armament can continue to provide protection for the Hawkeye ground forces. Because it is "
+"not valued by traditional military theory, it has only a limited output and its "
+"investment on the battlefield is limited.\n"
+"\n"
+"\n"
+"Hawkeye has developed an aerial fire-fighting platform that can sustain the protection "
+"of Hawkeye ground troops. Because it is not valued by traditional military theory, only "
+"limited production, its investment in the battlefield is limited."
+
+#. New in Armor Rush
+#: NAME:GunshipShield
+msgctxt "NAME:GunshipShield"
+msgid "启动阻尼力场"
+msgstr "Damping Field"
+
+#. New in Armor Rush
+#: DESC:GunshipShield
+msgctxt "DESC:GunshipShield"
+msgid ""
+"开启实验型阻尼力场，能极大降低机体受到的物理伤害，但由于功率过大不得不关闭主要武器。"
+msgstr ""
+"Activates the Harbinger's damping field, which greatly increases damage reduction. The "
+"gunship's weapons are disabled while the field is active."
+
+#. New in Armor Rush
+#: DESC:AlliedSupportAircraftAirForce
+msgctxt "DESC:AlliedSupportAircraftAirForce"
+msgid "高科技直升机，可以使用冰冻敌人或放大友军的手段来制止危险情况。"
+msgstr ""
+"High-tech helicopters capable of freezing or shrinking enemy forces, or magnifying "
+"friendly units."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDSUPPORTAIRCRAFT
+msgctxt "TYPE:ALLIEDSUPPORTAIRCRAFT"
+msgid "特种武器支援/探测隐形"
+msgstr "Special Weapon Support / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:SpecialPowerShrinkRayBIG
+msgctxt "NAME:SpecialPowerShrinkRayBIG"
+msgid "缩放光线"
+msgstr "Magnification Beam"
+
+#. New in Armor Rush
+#: DESCRIPTION:SpecialPowerShrinkRayBIG
+msgctxt "DESCRIPTION:SpecialPowerShrinkRayBIG"
+msgid ""
+"把友方地面单位放大到一个令人尴尬而又火力超群但又爬得很慢的尺寸或者把敌方地面单位缩小到一"
+"个令人郁闷而又容易被碾爆但又跑的飞快的尺寸。"
+msgstr ""
+"Magnify friendly ground units to a slow, overwhelmingly large size with greater "
+"firepower, or shrink enemy ground units to an embarrassingly small size that is easily "
+"crushed but fast."
+
+#. New in Armor Rush
+#: NAME:AlliedSupportAircraftIce
+msgctxt "NAME:AlliedSupportAircraftIce"
+msgid "塞勒涅直升机"
+msgstr "Selene"
+
+#. New in Armor Rush
+#: NAME:AlliedAttackDrone
+msgctxt "NAME:AlliedAttackDrone"
+msgid "天空骑士"
+msgstr "Sky Knight"
+
+#. New in Armor Rush
+#: TYPE:AlliedAttackDrone
+msgctxt "TYPE:AlliedAttackDrone"
+msgid "舰载无人机"
+msgstr "Unmanned Attack Drone"
+
+#. New in Armor Rush
+#. NOTE: Allies Aircraft Carrier drone
+#: DESC:AlliedAttackDrone
+#, fuzzy
+msgctxt "DESC:AlliedAttackDrone"
+msgid "由德国工程师设计的小型舰载无人机，多用途挂点使其能够装配航空炸弹或者空对空导弹。"
+msgstr ""
+"A small ship-based UAV designed by a German engineer with a multi-purpose attachment "
+"point to enable it to assemble aerial bombs or air-to-air missiles.\n"
+"\n"
+"\n"
+"A small ship-borne drone designed by German engineers with multi-purpose mounts that "
+"allow it to be equipped with aerial bombs or air-to-air missiles."
+
+#. New in Armor Rush
+#: NAME:AlliedBossGunshipAircraft
+msgctxt "NAME:AlliedBossGunshipAircraft"
+msgid "UNKNOWN #59"
+msgstr "Unknown Flying Fortress"
+
+#. New in Armor Rush
+#: TYPE:AlliedBossGunshipAircraft
+msgctxt "TYPE:AlliedBossGunshipAircraft"
+msgid "？？？/？？？"
+msgstr "Unknown Type"
+
+#. New in Armor Rush
+#: DESC:AlliedBossGunshipAircraft
+msgctxt "DESC:AlliedBossGunshipAircraft"
+msgid "侦测器无法识别这座神秘的空中要塞上搭载的武器与装置。"
+msgstr ""
+"The weapons and devices on this mysterious flying fortress cannot be identified by "
+"scanners."
+
+#. New in Armor Rush
+#: UPGRADENAME:AlliedCrystalLatticeShield
+msgctxt "UPGRADENAME:AlliedCrystalLatticeShield"
+msgid "力场装甲"
+msgstr "Force Field Armour"
+
+#. New in Armor Rush
+#: UPGRADETYPE:AlliedCrystalLatticeShield
+msgctxt "UPGRADETYPE:AlliedCrystalLatticeShield"
+msgid "防御升级"
+msgstr "Defense Upgrade"
+
+#. New in Armor Rush
+#. NOTE: Upgrade on the spectrum tower
+#: DESCRIPTION:AlliedCrystalLatticeShield
+#, fuzzy
+msgctxt "DESCRIPTION:AlliedCrystalLatticeShield"
+msgid ""
+"搭载新近研究的力场产生装置，为光谱塔的装甲层提供特殊力场保护。\n"
+"\n"
+">>防御升级\n"
+"     光谱塔\n"
+"\n"
+"     血量+50%，视觉效果升级\n"
+"\n"
+"开始升级>>"
+msgstr ""
+"It is equipped with a newly researched force field generating device to provide special "
+"force field protection for the armor layer of the spectrum tower.\n"
+"\n"
+">> Defense Upgrade\n"
+"      Spectrum Tower\n"
+"\n"
+"      HP +50%, visual effects upgraded\n"
+"\n"
+"Start upgrading >>\n"
+"\n"
+"\n"
+"Equipped with the newly studied force field generation device, it provides special force "
+"field protection for the armored layer of the spectral tower.\n"
+"\n"
+">> defense upgrade.\n"
+"     Spectral tower.\n"
+"\n"
+"Blood volume plus 50%, visual effects upgrade.\n"
+"\n"
+"Start upgrading >>."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDANTINAVALSCOUT
+msgctxt "TYPE:ALLIEDANTINAVALSCOUT"
+msgid "反舰侦察兵/探测隐形"
+msgstr "Anti-Ship Scout / Detects Stealth"
+
+#. New in Armor Rush
+#: NAME:ALLIEDANTIAIRSHIPAIRFORCE
+msgctxt "NAME:ALLIEDANTIAIRSHIPAIRFORCE"
+msgid "水翼船"
+msgstr "Light Hydrofoil"
+
+#. New in Armor Rush
+#: TYPE:AlliedAntiAirShipAirForce
+msgctxt "TYPE:AlliedAntiAirShipAirForce"
+msgid "防空船"
+msgstr "Anti-Aircraft Ship"
+
+#. New in Armor Rush
+#: DESC:ALLIEDANTIAIRSHIPAIRFORCE
+msgctxt "DESC:ALLIEDANTIAIRSHIPAIRFORCE"
+msgid ""
+"专职消除空中威胁的高速轻型巡逻艇，是未来科技公司提供干扰仪技术之前老式却便宜的版本。"
+msgstr ""
+"High-speed light patrol boats dedicated to eliminating aerial threats. Lighter and "
+"cheaper than Allied Hydrofoils."
+
+#. New in Armor Rush
+#: NAME:AlliedAntiAirShipIce
+msgctxt "NAME:AlliedAntiAirShipIce"
+msgid "欧诺弥亚水翼船"
+msgstr "Eunomia"
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDANTINAVYSHIPTECH1
+msgctxt "TYPE:ALLIEDANTINAVYSHIPTECH1"
+msgid "舰队支援/探测隐形"
+msgstr "Advanced Anti-Armor / Detects Stealth"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDANTINAVYSHIPTECH1
+msgctxt "DESC:ALLIEDANTINAVYSHIPTECH1"
+msgid "先进的战舰，在反潜方面有最先进的装备。"
+msgstr ""
+"Massive, state-of-the-art vessels that can take plenty of punishment and are equipped "
+"with anti-submarine Sky Knights."
+
+#. New in Armor Rush
+#: NAME:SmokeGenerator
+msgctxt "NAME:SmokeGenerator"
+msgid "发烟机"
+msgstr "Smoke Generator"
+
+#. New in Armor Rush
+#: DESC:SmokeGenerator
+msgctxt "DESC:SmokeGenerator"
+msgid "释放烟雾，隐藏所有东西，并在烟雾里打击敌人。烟雾内友军能获得防御加成。"
+msgstr ""
+"Releases a cloud of smoke around the Assault Destroyer. Allied units within the smoke "
+"receive a defensive boost."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDANTISTRUCTURESHIP
+msgctxt "TYPE:ALLIEDANTISTRUCTURESHIP"
+msgid "远程轰炸支援"
+msgstr "Aircraft Carrier"
+
+#. New in Armor Rush
+#: NAME:AlliedAntiStructureShipIce
+msgctxt "NAME:AlliedAntiStructureShipIce"
+msgid "波塞冬母舰"
+msgstr "Poseidon"
+
+#. New in Armor Rush
+#: NAME:AlliedAntiInfantryVehicleIce
+msgctxt "NAME:AlliedAntiInfantryVehicleIce"
+msgid "赫尔墨斯气垫船"
+msgstr "Hermes ACV"
+
+#. New in Armor Rush
+#: NAME:AlliedAntiAirVehicleTech1Ice
+msgctxt "NAME:AlliedAntiAirVehicleTech1Ice"
+msgid "维纳斯步兵车"
+msgstr "Venus IFV"
+
+#. Modified existing RA3 String
+#: DESC:ALLIEDANTIVEHICLEVEHICLETECH1
+#, fuzzy
+msgctxt "DESC:ALLIEDANTIVEHICLEVEHICLETECH1"
+msgid ""
+"结实的主战坦克，能够有效击退敌人装甲部队和标记出敌人弱点。\n"
+"\n"
+"——英雄级特效：可造成光谱伤害的激光标识器"
+msgstr ""
+"The sturdy main battle tank can effectively repel the enemy's armored forces and mark "
+"the enemy's weaknesses.\n"
+"\n"
+"——Hero-level special effects: laser markers that can cause spectral damage\n"
+"\n"
+"\n"
+"A solid main battle tank that effectively repels enemy armored units and marks enemy "
+"weaknesses.\n"
+"\n"
+"Hero effects: A laser marker that can cause spectral damage."
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceAntiVehicleVehicleTech2
+msgctxt "NAME:AlliedAirForceAntiVehicleVehicleTech2"
+msgid "骑空士坦克"
+msgstr "Skyfarer Tank"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceAntiVehicleVehicleTech2
+msgctxt "DESC:AlliedAirForceAntiVehicleVehicleTech2"
+msgid ""
+"为适应未来战场环境而列装的先进主战坦克，较旧型坦克拥有更强的火力与更结实的装甲。可使用神"
+"秘的幻象生成器迷惑敌人。"
+msgstr ""
+"Stalwart combat tanks that can effectively repel enemy armor and generate decoys of "
+"itself. More powerful and stronger than the Guardian."
+
+#. New in Armor Rush
+#: NAME:PhantomGeneratorSpecialPower
+msgctxt "NAME:PhantomGeneratorSpecialPower"
+msgid "幻象发生器"
+msgstr "Decoy Generator"
+
+#. New in Armor Rush
+#: DESC:PhantomGeneratorSpecialPower
+msgctxt "DESC:PhantomGeneratorSpecialPower"
+msgid ""
+"通过结合运用在幻影坦克上的技术，骑空士坦克可以生成本车的光学幻象，干扰敌军侦测系统。"
+msgstr ""
+"Creates a holographic decoy of the Skyfarer tank, which can be used to draw enemy fire."
+
+#. New in Armor Rush
+#: NAME:AlliedRobotTank
+msgctxt "NAME:AlliedRobotTank"
+msgid "涅普顿战车"
+msgstr "Neptune"
+
+#. New in Armor Rush
+#: TYPE:AlliedRobotTank
+msgctxt "TYPE:AlliedRobotTank"
+msgid "反装甲/反潜/探测隐形"
+msgstr "Anti-Armor / Anti-Sub / Detects Stealth"
+
+#. New in Armor Rush, NOTE: See AlliedNonUnits: NEMESIS Outpost descriptions
+#: DESC:AlliedRobotTank
+msgctxt "DESC:AlliedRobotTank"
+msgid ""
+"涅普顿战车是涅墨西斯防御框架里的新型产品，配备有自动装弹机和反潜导弹。需要控制中心的支"
+"持。"
+msgstr ""
+"New products in the NEMESIS defense framework, Neptune hovertanks are additionally "
+"equipped with anti-submarine missiles. They require support from a Control Centre."
+
+#. New in Armor Rush
+#: NAME:AntiSubMode
+msgctxt "NAME:AntiSubMode"
+msgid "反潜模式"
+msgstr "Anti-Submarine Mode"
+
+#. New in Armor Rush
+#: DESC:AntiSubMode
+msgctxt "DESC:AntiSubMode"
+msgid "将涅普顿坦克切换为反潜模式，使用导弹攻击敌方潜艇。此模式下主炮将不能开火。"
+msgstr ""
+"Switches to the Neptune tank's anti-submarine missiles, which are highly effective "
+"against submerged units."
+
+#. New in Armor Rush
+#: NAME:AntiSubModeOff
+msgctxt "NAME:AntiSubModeOff"
+msgid "自动主炮"
+msgstr "Anti-Ground Mode"
+
+#. New in Armor Rush
+#: DESC:AntiSubModeOff
+msgctxt "DESC:AntiSubModeOff"
+msgid "切换自动主炮，反制装甲单位。此模式下反潜导弹将不能开火。"
+msgstr ""
+"Switches to the Neptune tank's autocannon, which is highly effective against enemy armor."
+
+#. Modified existing RA3 String
+#: TYPE:ALLIEDANTISTRUCTUREVEHICLE
+msgctxt "TYPE:ALLIEDANTISTRUCTUREVEHICLE"
+msgid "先进支援炮兵"
+msgstr "Heavy Bombardment"
+
+#. New in Armor Rush
+#: NAME:ActivateLongRangeTargetPainter
+msgctxt "NAME:ActivateLongRangeTargetPainter"
+msgid "目标指示器"
+msgstr "Target Painter"
+
+#. New in Armor Rush
+#: NAME:ActivateLongRangeTargetPainterOff
+msgctxt "NAME:ActivateLongRangeTargetPainterOff"
+msgid "热能卫星指示器"
+msgstr "Orbital Cannon Designator"
+
+#. New in Armor Rush
+#: DESC:ActivateLongRangeTargetPainter
+msgctxt "DESC:ActivateLongRangeTargetPainter"
+msgid "切换使用目标指示器，让敌人受到我方炮火更多的伤害。"
+msgstr ""
+"Switches to a long-ranged targeting laser that makes enemies much more vulnerable to "
+"attack."
+
+#. New in Armor Rush
+#: DESC:ActivateLongRangeTargetPainterOff
+msgctxt "DESC:ActivateLongRangeTargetPainterOff"
+msgid "切换卫星指示器，连接热能武器卫星，烧毁目标！"
+msgstr ""
+"Switches to the Athena's cannon designator, which marks targets for an orbiting beam "
+"cannon to fire at."
+
+#. New in Armor Rush
+#. NOTE: HawkEye's shield-only vehicle
+#: NAME:AlliedAirForceShieldVehicle
+msgctxt "NAME:AlliedAirForceShieldVehicle"
+msgid "埃癸斯护盾搭载车"
+msgstr "Aegis Shield"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceShieldVehicle
+#, fuzzy
+msgctxt "TYPE:AlliedAirForceShieldVehicle"
+msgid "战场支援"
+msgstr "Battlefield support"
+
+#. New in Armor Rush
+#: NAME:PlayerPowerCryoSatelliteLvl2Athena
+msgctxt "NAME:PlayerPowerCryoSatelliteLvl2Athena"
+msgid "切换冰冻卫星"
+msgstr "Satellite Cyrobeam"
+
+#. New in Armor Rush
+#: DESC:PlayerPowerCryoSatelliteLvl2Athena
+msgctxt "DESC:PlayerPowerCryoSatelliteLvl2Athena"
+msgid "连接改装型冰冻卫星，冻住目标！"
+msgstr "Marks a target for freezing via an orbital satellite!"
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceAntiStructureVehicle
+msgctxt "NAME:AlliedAirForceAntiStructureVehicle"
+msgid "碧蓝航台"
+msgstr "Azur Drone Platform"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceAntiStructureVehicle
+#, fuzzy
+msgctxt "TYPE:AlliedAirForceAntiStructureVehicle"
+msgid "无人机支援平台"
+msgstr "Drone support platform"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceAntiStructureVehicle
+msgctxt "DESC:AlliedAirForceAntiStructureVehicle"
+msgid ""
+"雅典娜卫星系统的意外产物，在指挥特殊的无人机执行精确轰炸的同时还能展开巨大的护盾保护友"
+"军。"
+msgstr "Artillery vehicles which deploy special drones for long-range bombardment."
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceBomberDrone
+msgctxt "NAME:AlliedAirForceBomberDrone"
+msgid "树雀无人机"
+msgstr "Woodpecker Drone"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceBomberDrone
+msgctxt "TYPE:AlliedAirForceBomberDrone"
+msgid "轰炸无人机"
+msgstr "Bomber Drone"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceBomberDrone
+msgctxt "DESC:AlliedAirForceBomberDrone"
+msgid "由鹰眼本部独立设计的轻型无人机，携带的激光制导炸弹能造成巨大的破坏。"
+msgstr ""
+"Light drones deployed from Azur platforms , which carry laser-guided bombs that cause "
+"huge damage from afar. Vulnerable to AA."
+
+#. New in Armor Rush
+#: NAME:AlliedArtilleryVehicle
+msgctxt "NAME:AlliedArtilleryVehicle"
+msgid "阿瑞斯毁灭者"
+msgstr "Ares FAV"
+
+#. New in Armor Rush
+#: TYPE:AlliedArtilleryVehicle
+msgctxt "TYPE:AlliedArtilleryVehicle"
+msgid "重型火炮"
+msgstr "Advanced Heavy Bombardment"
+
+#. New in Armor Rush
+#: DESC:AlliedArtilleryVehicle
+msgctxt "DESC:AlliedArtilleryVehicle"
+msgid "强大的阿瑞斯火炮能让被轰炸区域寸草不生，它还能收起并渡过海洋。"
+msgstr ""
+"Absolute hell rains down once these field artillery vehicles unpack their Grand Cannons."
+
+#. New in Armor Rush
+#: NAME:ToggleAlliedArtilleryAutoCannon
+msgctxt "NAME:ToggleAlliedArtilleryAutoCannon"
+msgid "转移模式"
+msgstr "Pack Up Artillery"
+
+#. New in Armor Rush
+#: DESC:ToggleAlliedArtilleryAutoCannon
+msgctxt "DESC:ToggleAlliedArtilleryAutoCannon"
+msgid "收起火炮，展开自卫系统，此模式下可移动。"
+msgstr ""
+"Detaches from the ground, retracts the Grand Cannons and readies two 7.62mm miniguns."
+
+#. New in Armor Rush
+#: NAME:ToggleAlliedArtillerySiegeWeapon
+msgctxt "NAME:ToggleAlliedArtillerySiegeWeapon"
+msgid "部署"
+msgstr "Unpack Artillery"
+
+#. New in Armor Rush
+#: DESC:ToggleAlliedArtillerySiegeWeapon
+msgctxt "DESC:ToggleAlliedArtillerySiegeWeapon"
+msgid "部署阿瑞斯火炮，展开炮管，对目标区域进行轰炸。"
+msgstr "Plants the Ares into the ground so that it can use its long-range cannons."
+
+#. Modified existing RA3 String [Suggestion: Advanced Strike Tank, like in original RA3]
+#: TYPE:ALLIEDANTIVEHICLEVEHICLETECH3
+msgctxt "TYPE:ALLIEDANTIVEHICLEVEHICLETECH3"
+msgid "先进伏击坦克"
+msgstr "Advanced Strike Tank"
+
+#. Modified existing RA3 String
+#: DESC:ACTIVATEMIRAGEFIELD
+msgctxt "DESC:ACTIVATEMIRAGEFIELD"
+msgid "建立一个伪装力场隐藏友军单位和建筑。不能隐藏自己，也不能在此模式下开火。"
+msgstr ""
+"Projects a camo field that cloaks friendly units. Cannot self-disguise or fire in this "
+"mode."
+
+#. New in Armor Rush
+#: NAME:AlliedAirForceAntiVehicleVehicleTech3
+msgctxt "NAME:AlliedAirForceAntiVehicleVehicleTech3"
+msgid "幻影突击炮"
+msgstr "Phantom Tank"
+
+#. New in Armor Rush
+#: TYPE:AlliedAirForceAntiVehicleVehicleTech3
+msgctxt "TYPE:AlliedAirForceAntiVehicleVehicleTech3"
+msgid "实验级武器验证/先进反装甲坦克"
+msgstr "Advanced Strike Tank"
+
+#. New in Armor Rush
+#: DESC:AlliedAirForceAntiVehicleVehicleTech3
+msgctxt "DESC:AlliedAirForceAntiVehicleVehicleTech3"
+msgid "由鹰眼最尖端科技改造的过渡型号幻影坦克，能轻松应付大部分装甲单位。"
+msgstr ""
+"Hawkeye's variants of the Mirage tank which are capable of easily tackling most enemy "
+"armored units."
+
+#. New in Armor Rush
+#: NAME:AlliedFutureTank
+msgctxt "NAME:AlliedFutureTank"
+msgid "UNKNOWN #1"
+msgstr "Unknown Super Tank"
+
+#. New in Armor Rush
+#: TYPE:AlliedFutureTank
+msgctxt "TYPE:AlliedFutureTank"
+msgid "？？？/？？？"
+msgstr "Unknown Type"
+
+#. New in Armor Rush
+#: DESC:AlliedFutureTank
+msgctxt "DESC:AlliedFutureTank"
+msgid "我们无法获知该单位的具体信息"
+msgstr ""
+"The weapons and devices on this mysterious super tank cannot be identified by scanners."
+
+#. New in Armor Rush
+#: NAME:AlliedEngineerZombie
+#, fuzzy
+msgctxt "NAME:AlliedEngineerZombie"
+msgid "受感染的工程师"
+msgstr "Infected Engineer"
+
+#. New in Armor Rush
+#: NAME:AlliedAntiInfantryZombie
+#, fuzzy
+msgctxt "NAME:AlliedAntiInfantryZombie"
+msgid "受感染的维和步兵"
+msgstr "Infected Peacekeeping Infantry"
+
+#. New in Armor Rush
+#: NAME:AlliedInfiltrationZombie
+#, fuzzy
+msgctxt "NAME:AlliedInfiltrationZombie"
+msgid "受感染的间谍"
+msgstr "Infected Spy"
+
+#. New in Armor Rush
+#: NAME:AlliedIceAntiVehicleVehicleTech4
+#, fuzzy
+msgctxt "NAME:AlliedIceAntiVehicleVehicleTech4"
+msgid "普鲁托坦克"
+msgstr ""
+"Pluto Tank\n"
+"\n"
+"\n"
+"Pruto tank."
+
+#. New in Armor Rush
+#: DESC:AlliedIceAntiVehicleVehicleTech4
+#, fuzzy
+msgctxt "DESC:AlliedIceAntiVehicleVehicleTech4"
+msgid "被涅墨西斯纳入智能单位体系的改装型坦克，即便冲入核废墟当中也能平安无事。"
+msgstr ""
+"The modified tank that was incorporated into the intelligent unit system by Nemesis can "
+"be safe even if it rushes into the nuclear ruins.\n"
+"\n"
+"\n"
+"The modified tanks, incorporated into the intelligent unit system by Nemesis, are safe "
+"even when they are washed into the nuclear ruins."
+
+#. New in Armor Rush
+#: NAME:AlliedAntiVehicleVehicleTech4
+#, fuzzy
+msgctxt "NAME:AlliedAntiVehicleVehicleTech4"
+msgid "哈迪斯坦克"
+msgstr "Hardy Tank"
+
+#. New in Armor Rush
+#: TYPE:AlliedAntiVehicleVehicleTech4
+#, fuzzy
+msgctxt "TYPE:AlliedAntiVehicleVehicleTech4"
+msgid "超重型坦克"
+msgstr ""
+"Super heavy tank\n"
+"\n"
+"\n"
+"Ultra-heavy tanks."
+
+#. New in Armor Rush
+#: DESC:AlliedAntiVehicleVehicleTech4
+#, fuzzy
+msgctxt "DESC:AlliedAntiVehicleVehicleTech4"
+msgid ""
+"为应对苏联核威胁而匆忙开发的超重型坦克，在其厚重的装甲上装着一大堆改进型武器，配备有力场"
+"装甲以对付强辐射源。"
+msgstr ""
+"The super-heavy tank, which was hurriedly developed in response to the Soviet nuclear "
+"threat, is equipped with a large number of improved weapons on its heavy armor and is "
+"equipped with force field armor to deal with strong radiation sources.\n"
+"\n"
+"\n"
+"The super-heavy tanks, hastily developed in response to the Soviet nuclear threat, were "
+"equipped with a large number of improved weapons on their heavy armor, equipped with "
+"powerful field armor to deal with strong radiation sources."
+
+#. New in Armor Rush
+#: NAME:AlliedIceAntiVehicleVehicleTech3
+#, fuzzy
+msgctxt "NAME:AlliedIceAntiVehicleVehicleTech3"
+msgid "赫菲斯托斯歼击车"
+msgstr "Hephaestus destroyer"
+
+#. New in Armor Rush
+#: DESC:AlliedIceAntiVehicleVehicleTech3
+#, fuzzy
+msgctxt "DESC:AlliedIceAntiVehicleVehicleTech3"
+msgid "搭载有裂缝产生器的特种坦克，拥有一对能打出一窝蜂高爆飞弹的发射器。"
+msgstr ""
+"A special tank equipped with a crack generator has a pair of launchers that can fire a "
+"swarm of high-explosive missiles.\n"
+"\n"
+"\n"
+"Special tanks equipped with crack generators, with a pair of launchers that can fire a "
+"swarm of high-explosive missiles."
+
+#. New in Armor Rush
+#: NAME:AlliedTransportShip
+#, fuzzy
+msgctxt "NAME:AlliedTransportShip"
+msgid "气垫运输艇"
+msgstr "Hovercraft"
+
+#. New in Armor Rush
+#: TYPE:AlliedTransportShip
+#, fuzzy
+msgctxt "TYPE:AlliedTransportShip"
+msgid "单位运输/登陆支援"
+msgstr "Unit transport/landing support"
+
+#. New in Armor Rush
+#: DESC:AlliedTransportShip
+#, fuzzy
+msgctxt "DESC:AlliedTransportShip"
+msgid "盟军为装载登陆部队而开发的大型气垫船，拥有灵活的登陆能力。"
+msgstr ""
+"The large hovercraft developed by the Allied Forces to load landing forces have flexible "
+"landing capabilities.\n"
+"\n"
+"\n"
+"Large hovercraft developed by the Allied forces to load landing troops have flexible "
+"landing capabilities."
+
+#. New in Armor Rush
+#: NAME:AlliedAntiShipAircraft
+#, fuzzy
+msgctxt "NAME:AlliedAntiShipAircraft"
+msgid "海燕直升机"
+msgstr "Haiyan helicopter"
+
+#. New in Armor Rush
+#: TYPE:AlliedAntiShipAircraft
+#, fuzzy
+msgctxt "TYPE:AlliedAntiShipAircraft"
+msgid "舰队支援/探测隐形"
+msgstr "Fleet support/detection stealth"
+
+#. New in Armor Rush
+#: DESC:AlliedAntiShipAircraft
+#, fuzzy
+msgctxt "DESC:AlliedAntiShipAircraft"
+msgid "由夜莺通用直升机发展而来的反潜直升机，可以使用鱼雷对水面目标和潜水单位进行轰炸。"
+msgstr ""
+"The anti-submarine helicopter developed from the Nightingale utility helicopter can use "
+"torpedoes to bomb surface targets and diving units.\n"
+"\n"
+"\n"
+"Anti-submarine helicopters, developed by nightingale general purpose helicopters, can "
+"use torpedoes to bombard surface targets and diving units."
+
+#. New in Armor Rush
+#: NAME:AlliedIceSUV
+#, fuzzy
+msgctxt "NAME:AlliedIceSUV"
+msgid "SUV"
+msgstr "SUV"
+
+#. New in Armor Rush
+#: TYPE:AlliedIceSUV
+#, fuzzy
+msgctxt "TYPE:AlliedIceSUV"
+msgid "平民载具"
+msgstr "Civilian vehicle"
+
+#. New in Armor Rush
+#: DESC:AlliedIceSUV
+#, fuzzy
+msgctxt "DESC:AlliedIceSUV"
+msgid "在全球各地都十分受欢迎的城郊实用汽车，以真皮座椅和强劲越野能力为卖点。"
+msgstr ""
+"Suburban utility vehicles, which are very popular all over the world, feature leather "
+"seats and strong off-road capabilities.\n"
+"\n"
+"\n"
+"Suburban utility cars, popular all over the world, sell leather seats and strong off-"
+"road capabilities."
+
+#. New in Armor Rush
+#: DESC:AlliedIceMiner
+#, fuzzy
+msgctxt "DESC:AlliedIceMiner"
+msgid "无武装车辆，用于采集宝贵的矿石和建立控制中心。"
+msgstr ""
+"Unarmed vehicles, used to collect valuable ore and establish control centers.\n"
+"\n"
+"\n"
+"Unarmed vehicles for collecting valuable ore and establishing control centers."
+
+#. New in Armor Rush
+#. NOTE: NEMESIS's commando
+#: NAME:AlliedIceCommandoTech2
+msgctxt "NAME:AlliedIceCommandoTech2"
+msgid "银鸥"
+msgstr "(NEMESIS's commando, ask plot writer for her name.)"
+
+#. New in Armor Rush
+#: DESC:AlliedIceCommandoTech2
+#, fuzzy
+msgctxt "DESC:AlliedIceCommandoTech2"
+msgid ""
+"涅墨西斯高科技部队的特种战士，可以用特种冰冻步枪摆平一支轻型军队，在敌人后方造成严重破"
+"坏。"
+msgstr ""
+"The special fighters of the Nemesis high-tech force can use special frozen rifles to "
+"level a light army and cause serious damage behind the enemy.\n"
+"\n"
+"\n"
+"Special fighters from the Nemesis high-tech unit can level a light army with special "
+"frozen rifles, causing serious damage behind the enemy."
+
+#. New in Armor Rush
+#: TYPE:ALLIEDANTIINFANTRYVEHICLE
+#, fuzzy
+msgctxt "TYPE:ALLIEDANTIINFANTRYVEHICLE"
+msgid "反步兵/反舰艇运兵船"
+msgstr "Anti-infantry/anti-ship troop carrier"
