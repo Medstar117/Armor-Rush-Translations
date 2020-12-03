@@ -2,3 +2,10 @@
 PoEdit Files/2-21-20_to_3-26-20/References (DO NOT TRANSLATE)/20200220_new_en_US.po
 PoEdit Files/2-21-20_to_3-26-20/References (DO NOT TRANSLATE)/20200220_removed.txt
 PoEdit Files/2-21-20_to_3-26-20/References (DO NOT TRANSLATE)/Both are added in the new .po files
+Tools/poHTML2str/data_general
+Tools/poHTML2str/data
+Tools/poHTML2str/oldhtml
+Tools/poHTML2str/legacy
+Tools/poHTML2str/Tools/STR_Fix.au3
+*.html
+*.str
